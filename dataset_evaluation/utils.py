@@ -31,5 +31,8 @@ def create_BS_lexicon(BSdir, nlp, outputdir):
 
      df_lexicon.to_csv(outputdir)
 
+def load_EN_NA_corpus():
+     pass
+
 
 

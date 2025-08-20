@@ -22,6 +22,7 @@ Here, an non-exhaustive overview is included of narrative, child-directed, and c
 | ajibawa-2023/Children-Stories-Collection | Synthetic story dataset | Yes | English | 0.9m (stories) | [Huggingface](https://huggingface.co/datasets/ajibawa-2023/Children-Stories-Collection) | 
 | deepmind/narrativeqa  | Narratives with corresponding QA questions | No | English | 14.7k (stories) | [Huggingface](https://huggingface.co/datasets/deepmind/narrativeqa) | 
 | Wikiplots | Story and movie pots extracted from Wikipedia | No | English | 100k (stories) | [Github](https://github.com/markriedl/WikiPlots) |
+| Children Stories Text Corpus | Stories from Project Gutenberg | No | English | 70 (books/stories) | [Kaggle](https://www.kaggle.com/datasets/edenbd/children-stories-text-corpus) |
 
 ## Where to get them?
 
@@ -33,4 +34,3 @@ Het Taalinstituut needs a signed license before a dataset can be downloaded. The
 
 ### Talkbank
 If you make an account for talkbank, you can click to the datasets by navigating to the browsable dataset. 
-
