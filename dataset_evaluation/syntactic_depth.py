@@ -30,6 +30,8 @@ class SyntacticDepth():
         treedepths = []
         
         for l in raw_story.splitlines():
+            if l == '':
+                continue
             treedepths.append(self._extract_treedepth_sent(l)) 
         
         return np.sum(treedepths) / len(treedepths)

@@ -60,6 +60,7 @@ class LexicalDiversity():
 
         if methods[0] == "all":
             selected = method_map.keys()
+            
         elif isinstance(methods, (list, tuple)):
             selected = methods
         else:
