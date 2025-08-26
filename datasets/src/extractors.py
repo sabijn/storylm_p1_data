@@ -1,6 +1,22 @@
 from collections import Counter
+from spacy.attrs import POS, IS_SPACE
+from typing import Dict, Tuple
 
-# ---------- Pair extractors (plug-ins) ----------
+# ---------- Unigram extractor  ----------
+
+def extract_unigrams_from_doc(doc, *, include_punct=False, include_space=False) -> Counter:
+    """
+    Returns Counter of (lemma, pos).
+    Excludes punctuation/space by default; flip flags to include them if desired.
+    """
+    bag = Counter()
+    for t in doc:
+        if (not include_space and t.is_space) or (not include_punct and t.is_punct):
+            continue
+        bag[(t.lemma_, t.pos_)] += 1   # (lemma, POS)
+    return bag
+
+# ---------- Bigram extractor  ----------
 
 def extract_bigrams_from_doc(doc) -> Counter:
     """
@@ -13,11 +29,19 @@ def extract_bigrams_from_doc(doc) -> Counter:
         bag[(toks[i].lemma_, toks[i+1].lemma_)] += 1
     return bag
 
+# ---------- Linguistically constrained bigram extractor  ----------
+
 def _collect_dep_pairs(node, bag: Counter):
     """
     Collect linguistically constrained pairs (dependent -> head), by lemma.
     Adjust rules as you like, but keep orientation consistent with your lexicon.
     """
+    # Old method
+    # if node.dep_ in ['ROOT', 'ccomp', 'xcomp', 'conj']:
+    #     for (child_dep, child) in temp.items():
+    #         if child_dep in ['nsubj', 'obj', 'cop', 'nsubj:pass'] and child.pos_ != 'PRON' and child.text != 'einde':
+    #             selected[((child.lemma_, node.lemma_), (child_dep, node.dep_))] += 1
+
     # Verbal heads: subject/object relations
     if node.pos_ in ('VERB', 'AUX'):
         for child in node.children:
@@ -43,17 +67,39 @@ def extract_dep_pairs_from_doc(doc) -> Counter:
         _collect_dep_pairs(sent.root, bag)
     return bag
 
-def extract_unigrams_from_doc(doc, *, include_punct=False, include_space=False) -> Counter:
+# ---------- POS ngram extractor  ----------
+
+def extract_pos_ngrams_from_doc(
+    doc,
+    orders: Tuple[int, ...] = (1, 2, 3),
+    *,
+    include_space: bool = False
+) -> Dict[int, Counter]:
     """
-    Returns Counter of (lemma, pos).
-    Excludes punctuation/space by default; flip flags to include them if desired.
+    Returns dict: {1: Counter[(pos,)], 2: Counter[(pos1,pos2)], 3: Counter[(pos1,pos2,pos3)], ...}
+    Uses Doc.to_array once for speed. Counts each sentence after dropping spaces.
+    Keys are POS **IDs** (ints) for efficiency; map to strings at save-time.
     """
-    bag = Counter()
-    for t in doc:
-        if (not include_space and t.is_space) or (not include_punct and t.is_punct):
+    out = {n: Counter() for n in orders}
+    arr = doc.to_array([POS, IS_SPACE])           # shape (N, 2)
+    pos_ids  = arr[:, 0]
+    is_space = arr[:, 1].astype(bool)
+
+    for sent in doc.sents:
+        i0, i1 = sent.start, sent.end
+        seg = pos_ids[i0:i1]
+        mask = ~is_space[i0:i1] if not include_space else np.ones_like(seg, dtype=bool)
+        seg = seg[mask]
+        if len(seg) == 0:
             continue
-        bag[(t.lemma_, t.pos_)] += 1   # (lemma, POS)
-    return bag
+
+        # Count n-grams via rolling zip
+        for n in orders:
+            if len(seg) >= n:
+                # tuples of length n of POS IDs
+                out[n].update(zip(*(seg[i:] for i in range(n))))
+    return out
+
 
 
 
