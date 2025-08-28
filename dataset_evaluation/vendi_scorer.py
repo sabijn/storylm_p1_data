@@ -47,8 +47,8 @@ class VendiScore:
     
 
     def evaluate(self, text: str) -> float:
-        sents = self.nlp(text).sents
-        if len(list(sents)) < self.min_items:
+        sents = list(map(str, list(self.nlp(text).sents)))
+        if len(sents) < self.min_items:
             return 0.0
 
         try:

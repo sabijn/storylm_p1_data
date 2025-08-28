@@ -45,6 +45,6 @@ class LocalContextuality:
             return 0.0
 
     def evaluate(self, text: str) -> float:
-        sents = self.nlp(text).sents
+        sents = list(map(str, list(self.nlp(text).sents)))
 
         return self._calculate_lc(sents)

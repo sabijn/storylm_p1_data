@@ -98,7 +98,8 @@ class Grammaticality():
 
         scores = [self._score_sentence(tags) for tags in sentences]
         g_story = sum(scores) / len(scores)
+
         return g_story, scores, sentences 
 
     def evaluate(self, text: str) -> float:
-        return self._score_story(text)
+        return self._score_story(text)[0]
