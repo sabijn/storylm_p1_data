@@ -10,6 +10,9 @@ from .wbr_average import WBRAverage
 from .lexical_d import LexicalDiversity
 from .dependency_distance import DependencyDistance
 from .grammaticality import Grammaticality
+from .creative_perplexity import CreativePerplexity
+from .vendi_scorer import VendiScore
+from .local_contextuality import LocalContextuality
 
 class EvaluationFramework:
     def __init__(self, language, 
@@ -48,12 +51,29 @@ class EvaluationFramework:
         self.ref_bigram = ref_bigram
         self.ref_ling_constrained = ref_ling_constrained
 
+        self.registry = {
+            "syntactic_depth": SyntacticDepth(self.nlp),
+            "average_components": AverageComponents(self.nlp),
+            "wbr_average": WBRAverage(self.nlp),
+            "lexical_diversity": LexicalDiversity(),
+            "dependency_distance": DependencyDistance(self.nlp),
+            "grammaticality":  Grammaticality(self.nlp, self.pos_unigram, self.pos_bigram, self.pos_trigram),
+            "creative_perplexity_unigram": CreativePerplexity(self.nlp, "unigram", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
+            "creative_perplexity_bigram": CreativePerplexity(self.nlp, "bigram", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
+            "creative_perplexity_bigram_constrained": CreativePerplexity(self.nlp, "dep", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
+            "vendi_ngram": VendiScore(self.nlp, method="ngram", ns=(1, 2)),
+            "vendi_embeddings": VendiScore(self.nlp, method="embeddings", model_path="bert-base-uncased"),
+            "local_contextuality": LocalContextuality(self.nlp, model_path="bert-base-uncased")
+        }
+
+
+
     def add_pipe(self, name, component=None):
         if name == 'grammaticality' and (self.pos_unigram == None or self.pos_bigram == None or self.pos_trigram == None):
-            raise f'The grammaticality component needs the 1/2/3-gram corpora. Initialize the EvaluationFramework with these corpora.'
+            raise Exception(f'The grammaticality component needs the 1/2/3-gram corpora. Initialize the EvaluationFramework with these corpora.')
         
         if name == 'creative_perplexity' and (self.ref_unigram == None or self.ref_bigram == None or self.ref_ling_constrained == None):
-            raise f'The creative perplexity component needs the 1/2/3-gram corpora. Initialize the EvaluationFramework with these corpora.'
+            raise Exception(f'The creative perplexity component needs the 1/2/3-gram corpora. Initialize the EvaluationFramework with these corpora.')
 
         if component is None:
             component = self._get_builtin_component(name)
@@ -65,16 +85,6 @@ class EvaluationFramework:
 
     def _get_builtin_component(self, name):
         # Register your built-in components here
-        self.registry = {
-            "syntactic_depth": SyntacticDepth(self.nlp),
-            "average_components": AverageComponents(self.nlp),
-            "wbr_average": WBRAverage(self.nlp),
-            "lexical_diversity": LexicalDiversity(),
-            "dependency_distance": DependencyDistance(self.nlp),
-            "grammaticality":  Grammaticality(self.nlp, self.pos_unigram, self.pos_bigram, self.pos_trigram)
-
-        }
-
         if name not in self.registry:
             raise ValueError(f"Component '{name}' not found.")
         
