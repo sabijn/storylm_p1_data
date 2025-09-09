@@ -13,7 +13,6 @@ class Grammaticality():
     # ---------- Load counts ----------
     def _load_counts(self, unigram_csv, bigram_csv, trigram_csv):
         # Unigrams: columns ['pos', 'freq']
-        print(unigram_csv)
         df_u = pd.read_csv(unigram_csv)
         unigram = Counter(dict(zip(df_u["pos"], df_u["freq"])))
 

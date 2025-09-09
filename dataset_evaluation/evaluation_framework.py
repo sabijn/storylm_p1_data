@@ -21,7 +21,8 @@ class EvaluationFramework:
                  pos_trigram: pd.DataFrame = None,
                  ref_unigram: pd.DataFrame = None, 
                  ref_bigram: pd.DataFrame = None, 
-                 ref_ling_constrained: pd.DataFrame = None,):
+                 ref_ling_constrained: pd.DataFrame = None,
+                 embedding_model: str = None):
         """
         Parameters:
         @language (str): language of the reference corpora and the text to be analysed.
@@ -61,9 +62,9 @@ class EvaluationFramework:
             "creative_perplexity_unigram": CreativePerplexity(self.nlp, "unigram", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
             "creative_perplexity_bigram": CreativePerplexity(self.nlp, "bigram", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
             "creative_perplexity_bigram_constrained": CreativePerplexity(self.nlp, "dep", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
-            "vendi_ngram": VendiScore(self.nlp, method="ngram", ns=(1, 2)),
-            "vendi_embeddings": VendiScore(self.nlp, method="embeddings", model_path="bert-base-uncased"),
-            "local_contextuality": LocalContextuality(self.nlp, model_path="bert-base-uncased")
+            "vendi_ngram": VendiScore(self.nlp, method="ngram", ns=(1, 2, 3, 4)),
+            "vendi_embeddings": VendiScore(self.nlp, method="embeddings", model_path=embedding_model),
+            "local_contextuality": LocalContextuality(self.nlp, model_path=embedding_model)
         }
 
 

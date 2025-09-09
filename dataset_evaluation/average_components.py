@@ -19,20 +19,18 @@ class AverageComponents():
         """
         comps = 0
 
-        sent_list = story.splitlines()
+        doc = self.nlp(story)
+        sents = len(list(doc.sents))
 
-        for line in sent_list:
-            doc = self.nlp(line)
-            
-            for token in doc:
-                if token.dep_ == 'ccomp':
-                    # clausal complement ('I think that he is lying')
-                    comps += 1
-                elif token.dep_ == 'xcomp':
-                    # open clausal complement ('He made her cry')
-                    comps += 1
+        for token in doc:
+            if token.dep_ == 'ccomp':
+                # clausal complement ('I think that he is lying')
+                comps += 1
+            elif token.dep_ == 'xcomp':
+                # open clausal complement ('He made her cry')
+                comps += 1
         
-        return self._safe_divide(comps, len(sent_list))
+        return self._safe_divide(comps, sents)
 
     def evaluate(self, text: str) -> float:
         return self._extract_complements(text)

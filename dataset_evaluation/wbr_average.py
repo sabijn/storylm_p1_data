@@ -13,18 +13,18 @@ class WBRAverage():
         return index
 
     def _words_before_root(self, text):
-        
         words = 0
-        for s in text.splitlines():
-            doc = self.nlp(s)
-
-            for token in doc:
+        doc = self.nlp(text)
+        sents = list(doc.sents)
+        
+        for sent in sents:
+            for token in sent:
                 if token.dep_ != 'ROOT':
                     words += 1
                 else:
                     break
 
-        return self._safe_divide(words, len(text.splitlines()))
+        return self._safe_divide(words, len(sents))
 
     def evaluate(self, text: str) -> float:
         return self._words_before_root(text)
