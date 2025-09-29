@@ -1,3 +1,6 @@
+# big-files
+datasets/CGN/CGN_text.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
