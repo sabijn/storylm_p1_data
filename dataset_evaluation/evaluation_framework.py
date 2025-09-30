@@ -13,6 +13,7 @@ from .grammaticality import Grammaticality
 from .creative_perplexity import CreativePerplexity
 from .vendi_scorer import VendiScore
 from .local_contextuality import LocalContextuality
+from .self_bleu_scorer import SelfBleuScore
 
 class EvaluationFramework:
     def __init__(self, language, 
@@ -64,7 +65,8 @@ class EvaluationFramework:
             "creative_perplexity_bigram_constrained": CreativePerplexity(self.nlp, "dep", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
             "vendi_ngram": VendiScore(self.nlp, method="ngram", ns=(1, 2, 3, 4)),
             "vendi_embeddings": VendiScore(self.nlp, method="embeddings", model_path=embedding_model),
-            "local_contextuality": LocalContextuality(self.nlp, model_path=embedding_model)
+            "local_contextuality": LocalContextuality(self.nlp, model_path=embedding_model),
+            "self-bleu": SelfBleuScore(self.nlp, model_path=embedding_model)
         }
 
 
