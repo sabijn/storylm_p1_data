@@ -8,7 +8,7 @@ datasets/TinyStories
 datasets/WikiDutch
 results/
 prompting/prompting_results/
-datasets/CGN/CGN_text.csv
+datasets/CGN
 .DS_Store
 exercises/bert_pretraining/code-search-net-tokenizer
 
