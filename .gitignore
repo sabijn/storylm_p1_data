@@ -1,6 +1,16 @@
 # big-files
+datasets/BasiLex
+datasets/BasiScript
+datasets/CommonCrawl
+datasets/Nicolopoulou
+datasets/PeopleSpeech
+datasets/TinyStories
+datasets/WikiDutch
+results/
+prompting/prompting_results/
 datasets/CGN/CGN_text.csv
 .DS_Store
+exercises/bert_pretraining/code-search-net-tokenizer
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
