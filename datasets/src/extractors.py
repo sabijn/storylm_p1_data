@@ -1,5 +1,6 @@
 from collections import Counter
 from spacy.attrs import POS, IS_SPACE
+from simplemma import text_lemmatizer
 from typing import Dict, Tuple
 
 # ---------- Unigram extractor  ----------
@@ -45,14 +46,30 @@ def _collect_dep_pairs(node, bag: Counter):
     # Verbal heads: subject/object relations
     if node.pos_ in ('VERB', 'AUX'):
         for child in node.children:
-            if child.dep_ in ('nsubj', 'nsubj:pass', 'obj'):
-                bag[(child.lemma_, node.lemma_)] += 1
+            if child.dep_ in ('nsubj', 'nsubj:pass', 'obj')  and (child.pos_ != "PROPN" and child.pos_ != "PRON"):
+                try:
+                    child_lemma = text_lemmatizer(child.text, lang='nl')[0]
+                except:
+                    child_lemma = child.lemma_
+                try:
+                    node_lemma = text_lemmatizer(node.text, lang='nl')[0]
+                except:
+                    node_lemma = node.lemma_
+                bag[(child_lemma, node_lemma)] += 1
 
     # Nominal heads: adjectival modifiers
     if node.pos_ == 'NOUN':
         for child in node.children:
             if child.dep_ == 'amod' and child.pos_ == 'ADJ':
-                bag[(child.lemma_, node.lemma_)] += 1
+                try:
+                    child_lemma = text_lemmatizer(child.text, lang='nl')[0]
+                except:
+                    child_lemma = child.lemma_
+                try:
+                    node_lemma = text_lemmatizer(node.text, lang='nl')[0]
+                except:
+                    node_lemma = node.lemma_
+                bag[(child_lemma, node_lemma)] += 1
 
     # Recurse
     for child in node.children:

@@ -1,6 +1,0 @@
-prompt,
-Schrijf een kort verhaal (100-600 woorden) dat vertelt kan worden door een kind tussen de 4 en 12. 
-    Het verhaal moet het volgende werkwoord bevatten: {chosen_verb}, het volgende zelfstandig naamwoord {chosen_noun} en het volgende bijvoegelijk naamwoord {chosen_adjective}.
-    Het verhaal moet de volgende features hebben: {chosen_features[0]} en {chosen_features[1]}.
-    Voeg *geen* titel, introductie of uitleg toe. Voeg ook *geen* naam of leeftijd van de verteller toe.
-    Geef *alleen* het verhaal.,

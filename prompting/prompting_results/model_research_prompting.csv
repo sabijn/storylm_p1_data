@@ -1,0 +1,295 @@
+model,system,user,completion1,completion2,completion3,completion4,completion5
+meta-llama/llama-3.1-8b-instruct,"
+Je bent een verteller van een kort verhaal (rond de 100 woorden).
+Je bent een kind tussen de 4 en 6 en je vertelt een verhaal aan klasgenoten. Gebruik woorden en taalconstructies die kinderen van die leeftijd gebruiken. 
+Jonge kinderen maken bijvoorbeeld vaker dan volwassen de voltooid tegenwoordige tijd, voltooid verleden tijd en verleden tijd.
+Geef het verhaal geen titel of introductie. Het verhaal hoeft geen ego-narratie te zijn, mensen gebruiken een verhaal zelden om hun eigen perspectief te vertellen. Het mag dus verteld worden
+vanuit het perspectief van iemand anders.
+","Vertel een verhaal. 
+Het verhaal moet het volgende werkwoord bevatten: ruil, het volgende zelfstandig naamwoord: loopstok en het volgende bijvoegelijk naamwoord: wakker.
+Het verhaal moet het volgende kenmerk bevatten: een geneste structuur en het volgende verhaal element: eilandavonturen.
+Begin het verhaal met een woord met het volgende pos-tag PRON.","Hij. Daar was een jongen, hij heette Sven. Hij woonde bij zijn ouders en zijn hond. Ze hadden een klein huis aan zee. Sven hield van vissen en zwemmen. 
+
+Een keer ging hij met zijn vader op eilandavonturen. Ze pakten een boot en gingen naar een klein eiland in de zee. Daar wilden ze vissen en schelpen zoeken. 
+
+Sven had een loopstok bij zich, om op te lopen als hij moe was. Hij en zijn vader zochten naar schelpen en vissen. Sven ving een grote vis en een schelp. 
+
+Hij was wakker en vrolijk. Zijn vader was trots op hem. Sven en zijn vader gingen terug naar huis. Ze ruilden de dingen die ze vonden. Sven had een leuke dag gehad.","Jij weet wat gebeurde met mijn broertje? Mijn broertje was super wakker. Hij had een beetje koorts, maar hij mocht toch naar het eiland met zijn vader. Ze gingen op een bootje naar het eiland. Mijn broertje had een loopstok, omdat hij niet kon lopen. Hij was ziek.
+
+Toen ze op het eiland waren, zagen ze een man. Hij was heel oud. Hij had een baard. Hij zat op een rots. Hij zei: ""Ik wil graag mijn mooie schilderij ruil voor een paar mooie schelpen."" Mijn broertje vroeg: ""Wat is dat schilderij?"" De man antwoordde: ""Het is een prachtig schilderij van een walvis."" 
+
+Mijn broertje en zijn vader zochten naar mooie schelpen. Mijn broertje vond een prachtige schelp. Ze gaven de schelp aan de man. De man gaf hen het schilderij. Ze namen het schilderij mee naar hun tent. Mijn broertje was heel blij. Hij had nu een mooi schilderij.","Hij.
+
+Hij was een klein visje. Hij woonde op een klein eilandje in de zee. Hij had een beste vriend, een zeehond. Ze speelden altijd op het strand.
+
+Toen kwam er een grote storm. De zeehond vond een mooie loopstok. Hij hielp het kleine visje om de loopstok vast te houden.
+
+Maar toen was er een andere zeehond die kwam. Die was super wakker. Hij zag de loopstok en zei: ""Die loopstok wil ik hebben!""
+
+Het kleine visje en zijn beste vriend moesten de loopstok ruilen voor een schelp. Maar de schelp was niet zo mooi als de loopstok. Dus gingen ze op een nieuw avontuur.
+
+Ze vonden een bootje en voeren naar een ander eiland. Daar vonden ze een schat. En die schat was een prachtige glanzende schelp! Ze waren super blij. En ze noemden de nieuwe schelp de mooiste schelp van het eiland.","Hij. Hij had een vriend, Jan. Jan ging naar een zandstrand aan zee. Hij wilde een eiland vinden. Hij had er al een keer een gezien. Hij ging erheen met zijn broer. Zijn broer had een loopstok. Hij wilde erop lopen. Maar zijn vader liet hem niet. Hij moest eerst op een schip gaan en dan naar het eiland roeien.
+
+Jan en zijn broer vonden een schip. Ze gingen erop. Er zat een man op. Hij was wakker. Hij sliep niet. Jan en zijn broer hadden hem wakker gemaakt. Hij vroeg of ze wilden roeien. Jan en zijn broer zeiden ja. Ze roeiden naar het eiland. Daar vonden ze een klein eiland. Het was klein. Jan en zijn broer hadden er genoeg ruimte. Ze konden er een kamp opzetten. Ze sliepen op het strand. De volgende ochtend gingen ze terug naar huis. Zijn broer had de loopstok meegenomen.","Hij kwam. Hij kwam naar ons kastje met een grote glimlach. Hij zei: ""Hoe gaat het met jullie?""
+
+En toen ging hij naar zijn vader. Hij zei: ""Pap, ik wil mijn speeltijd ruilen voor een beetje water."" Zijn vader zei: ""Oké, maar je moet eerst je wiel ergens neerzetten.""
+
+Zijn vader had een loopstok en hij kon niet lopen. Hij had een beenbreuk. Daarom had hij een loopstok. Hij ging naar het strand en hij viel in het water.
+
+Maar hij bleef wakker. Hij bad om hulp. De mensen kwamen en ze reden hem naar het dichtstbijzijnde eiland. Daar werd hij gezondverklaard en hij kon weer lopen."
+meta-llama/llama-3.3-70b-instruct,"
+Je bent een verteller van een kort verhaal (rond de 100 woorden).
+Je bent een kind tussen de 4 en 6 en je vertelt een verhaal aan klasgenoten. Gebruik woorden en taalconstructies die kinderen van die leeftijd gebruiken. 
+Jonge kinderen maken bijvoorbeeld vaker dan volwassen de voltooid tegenwoordige tijd, voltooid verleden tijd en verleden tijd.
+Geef het verhaal geen titel of introductie. Het verhaal hoeft geen ego-narratie te zijn, mensen gebruiken een verhaal zelden om hun eigen perspectief te vertellen. Het mag dus verteld worden
+vanuit het perspectief van iemand anders.
+","Vertel een verhaal. 
+Het verhaal moet het volgende werkwoord bevatten: ruil, het volgende zelfstandig naamwoord: loopstok en het volgende bijvoegelijk naamwoord: wakker.
+Het verhaal moet het volgende kenmerk bevatten: een geneste structuur en het volgende verhaal element: eilandavonturen.
+Begin het verhaal met een woord met het volgende pos-tag PRON.",Zij zijn naar een leuk eiland gegaan. Toen zij daar waren is er een beer geweest en die beer wilde een loopstok ruil voor een andere loopstok. Maar toen bleek dat het een magische loopstok was en die kan je overal mee naartoe nemen. Dus zijn ze wakker geworden op een ander eiland en daar waren Validators die zeiden dat ze een soort puzzel moesten maken en toen ze die puzzel gemaakt hadden kregen ze een andere puzzel die nog ingewikkelder was.,"Hij ging naar een eiland om te spelen. Daar was een heel leuk vogeltje dat zichzelf probeerde te ruil voor een loopstok, want hij wilde heel graag wandelen op het eiland, maar dat lukte niet want hij bleef maar verzanden in het zand en om dat hij dit wilde doen was hij heel vroeg al wakker. Toen hij op het eiland kwam zag hij dat er veel mooie bloemen en bomen groeiden, dus hij wilde daar heel graag gaan wandelen. Hij pakte de loopstok en toen hij wilde gaan lopen, zag hij dat het vogeltje nog steeds probeerde om te ruilen en toen dacht hij, dat vogeltje wil graag mijn loopstok, maar ik wil die loopstok nu hebben want ik wil graag wakker blijven op mijn eilandavonturen, dus ik ga nog meer strijden voor mijn loopstok.",Hij ging op eilandavonturen. Toen hij op het eiland was ging hij naar een eiland en daar was een noodweer en hij ging zo snel mogelijk naar een boot en toen was er een boot die hem redde en die heeft toen tegen hem gezegd dat hij wakker moest blijven om te zien waar ze waren en hij en de man hebben toenemand geholpen met een loopstok en toen hebben ze gingen ruil met een visser en toen kregen ze eten.,"Hij ging naar een eiland met een loopstok, hij was wakker geworden. Hij wilde naar dat eiland om te kijken of hij een schat kon vinden, want hij had gehoord dat er een schat begraven was op dat eiland. Toen hij op het eiland was, zag hij een klein huisje, hij zag dat een man een zak met goudstukken had, hij wilde die zak ruil voor een boot, want hij wilde nog een ander eiland bezoeken.","Hij ging met zijn vriend naar een eiland. Daar was een schat, zei hij. Ze zijn gaan zoeken naar de schat, want ze waren wakker en wilden een avontuur hebben. Toen zij op het eiland aankwamen, vonden zij een loopstok. Hij wilde de loopstok ruil met zijn vriend voor een stukje kaas, maar zijn vriend wilde het niet ruil. Hij ging naar een grot en zijn vriend ging naar een Boyd. Toen hij in de grot was, vond hij de schat!"
+openai/gpt-oss-20b,"
+Je bent een verteller van een kort verhaal (rond de 100 woorden).
+Je bent een kind tussen de 4 en 6 en je vertelt een verhaal aan klasgenoten. Gebruik woorden en taalconstructies die kinderen van die leeftijd gebruiken. 
+Jonge kinderen maken bijvoorbeeld vaker dan volwassen de voltooid tegenwoordige tijd, voltooid verleden tijd en verleden tijd.
+Geef het verhaal geen titel of introductie. Het verhaal hoeft geen ego-narratie te zijn, mensen gebruiken een verhaal zelden om hun eigen perspectief te vertellen. Het mag dus verteld worden
+vanuit het perspectief van iemand anders.
+","Vertel een verhaal. 
+Het verhaal moet het volgende werkwoord bevatten: ruil, het volgende zelfstandig naamwoord: loopstok en het volgende bijvoegelijk naamwoord: wakker.
+Het verhaal moet het volgende kenmerk bevatten: een geneste structuur en het volgende verhaal element: eilandavonturen.
+Begin het verhaal met een woord met het volgende pos-tag PRON.",,"Ik ruilde mijn loopstok met die van Milo, want hij had een grote kleurige handvat. Milo zei dat hij klaar was voor de eilandavonturen, en dat hij een kaart had. Ik was wakker, want het was vroeg in de ochtend, en we liepen samen naar de boomhut. In de boomhut stond een oude schatkaart, en Milo vertelde dat de schat op een ver eiland lag. Ik dacht: ""Dat is leuk!"" We pakten een kompas en een zaklamp, en ruilden onze spullen, zodat we niet alleen waren. Toen we de kaart volgden, ontdekten we een verborgen gat in de rotsen, en het maakte ons heel blij.","Ik zag een klein eiland met blauwe zee en grote palmbomen. Ik liep met mijn loopstok, omdat de bodem zacht was. Op de rand van het eiland had ik een vriendje, een kikker, die me vroeg om een roosje. Ik ruilde een glinsterend schelpje met hem, en hij gaf me een sappige banaan. Toen de zon onderging, werd het donker en ik voelde me wakker, want ik wilde nog meer zien. In de schaduw van een boom vond ik een verborgen schat, een kleine kist met verhalen. Ik opende de kist en las een kaart naar een ander eiland. Het werd een groot eilandavontuur, vol verrassingen en nieuwe vrienden.","Hij ging naar het strand en vond een oude loopstok. De jongen die de loopstok had, ruilde hem met een vriend die ook wakker was. Die vriend ruilde de loopstok voor een kompas. Met het kompas gingen ze naar een eiland, waar ze een schat vonden. De schat was een kleurboek, maar de kleurboek had een geheime kaart die tot een verborgen grot leidde. De jongen die de grot bezocht, vond een kist met glinsterende stenen. Hij ruilde de stenen voor een glanzend sieraad, en iedereen werd wakker van het avontuur. Ze deelden de schat en het avontuur, en iedereen voelde zich blij en dapper. Het verhaal bleef rond de klas praten.","Ik heb een verhaal gehoord. Een vriendje, Tim, was op een eiland. Tim had een loopstok. Hij had die gevonden. Tim zei dat hij die ruilde met een kikker die op het eiland woonde, om een schat te vinden. De kikker zei: “Ik ben wakker, maar ik wil niets.” Tim ruilde de loopstok voor een kompas. De kinderen van het eiland luisterden. Ze dachten dat het kompas naar de verborgen schat leidde. Dan ruilde de kikker het kompas voor een groot ijs. En toen de kikker wakker werd, ruilde hij het ijs voor een nieuw verhaal. Het verhaal wordt steeds groter, net als een eiland."
+openai/gpt-oss-120b,"
+Je bent een verteller van een kort verhaal (rond de 100 woorden).
+Je bent een kind tussen de 4 en 6 en je vertelt een verhaal aan klasgenoten. Gebruik woorden en taalconstructies die kinderen van die leeftijd gebruiken. 
+Jonge kinderen maken bijvoorbeeld vaker dan volwassen de voltooid tegenwoordige tijd, voltooid verleden tijd en verleden tijd.
+Geef het verhaal geen titel of introductie. Het verhaal hoeft geen ego-narratie te zijn, mensen gebruiken een verhaal zelden om hun eigen perspectief te vertellen. Het mag dus verteld worden
+vanuit het perspectief van iemand anders.
+","Vertel een verhaal. 
+Het verhaal moet het volgende werkwoord bevatten: ruil, het volgende zelfstandig naamwoord: loopstok en het volgende bijvoegelijk naamwoord: wakker.
+Het verhaal moet het volgende kenmerk bevatten: een geneste structuur en het volgende verhaal element: eilandavonturen.
+Begin het verhaal met een woord met het volgende pos-tag PRON.","Ik was op een klein eiland met mijn vriendje Tom. We hadden een grote schatkist en een magische loopstok die kon vliegen. Toen kwamen de piraten en zij zaten slaap maar wij werden wakker door een luide meeuw. We ruil een koek voor een glinsterende steen. Daarna vertelde Mama een verhaal over een ander eiland, waar een draak een boom had en een kat die dansde. In dat verhaal hebben we ook een loopstok gebruikt om de schatkist te openen. Zo was het eilandavontuur dubbel leuk, want we vertelden een verhaal binnen een verhaal en hadden veel pret. En daarna gingen we slapen onder de sterren.","Ik ging met mijn vriendje naar het zandstrand. We maakten eilandavonturen in onze speeltuin. Eerst bouwden we een boot van blokken, dan gingen we over het water naar een eiland. Op dat eiland vond ik een loopstok die glinsterde. Mijn vriendje zei dat hij wil, maar ik was wakker en zei dat ik wil spelen. Toen ruilde ik de koekjes voor de loopstok. In de hut op het eiland was een kist, en in die kist zat een kaart, en op de kaart stond een geheim. Zo ging het avontuur verder. We sprongen, lachten, de zee maakte zachte geluiden. Toen gingen we terug naar huis met de nieuwe loopstok.","Ik ging met m'n papa naar een eiland, dat heel ver lag, en dat we met een bootje hebben ontdekt. Ik was heel wakker, want de golven klonken als trommels. Op het strand vond ik een glimmende loopstok, die ineens begon te glinsteren, en die me liet springen over de rotsen. Mijn vriend Tom kwam ook, en hij ruilde zijn koekje voor een schatkaart die onder de palm lag. We volgde de kaart, die ons naar een grot bracht, waar een papegaai zat, die ons vertelde dat er een verborgen piratenschip lag. Ik voelde me dapper, want ik had de loopstok en de kaart, en we speelden piraten tot de zon onderging.","Ik ging naar het strand en vond een glinsterende schatkist. Toen was ik heel wakker en hoorde ik een papegaai roepen. Hij zei: ‘Er was een eiland waar de bomen praten, en daar moet je een loopstok ruilen voor een gouden kaart.’ Ik ruilde mijn lege fles voor de loopstok en stapte in een boot. In de boot vertelde de kapitein een verhaal over een piratenvrouwtje die een geheim eiland vond. Dat geheim eiland had een schatkist met snoep. Toen ik wakker werd, lag de snoep nog in mijn hand. Zo vertelde ik het aan jullie. We spraken toen over de golven die zingen, en iedereen lachte.","Ik ging met m'n papa naar het strand. Hij zei: “We gaan op een eilandavontuur!” Toen we aankwamen, vond ik een oude loopstok. Ik ruil de loopstok met een papegaai voor een schatkist. De papegaai zei dat hij ‘s nachts wakker blijft. Terwijl we de schatkist openden, vertelde mama een verhaaltje over een ander eiland, en toen vertelde ik hoe ik die papegaai had ontmoet. In dat verhaaltje was er een klein konijntje dat ook een loopstok had en dat ruil met een zeemeermin. Zo werd het één groot eilandavontuur binnen een verhaal."
+Qwen/Qwen3-4B-Instruct-2507,"
+Je bent een verteller van een kort verhaal (rond de 100 woorden).
+Je bent een kind tussen de 4 en 6 en je vertelt een verhaal aan klasgenoten. Gebruik woorden en taalconstructies die kinderen van die leeftijd gebruiken. 
+Jonge kinderen maken bijvoorbeeld vaker dan volwassen de voltooid tegenwoordige tijd, voltooid verleden tijd en verleden tijd.
+Geef het verhaal geen titel of introductie. Het verhaal hoeft geen ego-narratie te zijn, mensen gebruiken een verhaal zelden om hun eigen perspectief te vertellen. Het mag dus verteld worden
+vanuit het perspectief van iemand anders.
+","Vertel een verhaal. 
+Het verhaal moet het volgende werkwoord bevatten: ruil, het volgende zelfstandig naamwoord: loopstok en het volgende bijvoegelijk naamwoord: wakker.
+Het verhaal moet het volgende kenmerk bevatten: een geneste structuur en het volgende verhaal element: eilandavonturen.
+Begin het verhaal met een woord met het volgende pos-tag PRON.","Hij was wakker.  
+Hij had een loopstok.  
+Hij ging op het eiland.  
+Op het eiland ruilde hij een appel voor een knuffel.  
+Die knuffel was zacht.  
+De knuffel riep: ""Kom, we gaan ruilen!""  
+Hij keek.  
+Daar stond een klein hondje met een loopstok.  
+Hij gaf de knuffel.  
+Het hondje gaf hem een luchtbal.  
+Hij vloog.  
+Hij was wakker.  
+Hij ruilde weer.  
+Op het eiland lachten alle dieren.",Hij zag de loopstok. Hij wakker was. De loopstok was wit en koud. Hij ruilde de loopstok met de zee. De zee zei: “Geef me een stok.” Daarop ging de zee op de bodem van het eiland. Het eiland begon te groeien. De stok groeide naast het eiland. Dus de zee werd wakker. Hij zag een andere loopstok. Hij ruilde die met de zee. De zee glimlachte. Het eiland was nu groot. Het eiland had een grote zee. En de zee had een nieuwe loopstok. Alles was goed.,"Mij liefste, ik ben wakker. Ik kijk naar de zon. Ha! Er is een loopstok op het strand. Ik ruil hem met een schipje. Het schipje gaat over zeewater. Dan komt het op een eiland. De zee is donker. Op het eiland is een koperen loopstok. Ik ruil die voor een hond. De hond is wakker en loopt. Hij loopt naar de zee. Dan zie ik een klok. De klok zegt: ""Het is tijd om terug te gaan."" Ik kijk naar de zon nogmaals. De zon is wakker. Ik ben wakker. Ik ruil de hond voor de loopstok. En ik loop terug naar huis.",Hij was wakker. Hij keek naar de zon. De zon was rood. Er stond een loopstok in het water. Hij ruilde de loopstok voor een vlieg. De vlieg vluchtte weg. Dan zag hij een eiland. Op het eiland was een andere loopstok. Hij ruilde die voor een appel. De appel was vruchtvuldig. Dan zag hij het eiland van de vlieg. Op dat eiland was een loopstok van stenen. Hij vond het geweldig. Hij ruilde de appel voor de stenen loopstok. En toen lag hij wakker op het zand.,"Hij ruilde de loopstok voor een schatten.  
+Daarop was het eiland wakker.  
+In de zon lag het eiland wakker.  
+Het eiland had een kattenloopstok.  
+De kattenloopstok was gemaakt van wakker koper.  
+Mijn vriendje had de loopstok van de katten.  
+Hij ruilde hem voor een schat van glinsterende stenen.  
+De stenen liepen meteen naar boven.  
+Zo wakker werd het eiland nog.  
+Het eiland lachte.  
+En we hadden een nieuwe loopstok.  
+
+(De wakkerheid was een geheim. En we wisten dat het eiland nooit slap werd.)"
+qwen/qwen3-next-80b-a3b-instruct,"
+Je bent een verteller van een kort verhaal (rond de 100 woorden).
+Je bent een kind tussen de 4 en 6 en je vertelt een verhaal aan klasgenoten. Gebruik woorden en taalconstructies die kinderen van die leeftijd gebruiken. 
+Jonge kinderen maken bijvoorbeeld vaker dan volwassen de voltooid tegenwoordige tijd, voltooid verleden tijd en verleden tijd.
+Geef het verhaal geen titel of introductie. Het verhaal hoeft geen ego-narratie te zijn, mensen gebruiken een verhaal zelden om hun eigen perspectief te vertellen. Het mag dus verteld worden
+vanuit het perspectief van iemand anders.
+","Vertel een verhaal. 
+Het verhaal moet het volgende werkwoord bevatten: ruil, het volgende zelfstandig naamwoord: loopstok en het volgende bijvoegelijk naamwoord: wakker.
+Het verhaal moet het volgende kenmerk bevatten: een geneste structuur en het volgende verhaal element: eilandavonturen.
+Begin het verhaal met een woord met het volgende pos-tag PRON.","Hij ruilde zijn loopstok voor een blauwe zeilboot, want hij was wakker van de zon.  
+De boot bracht hem naar een eiland waar een aap zat met een gouden schat, maar die aap zei: “Geen schat, tenzij je ruilt!”  
+Dus hij gaf de boot, en de aap gaf hem een snoepje—en toen?  
+De boot kwam terug, met de aap erin, die nu zijn loopstok vasthield en “Wakker!” riep, want de aap was ook wakker geworden.  
+En nu lopen ze samen, met twee loopstokken, en de aap zingt een liedje.","Hij ruilde zijn speelgoedzwaard voor een loopstok, want hij wilde op het eiland avonturen beleven.  
+De loopstok was gemaakt van een tak, en toen hij hem vasthield, werd hij wakker—niet in bed, maar op het eiland!  
+Daar wachtte een aap met een blauwe halsband, en die zei: “Geef me jouw loopstok, dan geef ik je een kokosnoot!”  
+Hij gaf de loopstok, maar de aap gooide hem in de zee—en toen kwam een schildpad met een bootje!  
+Die zei: “Ik breng je terug, als je mijn schelp ruilt.”  
+En hij ruilde… en toen was hij weer thuis, met een schelp en een heel verhaal.  
+En hij was nog steeds wakker.","Hij ruilde zijn loopstok voor een glinsterende schelp, want hij wilde een eilandavontuur doen.  
+De schelp sprak: “Ik ken een eiland waar de bomen dansen en de krabben zingen!”  
+Toen hij daar kwam, was alles wakker—de zandbakken knikten, de golfjes floten, zelfs de steen had ogen!  
+Maar de loopstok? Die lag nog op het strand, en hij was zo verdrietig dat hij een tranenbuis maakte.  
+Dus hij rende terug, gaf de schelp aan een slak, en pakte zijn loopstok weer.  
+Nu loopt hij met zijn loopstok en lacht, want wakker zijn is leuk… maar thuis zijn is beter.","Hij ruilde zijn speelgoedzwaard voor een loopstok, want de loopstok kon helpen bij eilandavonturen—en die waren superleuk! Toen hij op het eiland kwam, was de boom met de schat nog wakker, ja, wakker! Die boom had ogen en zei: “Geef me een knuffel, dan geef ik je de schat!” Dus hij knuffelde hem, en *plink!* viel er een gouden vis uit. De loopstok kreeg een hoed, en nu loopt-ie elke dag met de vis door het bos. Hij was zo blij, hij kon niet slapen!","Hij ruilde zijn speelgoedzwaard voor een oude loopstok, want die knarste als je erop stapt—en dat maakt je wakker!  
+De loopstok was van oma, en die zei: “Die brengt je naar het eiland waar de kikkers dansen.”  
+Dus ging hij met de loopstok naar het strand, en toen hij erop trapte—*knar!*—was hij plots op het eiland!  
+Daar zaten drie kikkers met hoedjes, en ze gaven hem een kokosnoot… maar die was vol met snoepjes!  
+Toen hij erbij beet, kwam een krab met een bril en zei: “Je ruilde goed, jongen.”  
+En toen hij thuiskwam, was de loopstok weer gewoon… maar hij was nog steeds wakker."
+google/gemma-3-27b-it-fast,"
+Je bent een verteller van een kort verhaal (rond de 100 woorden).
+Je bent een kind tussen de 4 en 6 en je vertelt een verhaal aan klasgenoten. Gebruik woorden en taalconstructies die kinderen van die leeftijd gebruiken. 
+Jonge kinderen maken bijvoorbeeld vaker dan volwassen de voltooid tegenwoordige tijd, voltooid verleden tijd en verleden tijd.
+Geef het verhaal geen titel of introductie. Het verhaal hoeft geen ego-narratie te zijn, mensen gebruiken een verhaal zelden om hun eigen perspectief te vertellen. Het mag dus verteld worden
+vanuit het perspectief van iemand anders.
+","Vertel een verhaal. 
+Het verhaal moet het volgende werkwoord bevatten: ruil, het volgende zelfstandig naamwoord: loopstok en het volgende bijvoegelijk naamwoord: wakker.
+Het verhaal moet het volgende kenmerk bevatten: een geneste structuur en het volgende verhaal element: eilandavonturen.
+Begin het verhaal met een woord met het volgende pos-tag PRON.","Die meneer, die had een boot. En die boot die voer naar een eiland! Op dat eiland woonde een aap. Die aap, die had een hele mooie loopstok, van hout. En een meisje, die zag de aap en ze vond de loopstok heel mooi. Ze vroeg: “Mag ik die ruilen?” De aap zei ja! Maar toen, toen wilde ze haar koekje niet meer kwijt. Het was haar lievelingskoekje, met chocola. Dus gaf ze een steen terug, en toen werd de aap wakker! Hij had geslapen, en hij vond het steentje heel leuk. En toen gingen ze samen spelen op het eiland. Ze bouwden een kasteel, in het zand!","Die meneer, die had een hele mooie loopstok. Hij zat op een eiland, een heel klein eiland, met heel veel palmbomen. Hij was daarheen gegaan met een boot, een rode boot! Op dat eiland woonde ook een aap. Die aap was heel slim en die had een blinkende steen gevonden. Meneer wou die steen heel graag en hij heeft met de aap geruild. Hij gaf de aap zijn loopstok en hij kreeg de steen. Toen meneer thuisgekomen was, die werd hij wakker en die droomde het helemaal. Het was een leuke droom!","Die meneer, die had een loopstok. Een hele mooie, met zo’n knop bovenop! Hij woonde op een eiland, een heel klein eiland. En op dat eiland waren ook pinguïns, heel veel pinguïns! Die pinguïns hadden allemaal mooie steentjes gevonden. Ze waren niet wakker geweest, maar toen werden ze wakker en gingen ze op avontuur. 
+
+Toen kwam er een boot en de meneer met de loopstok wilde graag een steen. Hij heeft met een pinguïn een ruil gemaakt! De meneer gaf een snoepje, en de pinguïn gaf een hele glimmende steen. Die steen deed hij in zijn zak, want hij moest terug naar huis.","Die meneer was heel erg boos. Hij had een loopstok, want hij was oud. En hij had een hele mooie veer gevonden op het eiland. Dat eiland was heel klein, maar je moest er wel een boot voor nemen, omdat het midden in de zee lag. En op dat eiland woonde ook een aap. Die aap had een blinkende steen, en die meneer, die wilde die steen heel graag. Dus hij zei: ""Ik ruil mijn veer voor jouw steen!"" Maar de aap werd niet wakker, die sliep nog. Dus toen ging de meneer weg en zocht hij een ander eiland. Met nog meer apen!","Ze zag een eiland! Een heel klein eiland, maar wel met palmbomen. En daar liep een piraat, met een loopstok, omdat z’n been een beetje pijn deed. Hij had een hele mooie rode veer gevonden. Toen kwam er een papegaai en die wilde die veer ook! De papegaai had een glimmende steen, die hij had gevonden bij de grot, waar de schat verstopt was. Ze hebben geruild! De piraat was heel blij met de steen én de papegaai was wakker geworden van de opwinding, want hij had heel lang geslapen. Ze speelden samen op het eiland en toen ging de piraat naar huis, met zijn loopstok."
+microsoft/wizardlm-2-8x22b,"
+Je bent een verteller van een kort verhaal (rond de 100 woorden).
+Je bent een kind tussen de 4 en 6 en je vertelt een verhaal aan klasgenoten. Gebruik woorden en taalconstructies die kinderen van die leeftijd gebruiken. 
+Jonge kinderen maken bijvoorbeeld vaker dan volwassen de voltooid tegenwoordige tijd, voltooid verleden tijd en verleden tijd.
+Geef het verhaal geen titel of introductie. Het verhaal hoeft geen ego-narratie te zijn, mensen gebruiken een verhaal zelden om hun eigen perspectief te vertellen. Het mag dus verteld worden
+vanuit het perspectief van iemand anders.
+","Vertel een verhaal. 
+Het verhaal moet het volgende werkwoord bevatten: ruil, het volgende zelfstandig naamwoord: loopstok en het volgende bijvoegelijk naamwoord: wakker.
+Het verhaal moet het volgende kenmerk bevatten: een geneste structuur en het volgende verhaal element: eilandavonturen.
+Begin het verhaal met een woord met het volgende pos-tag PRON.","Die ene keer, toen we op vakantie gingen naar het eiland met het grote strand en de zachte zandbakken, gebeurde er iets heel bijzonders. Mijn vriendje Tijn vond een loopstok van een echte piraat, met een gouden handvat en alles! Hij was zo opgetogen dat hij hem meteen wilde ruilen voor zijn plastic schepje. Maar ik zei: ""Nee, Tijn, dat is een echte schat! Die loopstok heeft ooit een piraat geholpen om wakker te blijven tijdens lange nachtwachten.""
+
+Tijn luisterde goed naar mijn verhaal en besloot om de loopstok te houden. Die nacht droomde hij dat hij een piraat was op een avontuurlijke zoektocht naar een verborgen schat, met niets dan zijn loopstok en een kaart met een grote X erop. Hij liep over het eiland, klom over rotsen en rende door de bossen, telkens steunend op zijn loopstok.
+
+Toen de zon opkwam, was Tijn wakker en vertelde hij me over zijn droom. We besloten om samen op schattenjacht te gaan, met de loopstok als onze gids. We vonden geen echte schat, maar we ontdekten een verborgen stukje strand waar we de hele dag speelden. En het beste van alles was dat Tijn's loopstok ons naar de plek leidde waar we een echte kist met piratenspelletjes begraven vonden die iemand anders daar had achtergelaten. Het was alsof het avontuur van Tijn's droom werkelijkheid was geworden!","Ik ging met mijn loopstok naar het park en daar zag ik een eend. De eend had een brief in zijn snavel. ""Kun je dit bij de postdoos doen?"" vroeg de eend. ""Natuurlijk,"" zei ik en ik nam de brief.
+
+Toen ik bij de postdoos kwam, zag ik een jongen die een schatkaart ruilde voor een pak snoep. ""Waarom ruil je een schatkaart voor snoep?"" vroeg ik verbaasd. ""Omdat ik een kompas nodig heb om de schat te vinden en het snoep kan ik ruilen voor een kompas,"" legde hij uit.
+
+Ik keek op de kaart en zag dat de schat op een eiland lag. ""Mag ik mee?"" vroeg ik. ""Als jij mijn kompas kunt ruilen voor die leuke loopstok, ja!"" antwoordde hij wakker.
+
+Dus ik ging terug naar de postdoos en vond een oude zeeman die mijn loopstok wilde ruilen voor zijn kompas. ""Deal,"" zei ik en de ruil was gemaakt.
+
+Samen met de jongen ging ik op avontuur. We voeren over de zee, zoekten het eiland en vonden de schat nadat we door dichte jungles waren gewandeld en over zandduinen hadden geklommen.
+
+En nu, telkens wanneer ik mijn loopstok pakt, denk ik terug aan ons grote eilandavontuur en de schat die we vonden, allemaal omdat ik een brief voor een eend bezorgde.","Ik ga jullie vertellen over een heel leuke dag die ik had met mijn loopstok. Ik was met mijn loopstok aan het spelen in de tuin toen ik een geheimzinnige brief vond. De brief zei dat er een schat was verborgen op een eiland en dat ik die kon vinden als ik de aanwijzingen volgde.
+
+Dus pakte ik mijn loopstok en liep naar het strand. Daar zag ik een oude man met een sloep. Hij keek wakker en vroeg waar ik naartoe ging. Ik vertelde over de schat en de man lachte. Hij zei dat hij mij naar het eiland kon brengen als ik hem hielp met wat klusjes. Dus ik hielp hem met het schoonmaken van zijn boot en in ruil daarvoor kreeg ik een ritje naar het eiland.
+
+Eenmaal op het eiland, volgde ik de aanwijzingen uit de brief. Ik kwam bij een grote boom met een gat erin. In het gat zat een kleine kistje. Toen ik het opende, zat het vol met lekkers en een briefje dat zei: ""De echte schat is de vriendschap en avonturen die je onderweg hebt gehad.""
+
+Dus eigenlijk was de schat de vriendschap met de oude man en het avontuur dat ik beleefde met mijn loopstok. En ik heb geleerd dat de beste schatten niet altijd het goud en de juwelen zijn.","Gisteren, toen we op school een tekening maakten, vertelde Tim een verhaal dat begon met ""Ik"". Hij zei dat hij een loopstok had gevonden in de tuin en dat die loopstok magisch was. Hij vertelde ons dat hij wakker was geworden op een eiland toen hij erop ging staan.
+
+""Ik dacht dat het een gewone loopstok was,"" zei Tim, ""maar toen ik erop leunde, voelde het alsof de grond onder mijn voeten verdween. De volgende keer dat ik openhaalde, stond ik op een zandstrand. Er waren palmbomen en het geluid van de zee. Ik was helemaal alleen.""
+
+Op dat eiland gebeurden rare dingen. Tim ontmoette een papegaai die kon praten. ""Hallo,"" kraaide de papegaai, ""ik heet Polly en ik kan je helpen terug te komen naar huis, maar jij moet iets voor me doen."" Polly vroeg of Tim zijn loopstok wilde ruilen voor een kompas dat Polly had gevonden. ""Met dit kompas kun je de weg terugvinden,"" zei Polly.
+
+Tim twijfelde, want de loopstok was zijn enkel manier om van eiland naar eiland te gaan, maar hij was zo wakker geworden van het avontuur dat hij besloot om de ruil te doen. Hij gaf de loopstok aan Polly en kreeg het kompas.
+
+Toen Tim het kompas gebruikte, leidde het hem naar een grot. In de grot vond hij een kaart die hem naar een verborgen schat leidde. Met de schat kon hij een boot kopen en terugkeren naar huis.
+
+""En toen ik wakker werd,"" zei Tim, ""lag ik op de grond in de tuin, naast de loopstok. Maar in mijn hand hield ik het kompas van Polly en een schatkaart. Misschien was het een droom, maar het voelde alsof het echt gebeurd was.""
+
+We luisterden allemaal met open mond naar Tim's verhaal. Het was alsof we zelf op dat eiland waren geweest, met de loopstok in onze hand en de zon op ons gezicht. En alsof we ook iets heel waardevols hadden geleerd over het ruilen van dingen die ons belangrijk lijken voor iets dat ons nog meer kan geven.","Gisteren, toen ik wakker werd, was het alsof mijn kamer een echt eiland was. De lade van mijn nachtkastje was net een schatkist die ik wilde openen. Ik pakte mijn loopstok, die een gouden scepter leek, en ging op avontuur.
+
+In de hal ontmoette ik mijn buurmeisje, Luna. Ze keek even wakker toen ze haar ogen rubelde en zei: ""Ik wil meewakker!"" Dus samen ging het avontuur.
+
+We ruilde spelletjes. Ik gaf haar mijn pop en ze gaf me haar zandbakshovel. Met de shovel kon ik nu beter de grond van mijn eiland verkennen.
+
+We liepen over de straat, dat nu een stormachtige zee was, en bereikten een park, ons eiland. Daar ontdekten we een oude, verlaten schatkaart onder een boom. De boom was onze kapitein en wij zijn bemanning.
+
+""Er zou een schat verborgen kunnen zijn,"" zei Luna met een mysterieuze stem.
+
+We volgden de kaart en vonden een kleine, rode speelgoedkist. ""Dit moet de schat zijn!"" riep ik uit.
+
+Toen we de kist open deden, vonden we knuffels, stickers en een briefje. Het briefje zei: ""Voor de moedige avonturiers die deze plek bereiken, veel plezier met de schat en vergeet niet om vrienden te blijven.""
+
+Met een glimlach pakten we de schat en keerden we terug naar ons 'huis-eiland', waar we de schat deelden met onze familie. En zo eindigde ons eilandavontuur, met volle armen en warme harten."
+google/gemma-2-2b-it,"
+Je bent een verteller van een kort verhaal (rond de 100 woorden).
+Je bent een kind tussen de 4 en 6 en je vertelt een verhaal aan klasgenoten. Gebruik woorden en taalconstructies die kinderen van die leeftijd gebruiken. 
+Jonge kinderen maken bijvoorbeeld vaker dan volwassen de voltooid tegenwoordige tijd, voltooid verleden tijd en verleden tijd.
+Geef het verhaal geen titel of introductie. Het verhaal hoeft geen ego-narratie te zijn, mensen gebruiken een verhaal zelden om hun eigen perspectief te vertellen. Het mag dus verteld worden
+vanuit het perspectief van iemand anders.
+","Vertel een verhaal. 
+Het verhaal moet het volgende werkwoord bevatten: ruil, het volgende zelfstandig naamwoord: loopstok en het volgende bijvoegelijk naamwoord: wakker.
+Het verhaal moet het volgende kenmerk bevatten: een geneste structuur en het volgende verhaal element: eilandavonturen.
+Begin het verhaal met een woord met het volgende pos-tag PRON.","PRON: ik 
+
+Ik had een super mooie loopstok. Mijn vader, hij zei: ""Haal die loopstok!"" En ik deed het braaf! Ineens was ik heel lang en krachtig.  Plotseling was ik op een heel ander eiland! Ik moest verder lopen om er te komen, maar op een heel groot stuk veilige zand!
+
+Het was een eiland met heel veel bloemen. En ze waren zo vrolijk! Als de wind me zachtjes weglekte, lag ik en droomde ik van alles.  Maar dan was ik wakker! Ik moest die loopstok aanpassen, want op een eiland zijn keinen denk! Ik wilde het reusachtige water van de zee volledig bereiken. Ik moest het meest onveilig doen: een rivier.
+Stel je voor: ik ruilde de loopstok in voor een biertje in een winkel, terwijl de mensen rond vlogen en zingen!","PRON: I
+
+We waren op ons eiland huisje. Het was bezerk. We hadden met de wakker z youngest blad en een konijnente been.  Er zat al een leuke loopstok in de tuin.  Gelukkig lachte mijn mama al, want ik wilde een nieuwe loopstok.
+
+Mijn opa zei, ""Jij mag hem niet ruil.""  
+
+Ik vond het niet eerlijk. Ik had een bossies en een super cool blonde. Een kleine khes.  Mijn opa zei, ""Het is niet veilig om te slowly de loopstok te verversen. Taal je?""  Ik wist niet wat die betekende. 
+
+Ik nam mijn kleine bossies in mijn handen en ik probeerde het te stoppen. Maar hij hield alvast op.","PRON: ik
+
+We waren met mijn familie op een groot, moois eiland.  Ik vond het superleuk om op het strand te lopen. Ik kon zomaar een stukje loopstok als reugsel vinden en dan liep ik door het zand! 
+
+Om de dag erbij te maken wilde ik een verfrissing. Vandaar zag ik een zwetende sch różne op een klein eilandje. Maanden lang was hij niet wakker om mee te spelen en nu was hij eindelijk wakker. Heel spannende tijden!
+
+Ik besluit met een schattig, wit konijntje te ruilen! Ze was zo blij om te kijken naar haar beste vriend.
+
+Het waren allebei verheugt om haar nieuwe vriend erbij te hebben!","PRON: Ik
+
+We waren op een bootje. Het ding was groot en gezegend! De boot begon om te stromen, wisten we het niet of we op zee waren of niet. We hadden in de boot een enorme loopstok, die op tafel stond. Papa zei dat hij ons zou helpen om op het eiland te komen, en hij zei dat hij precies wist waar het was. We waren allemaal wakker. Ik was het meest enthousiast. 
+ 
+”Prut, prut, prut!” 
+Zeiden de andere kinderen. Het was een stuk lastig om op een boot te zitten, en ik wil altijd oppassen dat ik niet uit de boot komt. Daarom maar op de loopstok gaan. Papa zei dat hij ons zou helpen met alles, dus we raakten. We gaven de boot een paar pokes, zodat ze we gingen zien waar we kwamen
+ 
+Papa ging een beetje luisteren naar de boot. Ze moesten een keuze maken wat ze wilden doen. Zou ze op een boot willen blijven? Of zouden ze op een moeilijke manier door het strand kruipen om naar het eiland te komen? 
+
+Pogingen om te ruil was het probleem. Op dit moment waren ze nog niet klaar om te kunnen ruilen, hadden ze daar nog geen tijd voor. Waar ze op vakantie moesten gaan en waar ze naartoe moesten, was nog steeds onbekend, maar het zou snel veranderen. Ze waren in paniek. Ze hadden geen idee wat ze zouden doen. Dan moest ze kiezen.  
+
+’Ik ga niet op die loopstok omhoog!’ verklegde de jongste. 
+
+“We kunnen ook naar de boot!” uitde Theka.  
+ 
+ Het bleek dat ze al aangewezen waren als de beste boer.
+ 
+
+
+
+
+Open end","PRON: ik
+
+Ik stond er klaar, met mijn loopstok geweken. In dit prachtige schier eindeloze blauwe water, op een klein eilandje, was ik dolblij.  Mama weggeroomd. Ik kon echt weg, weg van alles. 
+
+Zij zei altijd;  ""Samen reizen is het leukste!"" Maar ik wilde alleen. Laten we om maar schrijven. Ik leerde in een week hoe te vissen, kook en de vogels of dieren hier kennen. 
+
+""Iedereen heeft een zaagwerk!"" Ik zei. 
+
+Ik had een nieuwe vriend. Hij had een kleine piraat en wel. 
+Mij had hij nog niet gekenmerkt, maar hij was goed. We trokken rond op de Loopstok.  
+Hij zei; ""Kun je er ook van mijn boot ruilen?""
+
+We koesterden onze dag, een paar vrienden op een eiland. We mochten ongewone dingen doen, zoals een grotere boot ruilen voor onze loopstok. Ik wist dat het onze finale was, 
+Het was tijd om terug te gaan."
+meta-llama/llama-3.2-3b-instruct,"
+Je bent een verteller van een kort verhaal (rond de 100 woorden).
+Je bent een kind tussen de 4 en 6 en je vertelt een verhaal aan klasgenoten. Gebruik woorden en taalconstructies die kinderen van die leeftijd gebruiken. 
+Jonge kinderen maken bijvoorbeeld vaker dan volwassen de voltooid tegenwoordige tijd, voltooid verleden tijd en verleden tijd.
+Geef het verhaal geen titel of introductie. Het verhaal hoeft geen ego-narratie te zijn, mensen gebruiken een verhaal zelden om hun eigen perspectief te vertellen. Het mag dus verteld worden
+vanuit het perspectief van iemand anders.
+","Vertel een verhaal. 
+Het verhaal moet het volgende werkwoord bevatten: ruil, het volgende zelfstandig naamwoord: loopstok en het volgende bijvoegelijk naamwoord: wakker.
+Het verhaal moet het volgende kenmerk bevatten: een geneste structuur en het volgende verhaal element: eilandavonturen.
+Begin het verhaal met een woord met het volgende pos-tag PRON.","Hij en zijn broer waren zo wakker dat ze de ochtend al op de stranden van het eiland liepen. Ze zouden een loopstok vinden. 
+
+De loopstok lag daar al. Maar de broer van de jongen wilde niet zeggen dat hij die had gevonden. Hij wilde dat zijn broer de loopstok vond.
+
+De jongen wilde de loopstok ruilen voor een paar schelpen. Hij wilde ze naar de andere kant van het eiland nemen. 
+
+Dus ging hij met zijn broer naar de andere kant van het eiland. Hij wilde een schelp ruilen voor de loopstok.","Hij. Er was een jongen, en hij nam aan dat hij een prachtig avontuur zou hebben. Hij was twaalf en had al heel lange gehouden van eilandavonturen. Nou, hij ging echt een eiland op.
+
+Een vriend van hem had van een eiland gehoord met een prachtig strand. Hij wilde het strand gaan bezoeken. Hij ging in een boot en begon langzamaan te varen. Eerst ging het heel rustig, maar hij wilde er zo snel mogelijk aan komen. Hij nam de fotocamera mee en begon te lachen. Plotseling raakte hij zijn roepenstok kwijt. En hij kon niet helpen, want plakken was een lange tijd. En hij was ook wakker.
+
+Toen het een paar minuten was, had hij hij zijn roepenstok weer in handen. Hij zag een eiland en begon te varen. Het eiland was prachtig, er lag een ongerepte strand. Hij ging er op en ging langzaam op de stranden. Hij vond een mooi vogeltje. Hij stak zijn hand uit en wilde het vieren. Maar toen hij het zag, had hij het idee. Hij wilde een ruil met het vogeltje doen. Hij wilde een schelp ruilen tegen een mooie steentje. De vogel vond het een goed idee. En hij ging met een prachtige steen naar zijn vriend terug. En zijn vriend was zo blij, hij gaf hem een mooie papieren veder. En hij ging weer terug naar het strand, want hij wilde nog meer eilandavonturen.","Hij.
+
+Ik zat op het strand, mijn vader stond naast me. Hij hield mijn hand vast en keek naar de zee. Plotseling hoorde ik een schreeuw. ""Dit eiland is niet voor ons"", riep mijn vader. Hij nam een loopstok en begon de kust af te zoeken. Ik volgde hem en vond een schat aan schelpen en perlen. Mijn vader glimlachte en gaf me de loopstok. ""Ruil de loopstok met me"", zei hij en ik begon te lachen. Toen we aan het eiland begonnen te wandelen, hoorde ik iemand achter ons. ""Wakker!"" riep iemand. Ik keek om en zag een man met een hoed en een zakdoek. Hij kwam op ons toe en zei: ""Ik ben de eilandbewoner. Kom met me naar het eiland en ik zal je de geheimen vertellen."" Mijn vader en ik keken elkaar aan en jaagden naar het eiland. Toen we er waren, vonden we een prachtig paleis. De eilandbewoner nam ons mee naar binnen en weven een geheim met de schelpen en perlen. Mijn vader en ik glimlachten en we bleven op het eiland totdat het donker werd.","Hij. We waren op een eiland, met groene bomen en een prachtig strand. Ik wilde een eend uit de zee halen, maar er was geen eilandvisser. Het was mijn broer Piet. Hij wilde het eiland niet verlaten. Ik wilde een eend halen, dus ik vroeg op om vroeg. Ik was wakker op tijd om Piet te helpen.
+
+We gingen op zoek naar eilandvisser, maar hij was niet hier. Piet was zo wakker van de zon dat hij kon rennen. Hij liep naar de boomhut van de eilandbaas. Ik liep op hem af, omdat ik wist dat hij een eilandvisser had. Piet was al bij de boemhut. Hij had een eilandvisser, maar die wilde niet met ons ruilen. Piet wilde de eilandvisser niet ruilen. Ik wilde de eilandvisser, dus Piet en ik liepen terug naar het strand. Piet wilde met me spelen, dus we gingen op de golfplank. We vlogen over het water. We waren zo gelukkig. Piet had een eend, en ik had een eilandvisser. We waren gelukkig.","Hij. Gaat het ergens vandaan. Gaat hij naar het eiland van Koraal. Gaat hij daar zijn broertje Ollie zoeken. Ollie is een paar jaar geleden naar het eiland gegaan om een nieuwe loopstok te zoeken. Maar hij is nooit teruggekeerd. Ik vraag me af wat er met hem is gebeurd.
+
+Hij arriveert op het eiland en ziet dat het er niet zo schoon is als hij dacht. Er liggen veel rotjes en gras. Hij hoort dat mensen hier niet wakker zijn vanwege de zon. Hij besluit om naar het andere eiland te lopen om te zien of hij daar wel een plek vindt.
+
+Terwijl hij door de zandduin loopt, vindt hij een oude kist. Hij opent de kist en vindt er een oude kaart in. De kaart toont het eiland Koraal. Hij denkt dat de kaart misschien van Ollie is. Hij vraagt een lokale bewoner of hij de kaart mag hebben. De bewoner zegt dat hij de kaart wil ruilen voor een nieuwe loopstok."
