@@ -1,6 +1,7 @@
 import math
 import pandas as pd
 from collections import Counter
+import re
 
 class Grammaticality():
     L1, L2, L3 = 0.5, 0.3, 0.2       
@@ -101,4 +102,7 @@ class Grammaticality():
         return g_story, scores, sentences 
 
     def evaluate(self, text: str) -> float:
+        text = re.sub(r'\n', ' ', text).strip() # spacy dutch is hugely impacted by newlines
+        text = re.sub(' +', ' ', text)
+    
         return self._score_story(text)[0]

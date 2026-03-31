@@ -14,6 +14,8 @@ from .creative_perplexity import CreativePerplexity
 from .vendi_scorer import VendiScore
 from .local_contextuality import LocalContextuality
 from .self_bleu_scorer import SelfBleuScore
+from .unique_words import UniqueWords
+from .average_word_length import AvgWordLength
 
 class EvaluationFramework:
     def __init__(self, language, 
@@ -60,16 +62,16 @@ class EvaluationFramework:
             "lexical_diversity": LexicalDiversity(),
             "dependency_distance": DependencyDistance(self.nlp),
             "grammaticality":  Grammaticality(self.nlp, self.pos_unigram, self.pos_bigram, self.pos_trigram),
-            "creative_perplexity_unigram": CreativePerplexity(self.nlp, "unigram", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
-            "creative_perplexity_bigram": CreativePerplexity(self.nlp, "bigram", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
-            "creative_perplexity_bigram_constrained": CreativePerplexity(self.nlp, "dep", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
+            "creative_perplexity_unigram": CreativePerplexity(self.nlp, language,"unigram", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
+            "creative_perplexity_bigram": CreativePerplexity(self.nlp, language, "bigram", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
+            "creative_perplexity_dep": CreativePerplexity(self.nlp, language, "dep", self.ref_unigram, self.ref_bigram, self.ref_ling_constrained),
             "vendi_ngram": VendiScore(self.nlp, method="ngram", ns=(1, 2, 3, 4)),
             "vendi_embeddings": VendiScore(self.nlp, method="embeddings", model_path=embedding_model),
             "local_contextuality": LocalContextuality(self.nlp, model_path=embedding_model),
-            "self-bleu": SelfBleuScore(self.nlp, model_path=embedding_model)
+            "self-bleu": SelfBleuScore(self.nlp),
+            "unique-words": UniqueWords(self.nlp),
+            "avg-word-length": AvgWordLength(self.nlp)
         }
-
-
 
     def add_pipe(self, name, component=None):
         if name == 'grammaticality' and (self.pos_unigram == None or self.pos_bigram == None or self.pos_trigram == None):
@@ -111,10 +113,11 @@ class EvaluationFramework:
             results[name] = component.evaluate(data, *args, **kwargs)
         return results
     
-    def run_pipeline_on_df(self, df, column_name, *args, **kwargs):
+    def run_pipeline_on_df(self, df, column_name, verbose=False, *args, **kwargs):
 
         for name, component in self.pipeline:
-            print(f'Running {name}')
+            if verbose:
+                print(f'Running {name}')
             df[name] = df.apply(lambda row: component.evaluate(row[column_name], *args, **kwargs), axis = 1) 
 
         return df

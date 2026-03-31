@@ -1,4 +1,5 @@
 import numpy as np
+import re
 
 class SyntacticDepth():
     def __init__(self, nlp):
@@ -29,4 +30,7 @@ class SyntacticDepth():
         return np.sum(treedepths) / len(treedepths)
     
     def evaluate(self, text):
+        text = re.sub(r'\n', ' ', text).strip() # spacy dutch is hugely impacted by newlines
+        text = re.sub(' +', ' ', text)
+
         return self._average_treedepth(text)

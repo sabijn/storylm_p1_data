@@ -2,7 +2,7 @@
 from typing import List
 import numpy as np
 from sentence_transformers import SentenceTransformer
-
+import re
 
 class LocalContextuality:
     """
@@ -45,6 +45,9 @@ class LocalContextuality:
             return 0.0
 
     def evaluate(self, text: str) -> float:
+        text = re.sub(r'\n', ' ', text).strip() # spacy dutch is hugely impacted by newlines
+        text = re.sub(' +', ' ', text)
+
         sents = list(map(str, list(self.nlp(text).sents)))
 
         return self._calculate_lc(sents)

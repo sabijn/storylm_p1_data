@@ -1,3 +1,4 @@
+import re
 
 class AverageComponents():
     def __init__(self, nlp):
@@ -33,4 +34,7 @@ class AverageComponents():
         return self._safe_divide(comps, sents)
 
     def evaluate(self, text: str) -> float:
+        text = re.sub(r'\n', ' ', text).strip() # spacy dutch is hugely impacted by newlines
+        text = re.sub(' +', ' ', text)
+
         return self._extract_complements(text)

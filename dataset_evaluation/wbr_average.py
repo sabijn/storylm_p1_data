@@ -1,3 +1,4 @@
+import re
 
 class WBRAverage():
     def __init__(self, nlp):
@@ -27,5 +28,8 @@ class WBRAverage():
         return self._safe_divide(words, len(sents))
 
     def evaluate(self, text: str) -> float:
+        text = re.sub(r'\n', ' ', text).strip() # spacy dutch is hugely impacted by newlines
+        text = re.sub(' +', ' ', text)
+    
         return self._words_before_root(text)
 

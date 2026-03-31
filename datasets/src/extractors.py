@@ -32,7 +32,7 @@ def extract_bigrams_from_doc(doc) -> Counter:
 
 # ---------- Linguistically constrained bigram extractor  ----------
 
-def _collect_dep_pairs(node, bag: Counter):
+def _collect_dep_pairs(node, bag: Counter, language: str ='nl'):
     """
     Collect linguistically constrained pairs (dependent -> head), by lemma.
     Adjust rules as you like, but keep orientation consistent with your lexicon.
@@ -48,11 +48,11 @@ def _collect_dep_pairs(node, bag: Counter):
         for child in node.children:
             if child.dep_ in ('nsubj', 'nsubj:pass', 'obj')  and (child.pos_ != "PROPN" and child.pos_ != "PRON"):
                 try:
-                    child_lemma = text_lemmatizer(child.text, lang='nl')[0]
+                    child_lemma = text_lemmatizer(child.text, lang=language)[0]
                 except:
                     child_lemma = child.lemma_
                 try:
-                    node_lemma = text_lemmatizer(node.text, lang='nl')[0]
+                    node_lemma = text_lemmatizer(node.text, lang=language)[0]
                 except:
                     node_lemma = node.lemma_
                 bag[(child_lemma, node_lemma)] += 1
@@ -62,11 +62,11 @@ def _collect_dep_pairs(node, bag: Counter):
         for child in node.children:
             if child.dep_ == 'amod' and child.pos_ == 'ADJ':
                 try:
-                    child_lemma = text_lemmatizer(child.text, lang='nl')[0]
+                    child_lemma = text_lemmatizer(child.text, lang=language)[0]
                 except:
                     child_lemma = child.lemma_
                 try:
-                    node_lemma = text_lemmatizer(node.text, lang='nl')[0]
+                    node_lemma = text_lemmatizer(node.text, lang=language)[0]
                 except:
                     node_lemma = node.lemma_
                 bag[(child_lemma, node_lemma)] += 1

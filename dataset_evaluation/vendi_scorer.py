@@ -3,7 +3,7 @@
 # vendi_score_component.py
 from typing import List, Sequence
 from vendi_score import text_utils
-
+import re
 
 class VendiScore:
     """
@@ -47,6 +47,9 @@ class VendiScore:
     
 
     def evaluate(self, text: str) -> float:
+        text = re.sub(r'\n', ' ', text).strip() # spacy dutch is hugely impacted by newlines
+        text = re.sub(' +', ' ', text)
+    
         sents = list(map(str, list(self.nlp(text).sents)))
         if len(sents) < self.min_items:
             return 0.0
