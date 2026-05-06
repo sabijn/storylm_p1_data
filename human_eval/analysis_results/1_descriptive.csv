@@ -1,0 +1,8 @@
+criterion,overall_median,overall_IQR,generated_median,generated_IQR,real_median,real_IQR
+grammaticality,4.0,3.0–4.0,4.0,4.0–5.0,3.0,3.0–3.0
+coherence,3.0,2.0–4.0,4.0,3.0–4.0,2.0,2.0–3.0
+originality,3.0,2.0–3.0,2.0,2.0–3.0,3.0,2.0–3.0
+creativity,3.0,2.0–4.0,3.0,3.0–3.0,3.0,2.0–4.0
+complexity,2.0,1.0–2.0,2.0,2.0–2.0,1.0,1.0–2.0
+likeability,3.0,2.5–4.0,4.0,3.0–4.0,3.0,2.0–3.0
+humanlikeness,4.0,4.0–4.0,4.0,4.0–4.0,4.0,4.0–4.0

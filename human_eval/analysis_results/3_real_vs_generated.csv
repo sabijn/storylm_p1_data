@@ -1,0 +1,8 @@
+criterion,real median,generated median,U,p,r_rb,p_adj (BH)
+grammaticality,3.0,4.0,23649.0,0.0,-0.698,0.0
+coherence,2.0,4.0,32754.5,0.0,-0.581,0.0
+originality,3.0,2.0,83424.5,0.0832,0.067,0.0832
+creativity,3.0,3.0,64064.5,0.0,-0.181,0.0
+complexity,1.0,2.0,44856.0,0.0,-0.426,0.0
+likeability,3.0,4.0,27288.0,0.0,-0.651,0.0
+humanlikeness,4.0,4.0,92446.0,0.0,0.182,0.0

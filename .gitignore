@@ -11,6 +11,7 @@ prompting/prompting_results/
 datasets/CGN
 .DS_Store
 exercises/bert_pretraining/code-search-net-tokenizer
+.claude
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
