@@ -1,0 +1,297 @@
+ZONDER SOURCE ALS INDEPENDENT VARIABLE:
+$coherentie
+ Family: cumulative 
+  Links: mu = logit 
+Formula: coherentie ~ local_contextuality_z + (1 | judge) + (1 | id) 
+   Data: ratings_long (Number of observations: 510) 
+  Draws: 4 chains, each with iter = 4000; warmup = 1000; thin = 1;
+         total post-warmup draws = 12000
+
+Multilevel Hyperparameters:
+~id (Number of levels: 200) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     1.35      0.18     1.02     1.71 1.00     2940     5932
+
+~judge (Number of levels: 51) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.84      0.16     0.54     1.18 1.00     4078     6729
+
+Regression Coefficients:
+                      Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept[1]             -2.11      0.22    -2.57    -1.69 1.00     8423     8543
+Intercept[2]             -0.28      0.19    -0.65     0.09 1.00    12469     9704
+Intercept[3]              0.72      0.19     0.35     1.10 1.00    12611     8705
+Intercept[4]              3.02      0.26     2.52     3.55 1.00     8700     9444
+local_contextuality_z    -0.19      0.13    -0.45     0.07 1.00    11364     9330
+
+Further Distributional Parameters:
+     Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+disc     1.00      0.00     1.00     1.00   NA       NA       NA
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+
+$coherentie
+ Family: cumulative 
+  Links: mu = logit 
+Formula: coherentie ~ self.bleu + (1 | judge) + (1 | id) 
+   Data: ratings_long (Number of observations: 510) 
+  Draws: 4 chains, each with iter = 4000; warmup = 1000; thin = 1;
+         total post-warmup draws = 12000
+
+Multilevel Hyperparameters:
+~id (Number of levels: 200) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     1.31      0.18     0.97     1.68 1.00     2967     5685
+
+~judge (Number of levels: 51) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.83      0.16     0.52     1.17 1.00     4264     7400
+
+Regression Coefficients:
+             Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept[1]    -2.36      0.26    -2.89    -1.86 1.00    11005     9207
+Intercept[2]    -0.54      0.23    -1.00    -0.09 1.00    14313     9523
+Intercept[3]     0.45      0.23    -0.01     0.91 1.00    13485    10815
+Intercept[4]     2.73      0.29     2.17     3.32 1.00     8690     9887
+self.bleu       -2.05      1.07    -4.12     0.05 1.00    15832    10277
+
+Further Distributional Parameters:
+     Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+disc     1.00      0.00     1.00     1.00   NA       NA       NA
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+
+$complexiteit
+ Family: cumulative 
+  Links: mu = logit 
+Formula: complexiteit ~ unique.words_z + (1 | judge) + (1 | id) 
+   Data: ratings_long (Number of observations: 510) 
+  Draws: 4 chains, each with iter = 4000; warmup = 1000; thin = 1;
+         total post-warmup draws = 12000
+
+Multilevel Hyperparameters:
+~id (Number of levels: 200) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.69      0.23     0.14     1.09 1.01     1218      942
+
+~judge (Number of levels: 51) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     1.04      0.17     0.74     1.40 1.00     3830     7029
+
+Regression Coefficients:
+               Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept[1]      -1.95      0.23    -2.41    -1.53 1.00     4044     6571
+Intercept[2]       0.47      0.19     0.10     0.85 1.00     6489     8158
+Intercept[3]       1.97      0.22     1.55     2.42 1.00     4988     7688
+Intercept[4]       4.12      0.33     3.50     4.80 1.00     4106     6941
+unique.words_z     1.16      0.13     0.92     1.41 1.00     5293     7908
+
+Further Distributional Parameters:
+     Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+disc     1.00      0.00     1.00     1.00   NA       NA       NA
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+
+$complexiteit
+ Family: cumulative 
+  Links: mu = logit 
+Formula: complexiteit ~ avg.word.length + (1 | judge) + (1 | id) 
+   Data: ratings_long (Number of observations: 510) 
+  Draws: 4 chains, each with iter = 4000; warmup = 1000; thin = 1;
+         total post-warmup draws = 12000
+
+Multilevel Hyperparameters:
+~id (Number of levels: 200) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     1.22      0.19     0.86     1.58 1.00     2771     5167
+
+~judge (Number of levels: 51) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.96      0.17     0.67     1.31 1.00     4303     7424
+
+Regression Coefficients:
+                Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept[1]        4.17      1.51     1.28     7.17 1.00    12590     9920
+Intercept[2]        6.54      1.54     3.62     9.62 1.00    12253     9249
+Intercept[3]        8.05      1.56     5.09    11.17 1.00    12014     9198
+Intercept[4]       10.20      1.59     7.22    13.38 1.00    11577     9257
+avg.word.length     1.54      0.38     0.82     2.31 1.00    12251    10035
+
+Further Distributional Parameters:
+     Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+disc     1.00      0.00     1.00     1.00   NA       NA       NA
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+
+$complexiteit
+ Family: cumulative 
+  Links: mu = logit 
+Formula: complexiteit ~ average_components + (1 | judge) + (1 | id) 
+   Data: ratings_long (Number of observations: 510) 
+  Draws: 4 chains, each with iter = 4000; warmup = 1000; thin = 1;
+         total post-warmup draws = 12000
+
+Multilevel Hyperparameters:
+~id (Number of levels: 200) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     1.33      0.18     0.97     1.70 1.00     2957     5247
+
+~judge (Number of levels: 51) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.99      0.17     0.69     1.34 1.00     4940     8144
+
+Regression Coefficients:
+                   Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept[1]          -1.71      0.31    -2.34    -1.12 1.00     9010     8727
+Intercept[2]           0.66      0.30     0.08     1.24 1.00    11560     9359
+Intercept[3]           2.18      0.32     1.57     2.81 1.00    10883     9358
+Intercept[4]           4.35      0.41     3.59     5.19 1.00    10207     9830
+average_components     0.64      0.53    -0.41     1.70 1.00    11473     8785
+
+Further Distributional Parameters:
+     Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+disc     1.00      0.00     1.00     1.00   NA       NA       NA
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+
+$complexiteit
+ Family: cumulative 
+  Links: mu = logit 
+Formula: complexiteit ~ dependency_distance + (1 | judge) + (1 | id) 
+   Data: ratings_long (Number of observations: 510) 
+  Draws: 4 chains, each with iter = 4000; warmup = 1000; thin = 1;
+         total post-warmup draws = 12000
+
+Multilevel Hyperparameters:
+~id (Number of levels: 200) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     1.20      0.18     0.85     1.56 1.00     2858     4989
+
+~judge (Number of levels: 51) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.99      0.17     0.69     1.34 1.00     4900     7517
+
+Regression Coefficients:
+                    Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept[1]            2.89      1.03     0.89     4.93 1.00    12515     9764
+Intercept[2]            5.27      1.06     3.23     7.40 1.00    11953     9594
+Intercept[3]            6.78      1.08     4.71     8.96 1.00    11103     9341
+Intercept[4]            8.93      1.13     6.78    11.22 1.00    10481     9367
+dependency_distance     1.69      0.36     1.00     2.41 1.00    11837     9576
+
+Further Distributional Parameters:
+     Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+disc     1.00      0.00     1.00     1.00   NA       NA       NA
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+
+$complexiteit
+ Family: cumulative 
+  Links: mu = logit 
+Formula: complexiteit ~ syntactic_depth + (1 | judge) + (1 | id) 
+   Data: ratings_long (Number of observations: 510) 
+  Draws: 4 chains, each with iter = 4000; warmup = 1000; thin = 1;
+         total post-warmup draws = 12000
+
+Multilevel Hyperparameters:
+~id (Number of levels: 200) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     1.25      0.18     0.90     1.61 1.00     2932     5412
+
+~judge (Number of levels: 51) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.97      0.17     0.67     1.32 1.00     4292     7808
+
+Regression Coefficients:
+                Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept[1]        0.41      0.65    -0.86     1.67 1.00    12276     8905
+Intercept[2]        2.78      0.67     1.49     4.13 1.00    11706     9229
+Intercept[3]        4.30      0.70     2.98     5.70 1.00    11010     9253
+Intercept[4]        6.46      0.75     5.04     7.98 1.00    10264     9232
+syntactic_depth     0.87      0.23     0.42     1.34 1.00    11735     8893
+
+Further Distributional Parameters:
+     Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+disc     1.00      0.00     1.00     1.00   NA       NA       NA
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+
+$creativiteit
+ Family: cumulative 
+  Links: mu = logit 
+Formula: creativiteit ~ creative_perplexity_dep_z + (1 | judge) + (1 | id) 
+   Data: ratings_long (Number of observations: 510) 
+  Draws: 4 chains, each with iter = 4000; warmup = 1000; thin = 1;
+         total post-warmup draws = 12000
+
+Multilevel Hyperparameters:
+~id (Number of levels: 200) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     1.31      0.18     0.97     1.66 1.00     3481     5394
+
+~judge (Number of levels: 51) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     1.02      0.17     0.72     1.38 1.00     4869     8080
+
+Regression Coefficients:
+                          Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept[1]                 -3.26      0.28    -3.84    -2.72 1.00     6745     8702
+Intercept[2]                 -1.43      0.22    -1.87    -1.02 1.00     8093     9287
+Intercept[3]                  0.35      0.20    -0.06     0.75 1.00    10556    10049
+Intercept[4]                  3.07      0.27     2.55     3.63 1.00     9559     9462
+creative_perplexity_dep_z    -0.08      0.13    -0.35     0.17 1.00    12314     9701
+
+Further Distributional Parameters:
+     Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+disc     1.00      0.00     1.00     1.00   NA       NA       NA
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+
+$grammaticaliteit
+ Family: cumulative 
+  Links: mu = logit 
+Formula: grammaticaliteit ~ grammaticality_z + (1 | judge) + (1 | id) 
+   Data: ratings_long (Number of observations: 510) 
+  Draws: 4 chains, each with iter = 4000; warmup = 1000; thin = 1;
+         total post-warmup draws = 12000
+
+Multilevel Hyperparameters:
+~id (Number of levels: 200) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.95      0.17     0.61     1.29 1.00     2779     4642
+
+~judge (Number of levels: 51) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     1.02      0.17     0.72     1.36 1.00     4369     6877
+
+Regression Coefficients:
+                 Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept[1]        -2.20      0.23    -2.68    -1.77 1.00     7017     8737
+Intercept[2]        -0.35      0.19    -0.73     0.03 1.00     9406     9531
+Intercept[3]         0.80      0.20     0.43     1.20 1.00     9846     8985
+Intercept[4]         2.66      0.25     2.18     3.16 1.00     8199     9138
+grammaticality_z     0.04      0.11    -0.17     0.26 1.00    15035     9603
+
+Further Distributional Parameters:
+     Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+disc     1.00      0.00     1.00     1.00   NA       NA       NA
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).

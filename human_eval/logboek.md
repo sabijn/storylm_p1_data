@@ -11,3 +11,6 @@ A pre-assignment is made over all 60 participants. These assignments are stored 
 After the qualtrics results came in, a few IDs (9) were missing. Probably because people started simultaneously or returned their submission mid-experiment. These IDs were identified with `human_results_processing.ipynb` and pasted in the google sheets. Counter is reset and the link for the qualtrics is shared with people in the surrounding to get the last judgements.  
 
 Remember that you reset the counter and therefore the ids of these missing ones. In the Qualtrics export they will have the wrong ID. You can map this back based on the `assignments_sheets_missing_ids.csv' as the Qualtrics rows contain the 10 sampled ids. 
+
+## Interpreting results
+- ICC is way too low. Missing ratings are not impacting the results that much. 

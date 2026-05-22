@@ -1,0 +1,1339 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q7,1_Comprehension Q,1_Likert_1,1_Likert_2,1_Likert_3,1_Likert_4,1_Likert_5,1_Likert_6,1_Likert_7,2_Comprehension Q,2_Likert_1,2_Likert_2,2_Likert_3,2_Likert_4,2_Likert_5,2_Likert_6,2_Likert_7,3_Comprehension Q,3_Likert_1,3_Likert_2,3_Likert_3,3_Likert_4,3_Likert_5,3_Likert_6,3_Likert_7,4_Comprehension Q,4_Likert_1,4_Likert_2,4_Likert_3,4_Likert_4,4_Likert_5,4_Likert_6,4_Likert_7,5_Comprehension Q,5_Likert_1,5_Likert_2,5_Likert_3,5_Likert_4,5_Likert_5,5_Likert_6,5_Likert_7,6_Comprehension Q,6_Likert_1,6_Likert_2,6_Likert_3,6_Likert_4,6_Likert_5,6_Likert_6,6_Likert_7,7_Comprehension Q,7_Likert_1,7_Likert_2,7_Likert_3,7_Likert_4,7_Likert_5,7_Likert_6,7_Likert_7,8_Comprehension Q,8_Likert_1,8_Likert_2,8_Likert_3,8_Likert_4,8_Likert_5,8_Likert_6,8_Likert_7,9_Comprehension Q,9_Likert_1,9_Likert_2,9_Likert_3,9_Likert_4,9_Likert_5,9_Likert_6,9_Likert_7,10_Comprehension Q,10_Likert_1,10_Likert_2,10_Likert_3,10_Likert_4,10_Likert_5,10_Likert_6,10_Likert_7,11_Comprehension Q,11_Likert_1,11_Likert_2,11_Likert_3,11_Likert_4,11_Likert_5,11_Likert_6,11_Likert_7,12_Comprehension Q,12_Likert_1,12_Likert_2,12_Likert_3,12_Likert_4,12_Likert_5,12_Likert_6,12_Likert_7,13_Comprehension Q,13_Likert_1,13_Likert_2,13_Likert_3,13_Likert_4,13_Likert_5,13_Likert_6,13_Likert_7,14_Comprehension Q,14_Likert_1,14_Likert_2,14_Likert_3,14_Likert_4,14_Likert_5,14_Likert_6,14_Likert_7,15_Comprehension Q,15_Likert_1,15_Likert_2,15_Likert_3,15_Likert_4,15_Likert_5,15_Likert_6,15_Likert_7,16_Comprehension Q,16_Likert_1,16_Likert_2,16_Likert_3,16_Likert_4,16_Likert_5,16_Likert_6,16_Likert_7,17_Comprehension Q,17_Likert_1,17_Likert_2,17_Likert_3,17_Likert_4,17_Likert_5,17_Likert_6,17_Likert_7,18_Comprehension Q,18_Likert_1,18_Likert_2,18_Likert_3,18_Likert_4,18_Likert_5,18_Likert_6,18_Likert_7,19_Comprehension Q,19_Likert_1,19_Likert_2,19_Likert_3,19_Likert_4,19_Likert_5,19_Likert_6,19_Likert_7,20_Comprehension Q,20_Likert_1,20_Likert_2,20_Likert_3,20_Likert_4,20_Likert_5,20_Likert_6,20_Likert_7,21_Comprehension Q,21_Likert_1,21_Likert_2,21_Likert_3,21_Likert_4,21_Likert_5,21_Likert_6,21_Likert_7,22_Comprehension Q,22_Likert_1,22_Likert_2,22_Likert_3,22_Likert_4,22_Likert_5,22_Likert_6,22_Likert_7,23_Comprehension Q,23_Likert_1,23_Likert_2,23_Likert_3,23_Likert_4,23_Likert_5,23_Likert_6,23_Likert_7,24_Comprehension Q,24_Likert_1,24_Likert_2,24_Likert_3,24_Likert_4,24_Likert_5,24_Likert_6,24_Likert_7,25_Comprehension Q,25_Likert_1,25_Likert_2,25_Likert_3,25_Likert_4,25_Likert_5,25_Likert_6,25_Likert_7,26_Comprehension Q,26_Likert_1,26_Likert_2,26_Likert_3,26_Likert_4,26_Likert_5,26_Likert_6,26_Likert_7,27_Comprehension Q,27_Likert_1,27_Likert_2,27_Likert_3,27_Likert_4,27_Likert_5,27_Likert_6,27_Likert_7,28_Comprehension Q,28_Likert_1,28_Likert_2,28_Likert_3,28_Likert_4,28_Likert_5,28_Likert_6,28_Likert_7,29_Comprehension Q,29_Likert_1,29_Likert_2,29_Likert_3,29_Likert_4,29_Likert_5,29_Likert_6,29_Likert_7,30_Comprehension Q,30_Likert_1,30_Likert_2,30_Likert_3,30_Likert_4,30_Likert_5,30_Likert_6,30_Likert_7,story_text,check_question,option_a,option_b,option_c,correct_answer,story_id,attempt_failed,check_question_answer,story_pool,loop_counter,answer_correct,selected_stories,assignment_id,assignment_status,incorrect_attempts_1,incorrect_attempts_2,incorrect_attempts_3,incorrect_attempts_4,incorrect_attempts_5,incorrect_attempts_6,incorrect_attempts_7,incorrect_attempts_8,incorrect_attempts_9,incorrect_attempts_10,incorrect_attempts_11,incorrect_attempts_12,incorrect_attempts_13,incorrect_attempts_14,incorrect_attempts_15,incorrect_attempts_16,incorrect_attempts_17,incorrect_attempts_18,incorrect_attempts_19,incorrect_attempts_20,incorrect_attempts_21,incorrect_attempts_22,incorrect_attempts_23,incorrect_attempts_24,incorrect_attempts_25,incorrect_attempts_26,incorrect_attempts_27,incorrect_attempts_28,incorrect_attempts_29,incorrect_attempts_30,Q_TerminateFlag
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Door hieronder op ""Ik geef toestemming"" te klikken, bevestigt u dat u de volgende informatie heeft gelezen en ermee akkoord gaat.
+
+	Ik bevestig dat ik ben geïnformeerd over de aard en methode van het onderzoek.
+	Ik ga akkoord met deelname aan dit onderzoek. Ik weet dat ik mijn deelname op elk moment kan stopzetten.
+	Als mijn onderzoeksresultaten worden gebruikt in wetenschappelijke publicaties of op een andere manier openbaar worden gemaakt, zal dit anoniem gebeuren. Als u tijdens het experiment toegankelijkheidsproblemen ervaart, neem dan gerust contact op met de onderzoeker.","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk","Verhaal [Field-loop_counter] van de 30
+
+[Field-check_question]","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Ongrammaticaal:Grammaticaal","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Incoherent:Coherent","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Clichématig:Origineel","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet creatief:Creatief","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Eenvoudig:Complex","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - Niet plezierig:Plezierig","Verhaal [Field-loop_counter] van de 30
+
+[Field-story_text]
+
+
+
+Criteria - AI-gegenereerd:Menselijk",story_text,check_question,option_a,option_b,option_c,correct_answer,story_id,attempt_failed,check_question_answer,story_pool,loop_counter,answer_correct,selected_stories,assignment_id,assignment_status,incorrect_attempts_1,incorrect_attempts_2,incorrect_attempts_3,incorrect_attempts_4,incorrect_attempts_5,incorrect_attempts_6,incorrect_attempts_7,incorrect_attempts_8,incorrect_attempts_9,incorrect_attempts_10,incorrect_attempts_11,incorrect_attempts_12,incorrect_attempts_13,incorrect_attempts_14,incorrect_attempts_15,incorrect_attempts_16,incorrect_attempts_17,incorrect_attempts_18,incorrect_attempts_19,incorrect_attempts_20,incorrect_attempts_21,incorrect_attempts_22,incorrect_attempts_23,incorrect_attempts_24,incorrect_attempts_25,incorrect_attempts_26,incorrect_attempts_27,incorrect_attempts_28,incorrect_attempts_29,incorrect_attempts_30,Q_TerminateFlag
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID15""}","{""ImportId"":""1_QID13""}","{""ImportId"":""1_QID2_1""}","{""ImportId"":""1_QID2_2""}","{""ImportId"":""1_QID2_3""}","{""ImportId"":""1_QID2_4""}","{""ImportId"":""1_QID2_5""}","{""ImportId"":""1_QID2_6""}","{""ImportId"":""1_QID2_7""}","{""ImportId"":""2_QID13""}","{""ImportId"":""2_QID2_1""}","{""ImportId"":""2_QID2_2""}","{""ImportId"":""2_QID2_3""}","{""ImportId"":""2_QID2_4""}","{""ImportId"":""2_QID2_5""}","{""ImportId"":""2_QID2_6""}","{""ImportId"":""2_QID2_7""}","{""ImportId"":""3_QID13""}","{""ImportId"":""3_QID2_1""}","{""ImportId"":""3_QID2_2""}","{""ImportId"":""3_QID2_3""}","{""ImportId"":""3_QID2_4""}","{""ImportId"":""3_QID2_5""}","{""ImportId"":""3_QID2_6""}","{""ImportId"":""3_QID2_7""}","{""ImportId"":""4_QID13""}","{""ImportId"":""4_QID2_1""}","{""ImportId"":""4_QID2_2""}","{""ImportId"":""4_QID2_3""}","{""ImportId"":""4_QID2_4""}","{""ImportId"":""4_QID2_5""}","{""ImportId"":""4_QID2_6""}","{""ImportId"":""4_QID2_7""}","{""ImportId"":""5_QID13""}","{""ImportId"":""5_QID2_1""}","{""ImportId"":""5_QID2_2""}","{""ImportId"":""5_QID2_3""}","{""ImportId"":""5_QID2_4""}","{""ImportId"":""5_QID2_5""}","{""ImportId"":""5_QID2_6""}","{""ImportId"":""5_QID2_7""}","{""ImportId"":""6_QID13""}","{""ImportId"":""6_QID2_1""}","{""ImportId"":""6_QID2_2""}","{""ImportId"":""6_QID2_3""}","{""ImportId"":""6_QID2_4""}","{""ImportId"":""6_QID2_5""}","{""ImportId"":""6_QID2_6""}","{""ImportId"":""6_QID2_7""}","{""ImportId"":""7_QID13""}","{""ImportId"":""7_QID2_1""}","{""ImportId"":""7_QID2_2""}","{""ImportId"":""7_QID2_3""}","{""ImportId"":""7_QID2_4""}","{""ImportId"":""7_QID2_5""}","{""ImportId"":""7_QID2_6""}","{""ImportId"":""7_QID2_7""}","{""ImportId"":""8_QID13""}","{""ImportId"":""8_QID2_1""}","{""ImportId"":""8_QID2_2""}","{""ImportId"":""8_QID2_3""}","{""ImportId"":""8_QID2_4""}","{""ImportId"":""8_QID2_5""}","{""ImportId"":""8_QID2_6""}","{""ImportId"":""8_QID2_7""}","{""ImportId"":""9_QID13""}","{""ImportId"":""9_QID2_1""}","{""ImportId"":""9_QID2_2""}","{""ImportId"":""9_QID2_3""}","{""ImportId"":""9_QID2_4""}","{""ImportId"":""9_QID2_5""}","{""ImportId"":""9_QID2_6""}","{""ImportId"":""9_QID2_7""}","{""ImportId"":""10_QID13""}","{""ImportId"":""10_QID2_1""}","{""ImportId"":""10_QID2_2""}","{""ImportId"":""10_QID2_3""}","{""ImportId"":""10_QID2_4""}","{""ImportId"":""10_QID2_5""}","{""ImportId"":""10_QID2_6""}","{""ImportId"":""10_QID2_7""}","{""ImportId"":""11_QID13""}","{""ImportId"":""11_QID2_1""}","{""ImportId"":""11_QID2_2""}","{""ImportId"":""11_QID2_3""}","{""ImportId"":""11_QID2_4""}","{""ImportId"":""11_QID2_5""}","{""ImportId"":""11_QID2_6""}","{""ImportId"":""11_QID2_7""}","{""ImportId"":""12_QID13""}","{""ImportId"":""12_QID2_1""}","{""ImportId"":""12_QID2_2""}","{""ImportId"":""12_QID2_3""}","{""ImportId"":""12_QID2_4""}","{""ImportId"":""12_QID2_5""}","{""ImportId"":""12_QID2_6""}","{""ImportId"":""12_QID2_7""}","{""ImportId"":""13_QID13""}","{""ImportId"":""13_QID2_1""}","{""ImportId"":""13_QID2_2""}","{""ImportId"":""13_QID2_3""}","{""ImportId"":""13_QID2_4""}","{""ImportId"":""13_QID2_5""}","{""ImportId"":""13_QID2_6""}","{""ImportId"":""13_QID2_7""}","{""ImportId"":""14_QID13""}","{""ImportId"":""14_QID2_1""}","{""ImportId"":""14_QID2_2""}","{""ImportId"":""14_QID2_3""}","{""ImportId"":""14_QID2_4""}","{""ImportId"":""14_QID2_5""}","{""ImportId"":""14_QID2_6""}","{""ImportId"":""14_QID2_7""}","{""ImportId"":""15_QID13""}","{""ImportId"":""15_QID2_1""}","{""ImportId"":""15_QID2_2""}","{""ImportId"":""15_QID2_3""}","{""ImportId"":""15_QID2_4""}","{""ImportId"":""15_QID2_5""}","{""ImportId"":""15_QID2_6""}","{""ImportId"":""15_QID2_7""}","{""ImportId"":""16_QID13""}","{""ImportId"":""16_QID2_1""}","{""ImportId"":""16_QID2_2""}","{""ImportId"":""16_QID2_3""}","{""ImportId"":""16_QID2_4""}","{""ImportId"":""16_QID2_5""}","{""ImportId"":""16_QID2_6""}","{""ImportId"":""16_QID2_7""}","{""ImportId"":""17_QID13""}","{""ImportId"":""17_QID2_1""}","{""ImportId"":""17_QID2_2""}","{""ImportId"":""17_QID2_3""}","{""ImportId"":""17_QID2_4""}","{""ImportId"":""17_QID2_5""}","{""ImportId"":""17_QID2_6""}","{""ImportId"":""17_QID2_7""}","{""ImportId"":""18_QID13""}","{""ImportId"":""18_QID2_1""}","{""ImportId"":""18_QID2_2""}","{""ImportId"":""18_QID2_3""}","{""ImportId"":""18_QID2_4""}","{""ImportId"":""18_QID2_5""}","{""ImportId"":""18_QID2_6""}","{""ImportId"":""18_QID2_7""}","{""ImportId"":""19_QID13""}","{""ImportId"":""19_QID2_1""}","{""ImportId"":""19_QID2_2""}","{""ImportId"":""19_QID2_3""}","{""ImportId"":""19_QID2_4""}","{""ImportId"":""19_QID2_5""}","{""ImportId"":""19_QID2_6""}","{""ImportId"":""19_QID2_7""}","{""ImportId"":""20_QID13""}","{""ImportId"":""20_QID2_1""}","{""ImportId"":""20_QID2_2""}","{""ImportId"":""20_QID2_3""}","{""ImportId"":""20_QID2_4""}","{""ImportId"":""20_QID2_5""}","{""ImportId"":""20_QID2_6""}","{""ImportId"":""20_QID2_7""}","{""ImportId"":""21_QID13""}","{""ImportId"":""21_QID2_1""}","{""ImportId"":""21_QID2_2""}","{""ImportId"":""21_QID2_3""}","{""ImportId"":""21_QID2_4""}","{""ImportId"":""21_QID2_5""}","{""ImportId"":""21_QID2_6""}","{""ImportId"":""21_QID2_7""}","{""ImportId"":""22_QID13""}","{""ImportId"":""22_QID2_1""}","{""ImportId"":""22_QID2_2""}","{""ImportId"":""22_QID2_3""}","{""ImportId"":""22_QID2_4""}","{""ImportId"":""22_QID2_5""}","{""ImportId"":""22_QID2_6""}","{""ImportId"":""22_QID2_7""}","{""ImportId"":""23_QID13""}","{""ImportId"":""23_QID2_1""}","{""ImportId"":""23_QID2_2""}","{""ImportId"":""23_QID2_3""}","{""ImportId"":""23_QID2_4""}","{""ImportId"":""23_QID2_5""}","{""ImportId"":""23_QID2_6""}","{""ImportId"":""23_QID2_7""}","{""ImportId"":""24_QID13""}","{""ImportId"":""24_QID2_1""}","{""ImportId"":""24_QID2_2""}","{""ImportId"":""24_QID2_3""}","{""ImportId"":""24_QID2_4""}","{""ImportId"":""24_QID2_5""}","{""ImportId"":""24_QID2_6""}","{""ImportId"":""24_QID2_7""}","{""ImportId"":""25_QID13""}","{""ImportId"":""25_QID2_1""}","{""ImportId"":""25_QID2_2""}","{""ImportId"":""25_QID2_3""}","{""ImportId"":""25_QID2_4""}","{""ImportId"":""25_QID2_5""}","{""ImportId"":""25_QID2_6""}","{""ImportId"":""25_QID2_7""}","{""ImportId"":""26_QID13""}","{""ImportId"":""26_QID2_1""}","{""ImportId"":""26_QID2_2""}","{""ImportId"":""26_QID2_3""}","{""ImportId"":""26_QID2_4""}","{""ImportId"":""26_QID2_5""}","{""ImportId"":""26_QID2_6""}","{""ImportId"":""26_QID2_7""}","{""ImportId"":""27_QID13""}","{""ImportId"":""27_QID2_1""}","{""ImportId"":""27_QID2_2""}","{""ImportId"":""27_QID2_3""}","{""ImportId"":""27_QID2_4""}","{""ImportId"":""27_QID2_5""}","{""ImportId"":""27_QID2_6""}","{""ImportId"":""27_QID2_7""}","{""ImportId"":""28_QID13""}","{""ImportId"":""28_QID2_1""}","{""ImportId"":""28_QID2_2""}","{""ImportId"":""28_QID2_3""}","{""ImportId"":""28_QID2_4""}","{""ImportId"":""28_QID2_5""}","{""ImportId"":""28_QID2_6""}","{""ImportId"":""28_QID2_7""}","{""ImportId"":""29_QID13""}","{""ImportId"":""29_QID2_1""}","{""ImportId"":""29_QID2_2""}","{""ImportId"":""29_QID2_3""}","{""ImportId"":""29_QID2_4""}","{""ImportId"":""29_QID2_5""}","{""ImportId"":""29_QID2_6""}","{""ImportId"":""29_QID2_7""}","{""ImportId"":""30_QID13""}","{""ImportId"":""30_QID2_1""}","{""ImportId"":""30_QID2_2""}","{""ImportId"":""30_QID2_3""}","{""ImportId"":""30_QID2_4""}","{""ImportId"":""30_QID2_5""}","{""ImportId"":""30_QID2_6""}","{""ImportId"":""30_QID2_7""}","{""ImportId"":""story_text""}","{""ImportId"":""check_question""}","{""ImportId"":""option_a""}","{""ImportId"":""option_b""}","{""ImportId"":""option_c""}","{""ImportId"":""correct_answer""}","{""ImportId"":""story_id""}","{""ImportId"":""attempt_failed""}","{""ImportId"":""check_question_answer""}","{""ImportId"":""story_pool""}","{""ImportId"":""loop_counter""}","{""ImportId"":""answer_correct""}","{""ImportId"":""selected_stories""}","{""ImportId"":""assignment_id""}","{""ImportId"":""assignment_status""}","{""ImportId"":""incorrect_attempts_1""}","{""ImportId"":""incorrect_attempts_2""}","{""ImportId"":""incorrect_attempts_3""}","{""ImportId"":""incorrect_attempts_4""}","{""ImportId"":""incorrect_attempts_5""}","{""ImportId"":""incorrect_attempts_6""}","{""ImportId"":""incorrect_attempts_7""}","{""ImportId"":""incorrect_attempts_8""}","{""ImportId"":""incorrect_attempts_9""}","{""ImportId"":""incorrect_attempts_10""}","{""ImportId"":""incorrect_attempts_11""}","{""ImportId"":""incorrect_attempts_12""}","{""ImportId"":""incorrect_attempts_13""}","{""ImportId"":""incorrect_attempts_14""}","{""ImportId"":""incorrect_attempts_15""}","{""ImportId"":""incorrect_attempts_16""}","{""ImportId"":""incorrect_attempts_17""}","{""ImportId"":""incorrect_attempts_18""}","{""ImportId"":""incorrect_attempts_19""}","{""ImportId"":""incorrect_attempts_20""}","{""ImportId"":""incorrect_attempts_21""}","{""ImportId"":""incorrect_attempts_22""}","{""ImportId"":""incorrect_attempts_23""}","{""ImportId"":""incorrect_attempts_24""}","{""ImportId"":""incorrect_attempts_25""}","{""ImportId"":""incorrect_attempts_26""}","{""ImportId"":""incorrect_attempts_27""}","{""ImportId"":""incorrect_attempts_28""}","{""ImportId"":""incorrect_attempts_29""}","{""ImportId"":""incorrect_attempts_30""}","{""ImportId"":""Q_TerminateFlag""}"
+2026-05-12 08:04:55,2026-05-12 08:25:00,1,,100,1205,1,2026-05-12 08:25:02,R_2SHk9jHHERncvlf,,,,,52.1559,4.4919,preview,EN,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,"Ik heb een babykat en hij springt op mijn gezicht. 
+En als ik roep dan komt hij hier en dan gaat hij wiebelen en dan rent hij zo snel.
+",Wat voor huisdier heeft de verteller?,Een babykat,Een hamster,Een hond,A,153,,Een babykat,,31,yes,"[{""id"":40,""source"":""sftw"",""text"":""Er was eens een kleine jongen die heel veel wilde schrijven. Hij had een speciale pen en een mooi boek. Op de veldag moest hij naar buiten om te spelen. Maar hij liep door de poel in zijn schoenen.\n\nHij ging met zijn vriendjes op pad, ze roepend en zingend. Ze kwamen bij het dorp waar iedereen wou dat de vogels niet meer kregen door de jacht van de mensen. Een oude man gaf hen een boekje om lezen over de duif.\n\nDe jager had een kapotte geweer, hij was erg verdrietig want hij wilde nu net naar de stad gaan om nieuwe schoenen te kopen. De jongens zagen hem wel en kwamen erbij staan. Ze keken naar het boekje van de oude man om meer over de duif te lezen.\n\nZe gingen allemaal op een rots zitten, ze hadden niets beters te doen dan zitten lezen over die kleine vogel."",""question"":""Waar ging het boekje over?"",""options"":[""De jager"",""De duif"",""Het geweer""],""correct"":""B""},{""id"":183,""source"":""chiscor"",""text"":""Er was eens een heks.\nEn die moest voor de eerste keer op een bezemsteel vliegen.\nAlleen ze viel in het water.\nEn toen kwam er een wolf aan.\nEn toen ging die heks gillen want ze dacht dat de wolf niet lief was.\nMaar de wolf was wel lief.\nEn ze hielp hem uit het water.\nEn toen had de wolf de heks afgedroogd.\nEn toen gingen ze samen barbecueën.\nDat was het."",""question"":""Wat deden de heks en de wolf samen?"",""options"":[""Kinderen opeten"",""Barbecueën"",""Stelen""],""correct"":""B""},{""id"":71,""source"":""sftw"",""text"":""Er was eens een koning. Hij had een prinses die heel lief was. De prinses hield van zoetigheden en ging altijd naar de markt om suiker en snoep te halen.\n\nOp één dag kwam er een mooie koninklijke koets langs de straat gereden, ze waren op weg naar de grot waar de koning zijn favoriete zanggroep had uitgenodigd om te zongen. Maar plotseling, de koninklijke koets stopte.\n\nDe prinses was heel benieuwd en vroeg aan de kruier wat er gebeurde. De kruier zei dat de paarden een plat stuk weg hadden gereden op de markt.\n\nToen de prinses dit hoorde, begon zij te lachen en ging meteen naar de markt om de paarden te helpen. Ze bond er touw omheen zodat ze weer konden rijden. En toen ging alles goed als vanouds..."",""question"":""Waarom ging de prinses naar de markt?"",""options"":[""Om de koning te helpen"",""Om de kruier te helpen"",""Om de paarden te helpen""],""correct"":""C""},{""id"":106,""source"":""chiscor"",""text"":""Mijn verhaal heet Oude Rode Ogen.\nTobias werd een keer wakker.\nTobias trouwens woont in een landhuis.\nEn woont midden in de het bos.\nEn het was  nacht.\nEn er was een storm.\nTobias werd wakker omdat hij had een nachtmerrie.\nHij had een nachtmerrie over een wolf.\nOver een weerwolf.\nDie zat achter hem aan in het bos.\nToen schreeuwde hij naar zijn moeder.\nRende hij naar z'n moeder.\nEn zijn moeder zei dat het gewoon een nachtmerrie was.\nDus ging hij weer slapen.\nToen hoorde Tobias gehuil.\nToen ging Tobias naar buiten om te checken.\nToen zag hij zijn vriend daar ook staan want die woont naast hem.\nEn ze gingen samen het bos in om te kijken.\nTobias hoorde weer het gehuil maar zijn vriend niet.\nTobias rende maar zijn vriend niet.\nDus uiteindelijk rende hij heel hard en hij zag zijn vriend niet meer en hij hoorde zijn vriend niet meer.\nToen hoorde hij een gil van zijn vriend.\nZijn vriend heet Thomas.\nThomas was weg.\nThomas was er niet meer.\nDit deed hem denken aan een legende uit het dorp naast hem.\nZe zeiden dat als je met twee personen het bos ingaat.\nDat de ene weggaat en dat de ander goed erin blijft.\nZe zeiden dat dat het plan was van Oude Rode Ogen.\nEen weerwolf met rode ogen.\nToen zag Tobias ook een grot.\nHij ging daar slapen want hij was heel erg moe.\nToen was het weer ochtend.\nMaar nee toch niet.\nHet was niet ochtend.\nHij hoorde opeens gegrom.\nHij dacht dat het ochtend was maar dat was niet zo.\nToen hoorde opeens hij gegrom.\nHij keek naar zijn linkerzijde.\nEn hij zag een grote weerwolf met rode ogen.\nHet einde."",""question"":""Hoe heet de vriend van Tobias?"",""options"":[""Mark"",""Tom"",""Thomas""],""correct"":""C""},{""id"":129,""source"":""chiscor"",""text"":""Er was eens een tweehoorn.\nEn een eekhoorn die doodging maar dat maakt niks uit want dat was maar een figurant.\nEn die tweehoorn die voelde zich heel erg als een mislukking.\nWant dat was hij ook want eigenlijk was het gewoon een wit paard met horens en vleugels.\nEn op een dag vloog hij naar een stad.\nDus toen daar zag hij een heel groot huis met een andere eekhoorn erin.\nEn die eekhoorn heettte Roderick.\nEn de tweehoorn heette Pjotr.\nEn Pjotr die zag Roderick voor het raam van het huis staan.\nDus Roderick ging kwetteren kwetter kwetter.\nDus Pjotr die bestormde het huis met z'n horens.\nDus die vloog het huis in maar Roderick zag het allemaal gebeuren.\nEn het was een vliegende eekhoorn dus die vloog op de horens van Pjotr.\nMaar hij overleefde het gelukkig.\nMaar toen kwam de ambulance wat eigenlijk een nijlpaard was genaamd Harry.\nEn Harry die nam Roderick mee naar het ziekenhuis.\nEn daar zat dokter Olifant genaamd Bladblazer Bert.\nEn Bladblazer Bert die pakte Roderick op en rende het ziekenhuis uit en legde hem in een mandje in een rivier.\nEn een rivier die stroomde naar het land van de tweehoorns.\nWaar Pjotr ook weer terug heen was gegaan.\nEn Roderick die viel ineens van de waterval af op de grond.\nMaar toen viel Harry het nijlpaard op Roderick.\nOp de stenen.\nDus toen was Roderick geplet.\nEn hij was nu gewoon een hoopje appelmoes.\nMaar toen kwam Berend de olifantendokter aangerend.\nEn die rende naar Bladblazer Bert toe.\nEn Bladblazer Bert blies alle figuranten weg.\nOnder andere een eekhoorn maar die was al dood dus dat maakte niks uit.\nDus iedereen zat ineens in het land van de tweehoorns.\nMaar daar mocht eigenlijk niemand in komen.\nDus tweehoorn Pjotr die rende gauw weg.\nWant die wist dat het zijn schuld was dat hun in het land van de tweehoorns waren.\nDus die gauw wegrennen la la la.\nDus toen zat daar ineens dronken Donny.\nMet z'n flesje bier.\nEn die gooide het in het gezicht van Pjotr.\nEn Pjotr die viel om maar iedereen hoorde het.\nDus toen beschuldigden ze Pjotr en dronken Donny voor de misdaad.\nDus toen gingen dronken Donny en Pjotr in de gevangenis.\nEn platte Roderick Bladblazer Bert en Olifant Berend wat ook een dokter is.\nEn nijpaard Harry en de eekhoorn die dood was maar dat maakte niks uit.\nDie gingen weer terug naar hun eigen land en iedereen leefde nog lang en gelukkig."",""question"":""Wat voor dier is Bladblazer Bert?"",""options"":[""Een tweehoorn"",""Een eekhoorn"",""Een olifant""],""correct"":""C""},{""id"":67,""source"":""sftw"",""text"":""Er was eens een klein jongetje dat in een groot bos woonde. Hij had vrienden die allemaal net zo lang waren als boomstammen en hij kon ze niet zien omdat ze heel ver weg stonden. De vrienden van het kleine jongetje hadden gezegd dat er een reus zou komen om hen te helpen.\n\nDe reus was enorm groot en ging naar de andere kant van de wereld om met de grote leeuw te praten, maar toen hij terugkwam, ging de zon onder. De reus liep blote voeten door het bos en zijn vrienden waren bang omdat ze wisten dat als de reus niet op tijd terug zou komen, dan zouden ze allemaal verdwaald raken.\n\nMaar gelukkig kwam de reus op tijd terug om hen te helpen. Hij nam hun hand vast en samen gingen ze naar huis. Het kleine jongetje was erg blij dat zijn vrienden veilig waren gekomen en hij dankte de reus voor zijn hulp."",""question"":""Met wie ging de reus praten aan de andere kant van de wereld?"",""options"":[""De grote leeuw"",""De kleine zebra"",""De sterke beer""],""correct"":""A""},{""id"":190,""source"":""chiscor"",""text"":""Dit verhaal heet de wraak van de Lucas van Leyden de Vliet.\nDe wraak van Lucas van Leyden de Vliet.\nOp een dag was gewoon iedereen aan het werk en gewoon aan het rekenen of aan het spelen in de kleuters.\nEn toen opeens schoot het digibord aan en kwam er zo'n filmpje.\nEr is iemand geweest en die wil de hele wereld vernietigen en die begint in Nederland.\nEn langzaam dacht iedereen van  wat gebeurt hier?\nEn toen zeiden juffen en meesters van  we moeten hier wegwezen.\nMaar echt heel veel kinderen die zeiden van nee.\nWe gaan gewoon naar hem toe en we gaan hem in elkaar slaan.\nToen gingen ze echt een heel plan bedenken.\nMet allemaal mensen die verschillende dingen moesten doen.\nEn uiteindelijk was het plan klaar.\nHet waren echt heel veel vellen papier.\nVol.\nEn daar stond het plan op.\nToen gingen ze inderdaad naar hen toe.\nMaar toen kwamen er zo heel veel volwassenen van.\n Misschien moeten jullie dit niet doen.\nEen paar die gingen toen met hen mee en de rest zei ja dit plan gaat wel lukken en dat plan lukte.\nMaar dat dus echt.\nWant uiteindelijk overtuigden ze een paar volwassenen om mee te helpen.\nToen uiteindelijk gingen d'r een paar volwassenen.\nPlus best wat snelle kinderen.\nDie gingen ze afleiden.\nEcht allemaal.\nEn toen ging de rest van de kinderen ze van achteren hen aanvallen en ja toen lukte het.\nEn toen gingen ze allemaal de school herbouwen de hele tijd en toen.\nWas het einde.\n"",""question"":""Wat werd er op het digibord getoond?"",""options"":[""Een filmpje dat iemand de hele wereld wilde vernietigen"",""Een fimpje over bijen"",""Een filmpje over de watersnoodramp""],""correct"":""A""},{""id"":94,""source"":""sftw"",""text"":""Ik woonde in een klein dorpje in de buurt van een grote stad. In dat dorpje bestonden heel veel dieren, zoals konijnen, eenden en hondjes. De hondjes speelden altijd samen aan het eind van de straat met een hondjesspelletje.\n\nEen keer kwam er een vreemde hond naar ons dorpje toe. Hij was genaamd Bruno en hij had grote tanden. Hij keek heel erg argwanend rond, maar toen hij onze hondjes zag spelen, begon hij ook mee te doen aan het spel.\n\nDit werd een heel leuk spelletje! Alle honden speelden samen, zwaaiend met hun staarten en blaffend van plezier. Ik keek er zo naar kijken dat ik niet meer kon slapen die nacht. De volgende dag ging ik met mijn moeder terug naar de speelplaats om te zien of Bruno nog steeds daar was. En ja, hij was er nog! Hij bleef maar spelen bij ons en kwam eigenlijk nooit meer weg uit ons dorpje."",""question"":""Hoe heette de vreemde hond?"",""options"":[""Tom"",""Branco"",""Bruno""],""correct"":""C""},{""id"":180,""source"":""chiscor"",""text"":""Er was er eens een meisje.\nZe wou heel graag buiten spelen.\nHet mocht niet van haar moeder.\nZe ging toch naar buiten en toen zei haar moeder waar ga je naartoe?\nEn het meisje zei ik ga naar buiten.\nEinde."",""question"":""Wat wil het meisje?"",""options"":[""Binnen blijven"",""Buiten spelen"",""Gamen""],""correct"":""B""},{""id"":200,""source"":""chiscor"",""text"":""Er was een heks.\nMet een megawrat.\nEn hij was op een dag opengegaan.\nEn er was ook een kind bij.\nEn die stond daar en die wrat ging open.\nEn alles overstroomde bij dat kind.\nEn dat kind ging naar iemand toe om te vragen.\nMag ik even in een douche want de douche was onder de wratspul.\nEn toen zei de heks oh nee jij moet bij mij blijven.\nWant die heks wilde hem wel graag zelf hebben voor klussies.\nMaar dat jongetje ging toch weg en zei nee nee ik ga gewoon weg.\nEn hij rende en rende maar die heks had dus een bezemsteel en die heette Friti.\nEn daar ging hij dus op en die heks ging dus achter het jongetje aan.\nEn ze pakte hem en ze zei ziezo. \nEn de heks vond dat heel leuk want toen moest hij alleen nog maar duizend jaar klusjes voor de wrat.\nEn hij moest ook nog de wrat schoonmaken en de luier van de heks verschonen.\nEinde.\n"",""question"":""Hoe heet de bezemsteel van de heks?"",""options"":[""Friti"",""Bezemsteel"",""Wrat""],""correct"":""A""},{""id"":140,""source"":""chiscor"",""text"":""Er was eens een hond die z'n staart kwijt was.\nEn hij ging hem in het hele huis zoeken.\nMaar hij kon hem niet vinden dus hij ging ook buiten zoeken.\nKon die hem ook niet vinden.\nHij vond hem wel een keertje terug.\nEen kat had hem.\nWant die kat had ook z'n staart kwijt."",""question"":""Wie waren hun staart allemaal kwijt?"",""options"":[""De hond"",""De kat"",""De hond en de kat""],""correct"":""C""},{""id"":117,""source"":""chiscor"",""text"":""Ik ga een verhaal vertellen over de kleerkast.\nEr was eens een kleerkast met allemaal bontjassen erin.\nD'r waren ook vier kindertjes die verstoppertje aan het spelen waren in een heel groot landhuis waar de kleerkast stond.\nEr d'r was één jongetje dat ging zich verstoppen in de kleerkast.\nMaar hij was zelf ook slim genoeg om de deur niet op slot te doen.\nWant hij wou zichzelf niet opsluiten.\nEn hij liep dus helemaal naar achter.\nMaar hij kwam ineens in sneeuw.\nDus hij had het superkoud.\nHij pakte een bontjas.\nMaar hij ging kijken wat er in die sneeuw was.\nD'r was een hele grote grot naast waar hij uitkwam.\nEn hij ging d'r in.\nD'r was een heel groot wit monster dat hem probeerde op te eten.\nDus hij rende weg.\nMaar dat monster dat gaf niet op.\nDus dat volgde hem.\nNaar de kleerkast.\nZe gingen er toen in.\nDus toen was dat monster in die kamer waar die kleerkast stond.\nMaar die zoeker van dat verstoppertje die was er dus ook.\nEn die schrok zich een apenhoedje.\nMaar dat jongetje dat zich dus verstopt had in de kleerkast.\nDie zei help help help hij gaat mij opeten.\nEn die zoeker die zei wat is dit.\nEn die jongen zei ik heb geen idee maar help.\nZe renden de kleerkast in om zich te verstoppen.\nMaar dat monster dat brak de kleerkast.\nDus de uitgang naar dat andere land dat was er nu niet meer.\nEn het monster dat was dus nu voorgoed in dat huis."",""question"":""Wat is de kleur van het monster?"",""options"":[""Rood"",""Blauw"",""Wit""],""correct"":""C""},{""id"":81,""source"":""sftw"",""text"":""We waren op de speeltuin! Mijn beste vriendin, Sofie, had een prachtige hond, Luna. Ze was een dubbele witte Labradoodle met roze oorknopjes.\n\nEen dag gingen we met Luna naar het park. We wilden een feestje maken voor haar verjaardag, maar toen arriveerden onze vriendinnen Mia en Emma niet op tijd. Zij waren verdwaald in de supermarkt omdat ze geen kaart hadden om te kopen.\n\nIk had een idee: ik kon Luna leren dansen! We deden veel oefeningen en zo leerde Luna dubbele sprongen maken. Toen Mia en Emma eindelijk arriveerden, waren we met onze handtekening op de ballon klaar om het feestje te beginnen. Niemand verstond hoe mijn vader kon denken dat dit een goed idee was!"",""question"":""Wat stond er op de ballon?"",""options"":[""Hun handtekening"",""Hun gezicht"",""Hun vingerafdruk""],""correct"":""A""},{""id"":48,""source"":""sftw"",""text"":""Er waren twee broers die een eiland hadden. Ze wilden naar de andere kant van het eiland gaan, maar ze mochten niet alleen. Dus gingen ze met hun vriend. Op weg kwamen ze langs een stroompje water en zagen er drie varkens overvallen door de politie. Er waren twee agenten die probeerden de dikkere politieman te helpen. De broers vonden het leuk om naar toe te kijken, maar hun vriend wilde weg. Hij was bang voor de politie. Ze gingen verder op pad en kwamen bij een grote boom. Daar zat een vogel. Hij zei dat hij kon springen van tak tot tak. De broer met de rood haar wilde ook graag gaan, maar zijn vriend was nog steeds bang."",""question"":""Wat voor dier kwamen de broers tegen bij de boom?"",""options"":[""Een varken"",""Een vogel"",""Een schildpad""],""correct"":""B""},{""id"":21,""source"":""sftw"",""text"":""Ik ging naar de kermis met mijn vriendjes! We gingen op een olifant rijden. Die was super lang en had grote tanden. Toen we in de rij wachtten, zag ik een stalletje waar ze drankjes verkochten. Ik pakte een biertje van mijn moeder aan, maar zij zei dat ik geen bier kon drinken. Dus nam ik een glas appelmoes.\n\nToen kwamen we aan de beurt om op de olifant te rijden. De man die het dier bestuurde was heel vol en had twee lange vingers, hij gebruikte ze om de stang vast te houden. We moesten ons in een zakketting vastbinden, zodat we niet van de olifant afvallen als hij bewoog. En dan ging we op weg!"",""question"":""Wat neemt de hoofdpersoon?"",""options"":[""Een biertje"",""Een glas appelmoes"",""Appelsap""],""correct"":""B""},{""id"":24,""source"":""sftw"",""text"":""Er was eens een meisje dat heette Luna. Ze had een vriendje genaamd Max. Het waren de beste vrienden van heel de klas.\n\nEén keer gingen ze op avontuur in het bos. Ze zochten naar draakjes. Die leken groot en fel te glimmen. Maar plotseling hoorden ze een luide schreeuw.\n\nIemand was gewond! Luna en Max renden snel om te zien wie dat was. En toen zagen ze hem: een man die op de grond lag te gillen van pijn.\n\nDe man had een enorme snee in zijn been. Hij was echt heel erg gewond. Hij vertelde dat hij door een houtje gesnapt en gevallen was.\n\nLuna keek naar Max en zocht hem een hand. \""We moeten wegrende, Max,\"" zei ze meteen. Ze draafden beiden weg om te helpen halen van de dokter."",""question"":""Waar zochten Max en Luna naar?"",""options"":[""Houtjes"",""Draakjes"",""Vriendjes""],""correct"":""B""},{""id"":85,""source"":""sftw"",""text"":""Er was eens een prinsesje die erg verlegen was. Zij ging naar de stad en ontmoette er een leuk meisje dat haar uitnodigde om mee te gaan spelen op de speelplaats.\n\nHet meisje zei: \""Kom, laten we hebben lol!\"" En daarmee begon hun spel. Ze renden rond, gooiden steentjes in het water en maakten geluiden alsof ze een klein dier waren. De prinsesje was zo blij dat ze haar verlegenheid kwijt was.\n\nDe volgende dag ging de prinsesje nog eens naar de stad om met haar nieuwe vriendin op bezoek te gaan. Ze gingen naar de speelplaats, waar weer veel kinderen waren die samen wilden spelen. En met een glimlach en een vrolijk gezicht voegde de prinsesje zich aan het spel toe.\n\nDe andere kinderen zagen dat ze gelukkig was, dus stelden ze haar niet teleur en lieten hen beiden geweldig spelletjes doen om lol van te hebben."",""question"":""Waar speelden de kinderen?"",""options"":[""Het park"",""De speeltuin"",""De speelplaats""],""correct"":""C""},{""id"":99,""source"":""sftw"",""text"":""We waren op een feestje van onze vriend Timmy. Hij had een enorme tuin met veel gras en één keer per jaar kwam er een groep koeien om te spelen.\n\nDe koeien zagen er heel leuk uit, ze hadden allemaal roze banden om hun hoefjes. Ze stampten in het gras en maakten er een hoop modder van.\n\nIk had een boterham met kaas meegenomen en net toen ik hem ging eten, kwamen de koeien naar ons toe en wilden ze ook wat. Maar we mochten niet aan hun zijde blijven, want Timmy had gezegd dat ze alleen mochten spelen als hij toestemming gaf.\n\nEr was zelfs een bestuurbare auto die over het gras reed, maar ik denk dat de koeien het leuksten vonden om met de ballen te gooien. Ze waren zo hard en bleven heel lang in de lucht hangen!"",""question"":""Wat zat er op de boterham"",""options"":[""Pindakaas"",""Speculoos"",""Kaas""],""correct"":""C""},{""id"":86,""source"":""sftw"",""text"":""Er was eens een koningin die heel veel boeken had. Ze woonde in een kasteel en daar wilden ze allemaal graag zijn. De koningin las iedere dag in de zon op het grasveld voor het slot.\n\nMaar dan kwam er een kleintje, een klein meisje dat niet zo goed kon lopen. En toen moest ze ineens een figurant zijn in een film die bij het slot werd gedraaid. Ze deed maar wat en liep rondjes om de camera heen. Echt was ze een beetje bang.\n\nToen kwam er opeens een olifant op het grasveld, want hij moest ook nog even voor de camera staan. Hij stak zijn neus in de zak van het klein meisje en toen moest ze hem naar buiten trekken.\n\nDe koningin lachte hard om die olifant en dat kleine meidje, en nu was iedereen zo vrolijk!"",""question"":""Welk dier kwam op het grasveld?"",""options"":[""Een konijn"",""Een olifant"",""Een tijger""],""correct"":""B""},{""id"":46,""source"":""sftw"",""text"":""Er waren eens drie vrienden die heerlijk wilden spelen in de bossen achter hun huis! Ze gingen op avontuur met een klein hondje dat ze 'Bolletje' noemden.\n\nToen ze opeens een enorm olifant zagen, beukten de vrienden op elkaar. \""Wauw!\"" riepen ze in koor. Bolletje begon te janken en rende weg.\n\nDe drie vrienden bleven achter en besloten om de olifant zijn nieuwe thuis te laten zien. Ze brachten hem naar het huis van hun buurman, waar hij een gigantische douche zag staan die speciaal voor olifanten was gemaakt!\n\nBolletje kwam terug en zei dat hij zich goed had vermaakt op de speeltuin van de buurman. En zo hadden de vrienden een nieuwe vriend gekregen, een dikke, vette olifant met een dikke, blinde staart!"",""question"":""Wat zag de olifant staan in het huis van de buurman?"",""options"":[""Een douche"",""Een emmer"",""Een schilderij""],""correct"":""A""},{""id"":125,""source"":""chiscor"",""text"":""En er was eens een boerderij en op die boerderij woonden twee kindjes.\nEn het was een beetje een vreemde boerderij want de schapen legden eieren.\nEn de kippen moesten gemolken worden.\nEn de koeien moesten vermoord worden voor het vlees en van de varkens kwam wol van de schapen.\nMaar dat was dus een beetje vreemd.\nMaar die kinderen die moesten de varkens gaan scheren.\nWant ze zaten helemaal vol met wol.\nMaar de biggetjes waren weg.\nDus ze moesten de biggetjes gaan zoeken.\nDus ze keken bij de eieren en ze keken bij het vet.\nEn ze keken ook bij de kippen en bij de koeien en bij de schapen.\nMaar nergens waren de biggetjes.\nDus toen besloten ze het maar tegen de boerin te gaan zeggen.\nMaar ze wisten al wel dat die niet zo blij zou zijn.\nDus besloten ze het niet te zeggen en zichzelf op te sluiten in de schuur.\nMaar in die schuur zaten de biggetjes maar die waren bang om geschoren te worden.\nDus hebben ze ze toen geschoren.\nEn dat was het einde."",""question"":""Waar waren de biggetjes uiteindelijk?"",""options"":[""In de schuur"",""Bij de boerin"",""Ze zijn niet gevonden""],""correct"":""A""},{""id"":154,""source"":""chiscor"",""text"":""Er was eens een cheetah.\nDie in Egypte was en die ging bovenop de piramide plassen en poepen.\nEn toen waren al die mensen onder met plas en poep. \nEn toen ging hij ook nog op andere piramides plassen en poepen.\nEn toen ging hij ook nog in een rivier poepen en plassen en echt overal ter wereld plassen en poepen.\n"",""question"":""Waar ging de cheetah poepen?"",""options"":[""Op een huis"",""Op een river"",""Op een piramide, rivier en overal ter wereld""],""correct"":""C""},{""id"":148,""source"":""chiscor"",""text"":""Dan was ik aan het duiken.\nDan was er een shark met een staart.\nDan was de shark lief.\nNu was ik aan het duiken.\nNu was de shark ook aan het duiken.\n Naar de schatkist zoeken.\nDaar was ik schatkist opendoen.\nDaar hadden we sleutel.\nNu was ik slapen met de slaapdekentje.\nNu was ik aan het slapen.\nNu was er de visjes aan het eten.\nDat vind ik lekker.\nOok een shark lekker.\nNu waren we aan het slapen.\nIk heb ook een shark speelgoedje.\n"",""question"":""Wat waren ze aan het zoeken?"",""options"":[""Een sleutel"",""Een schatkist"",""Een lijk""],""correct"":""B""},{""id"":137,""source"":""chiscor"",""text"":""Er was een keer een eenhoorn en die was helemaal alleen.\nEn er waren geen eenhoorns.\nEr waren geen eenhoorns.\nEn toen zag de prinses dat er een eenhoorntje die een babyeenhoorntje ze moeder kwijt had en dat was het."",""question"":""Wie had het babyeenhoorntje gezien?"",""options"":[""Een andere eenhoorn"",""De prinses"",""De moeder""],""correct"":""B""},{""id"":4,""source"":""sftw"",""text"":""Ik ga zo beginnen met mijn verhaal!\n\nEr leefde eens een kleine drakentje dat woonde in een klein huisje op een berg. Hij heette Flikker en hij was heel lief, maar ook heel dom. Want zomaar ineens kon hij flinke vlammen uit zijn staart schieten! En als hij dan boos werd, sprongen er vuurkwikkertjes uit zijn oren!\n\nFlikker wilde altijd met de vogels spelen en ze noemden hem de kleinste drakentje van de berg. Hij was heel bang voor de grote wolf die in de buurt woonde. Die kauwde altijd op de bomen.\n\nMaar Flikker durfde niet naar beneden te gaan, omdat hij vreesde dat de wolf hem zou opeten. Want een drakentje moet sterk zijn en dan is het veilig! En zo bleef Flikker maar boven op de berg wonen met zijn vogelsvrienden.\n\nMaar toen kwam er een heldendier, een konijn met een helm, die de wolf versloeg. En daarna was alles veilig! En Flikker ging eindelijk naar beneden om te spelen met de andere dieren in de vallei!"",""question"":""Wie versloeg de wolf?"",""options"":[""Een draak"",""Een konijn"",""Een vos""],""correct"":""B""},{""id"":163,""source"":""chiscor"",""text"":""Een grote tafel.\nEen hele grote tafel.\nEn hij is een witte stoel hij is alleen.\nEn hij heeft super veel eten toetjes.\nEn soorten dingen en dan.\nEn hij eet alles en hij was een ballon op de lucht.\n"",""question"":""Wat voor object is de hoofdpersoon aan het begin van het verhaal?"",""options"":[""Een tafel"",""Een keuken"",""Een stoel""],""correct"":""C""},{""id"":73,""source"":""sftw"",""text"":""Er was eens een prinses die in een kasteel woonde. Zij had altijd al graag vliegen willen leren.\n\nEen dag kwam er een oude tovenaar langs op bezoek. Hij stopte zijn hand in zijn zak en haalde er een kleine Kwakacolaflesje uit.\n\nDe prinses begon de fles te openen, maar de tovenaar zei: \""Nee, nee! Je moet eerst deze speciale bril opzetten. Als je dat doet word je blind voor het goede en de kwade!\""\n\nDe prinses deed de bril op, stootte een luid geluid en werd plotseling heel klein en kon vliegen. De tovenaar was heel blij en zei: \""Nu kun je echt leren vliegen!\"" En samen vlogen ze door het kasteel!"",""question"":""Wat moest de prinses opzetten?"",""options"":[""Een speciale hoed"",""Een speciale bril"",""Een speciale paraplu""],""correct"":""B""},{""id"":68,""source"":""sftw"",""text"":""Er was eens een klein jongetje dat wilde gaan vliegen! Hij ging naar het vliegveld en kocht een kleine bestuurbare auto om in te vliegen. Hij heette de \""Vogel\"" en hij kon zo hoog gaan als hij maar wilde.\n\nHij vloog boven de stad, over de huizen, de boomtoppen en zelfs over het water! Iedereen keek naar hem op met open mond: \""Wauw!\"" zeiden ze. Maar toen hoorde hij de stem van zijn moeder roepen: \""Kom binnen kind, het is tijd voor het eten!\""\n\nHij vloog terug naar huis en landde zachtjes in de tuin. Hij sprong uit de Vogel en riep: \""Mam, mam! Ik ben terug!\"" Zijn moeder glimlachte en zei: \""Goed zo, kind. Maar volgende keer mag je eerst eerst even luisteren naar wat ik zeg.\"""",""question"":""Wat was de naam van de bestuurbare auto?"",""options"":[""Het Paard"",""De vliegende kat"",""De Vogel""],""correct"":""C""},{""id"":193,""source"":""chiscor"",""text"":""We waren met hele school naar Toverland gegaan. \nToen gingen wij  met een groep ergens naar toe naar een soort waterglijbaan. \nToen gingen wij in die boomstam en het was heel hoog. \nWij gingen glijden ik zei schreeuwend stop. \nIk dacht dat ik niet bang was maar ik was wel een beetje bang. \n Dacht ook dat ze bang was maar ze vond het leuk.\n"",""question"":""In welke attractie gingen de hoofdpersonen?"",""options"":[""Een achtbaan"",""Een waterglijbaan"",""Een zweefmolen""],""correct"":""B""},{""id"":153,""source"":""chiscor"",""text"":""Ik heb een babykat en hij springt op mijn gezicht. \nEn als ik roep dan komt hij hier en dan gaat hij wiebelen en dan rent hij zo snel.\n"",""question"":""Wat voor huisdier heeft de verteller?"",""options"":[""Een babykat"",""Een hamster"",""Een hond""],""correct"":""A""}]",,,0,0,0,0,1,2,1,0,0,0,2,0,0,1,0,0,1,0,0,2,0,0,0,2,1,2,0,1,0,0,Complete
+2026-05-14 13:14:14,2026-05-14 15:21:38,0,62.45.106.239,100,7643,1,2026-05-14 15:21:39,R_2V9LZY5xpCgwLdf,,,,,51.9402,4.3666,anonymous,EN,1,2,2,1,4,3,4,2,4,2,4,4,5,4,2,5,4,3,3,3,3,3,2,2,2,3,4,4,4,4,5,4,2,3,2,1,3,3,3,1,2,1,5,4,4,4,3,3,4,1,2,4,4,4,3,4,4,3,4,4,3,2,2,3,2,2,4,5,1,1,1,1,4,1,4,5,5,5,4,4,4,3,4,4,5,4,2,4,4,3,3,5,3,3,4,3,5,1,5,2,3,3,3,2,2,2,4,3,3,3,3,2,3,2,4,4,3,3,2,2,2,2,2,3,3,2,3,2,2,3,3,4,2,2,3,2,1,3,4,4,3,3,2,2,1,2,4,3,3,2,2,2,3,1,5,4,3,2,3,3,2,1,4,4,4,5,3,4,4,3,4,4,4,2,1,2,4,2,3,3,3,3,1,2,4,2,2,3,3,3,2,2,4,2,4,5,4,3,3,4,3,3,2,3,3,3,3,2,4,2,4,4,3,3,4,3,2,3,5,5,4,3,3,3,2,2,4,4,3,3,2,3,5,1,4,3,3,3,1,3,5,"Ik heb een babykat en hij springt op mijn gezicht. 
+En als ik roep dan komt hij hier en dan gaat hij wiebelen en dan rent hij zo snel.
+",Wat voor huisdier heeft de verteller?,Een babykat,Een hamster,Een hond,A,153,,Een babykat,,31,yes,"[{""id"":40,""source"":""sftw"",""text"":""Er was eens een kleine jongen die heel veel wilde schrijven. Hij had een speciale pen en een mooi boek. Op de veldag moest hij naar buiten om te spelen. Maar hij liep door de poel in zijn schoenen.\n\nHij ging met zijn vriendjes op pad, ze roepend en zingend. Ze kwamen bij het dorp waar iedereen wou dat de vogels niet meer kregen door de jacht van de mensen. Een oude man gaf hen een boekje om lezen over de duif.\n\nDe jager had een kapotte geweer, hij was erg verdrietig want hij wilde nu net naar de stad gaan om nieuwe schoenen te kopen. De jongens zagen hem wel en kwamen erbij staan. Ze keken naar het boekje van de oude man om meer over de duif te lezen.\n\nZe gingen allemaal op een rots zitten, ze hadden niets beters te doen dan zitten lezen over die kleine vogel."",""question"":""Waar ging het boekje over?"",""options"":[""De jager"",""De duif"",""Het geweer""],""correct"":""B""},{""id"":183,""source"":""chiscor"",""text"":""Er was eens een heks.\nEn die moest voor de eerste keer op een bezemsteel vliegen.\nAlleen ze viel in het water.\nEn toen kwam er een wolf aan.\nEn toen ging die heks gillen want ze dacht dat de wolf niet lief was.\nMaar de wolf was wel lief.\nEn ze hielp hem uit het water.\nEn toen had de wolf de heks afgedroogd.\nEn toen gingen ze samen barbecueën.\nDat was het."",""question"":""Wat deden de heks en de wolf samen?"",""options"":[""Kinderen opeten"",""Barbecueën"",""Stelen""],""correct"":""B""},{""id"":71,""source"":""sftw"",""text"":""Er was eens een koning. Hij had een prinses die heel lief was. De prinses hield van zoetigheden en ging altijd naar de markt om suiker en snoep te halen.\n\nOp één dag kwam er een mooie koninklijke koets langs de straat gereden, ze waren op weg naar de grot waar de koning zijn favoriete zanggroep had uitgenodigd om te zongen. Maar plotseling, de koninklijke koets stopte.\n\nDe prinses was heel benieuwd en vroeg aan de kruier wat er gebeurde. De kruier zei dat de paarden een plat stuk weg hadden gereden op de markt.\n\nToen de prinses dit hoorde, begon zij te lachen en ging meteen naar de markt om de paarden te helpen. Ze bond er touw omheen zodat ze weer konden rijden. En toen ging alles goed als vanouds..."",""question"":""Waarom ging de prinses naar de markt?"",""options"":[""Om de koning te helpen"",""Om de kruier te helpen"",""Om de paarden te helpen""],""correct"":""C""},{""id"":106,""source"":""chiscor"",""text"":""Mijn verhaal heet Oude Rode Ogen.\nTobias werd een keer wakker.\nTobias trouwens woont in een landhuis.\nEn woont midden in de het bos.\nEn het was  nacht.\nEn er was een storm.\nTobias werd wakker omdat hij had een nachtmerrie.\nHij had een nachtmerrie over een wolf.\nOver een weerwolf.\nDie zat achter hem aan in het bos.\nToen schreeuwde hij naar zijn moeder.\nRende hij naar z'n moeder.\nEn zijn moeder zei dat het gewoon een nachtmerrie was.\nDus ging hij weer slapen.\nToen hoorde Tobias gehuil.\nToen ging Tobias naar buiten om te checken.\nToen zag hij zijn vriend daar ook staan want die woont naast hem.\nEn ze gingen samen het bos in om te kijken.\nTobias hoorde weer het gehuil maar zijn vriend niet.\nTobias rende maar zijn vriend niet.\nDus uiteindelijk rende hij heel hard en hij zag zijn vriend niet meer en hij hoorde zijn vriend niet meer.\nToen hoorde hij een gil van zijn vriend.\nZijn vriend heet Thomas.\nThomas was weg.\nThomas was er niet meer.\nDit deed hem denken aan een legende uit het dorp naast hem.\nZe zeiden dat als je met twee personen het bos ingaat.\nDat de ene weggaat en dat de ander goed erin blijft.\nZe zeiden dat dat het plan was van Oude Rode Ogen.\nEen weerwolf met rode ogen.\nToen zag Tobias ook een grot.\nHij ging daar slapen want hij was heel erg moe.\nToen was het weer ochtend.\nMaar nee toch niet.\nHet was niet ochtend.\nHij hoorde opeens gegrom.\nHij dacht dat het ochtend was maar dat was niet zo.\nToen hoorde opeens hij gegrom.\nHij keek naar zijn linkerzijde.\nEn hij zag een grote weerwolf met rode ogen.\nHet einde."",""question"":""Hoe heet de vriend van Tobias?"",""options"":[""Mark"",""Tom"",""Thomas""],""correct"":""C""},{""id"":129,""source"":""chiscor"",""text"":""Er was eens een tweehoorn.\nEn een eekhoorn die doodging maar dat maakt niks uit want dat was maar een figurant.\nEn die tweehoorn die voelde zich heel erg als een mislukking.\nWant dat was hij ook want eigenlijk was het gewoon een wit paard met horens en vleugels.\nEn op een dag vloog hij naar een stad.\nDus toen daar zag hij een heel groot huis met een andere eekhoorn erin.\nEn die eekhoorn heettte Roderick.\nEn de tweehoorn heette Pjotr.\nEn Pjotr die zag Roderick voor het raam van het huis staan.\nDus Roderick ging kwetteren kwetter kwetter.\nDus Pjotr die bestormde het huis met z'n horens.\nDus die vloog het huis in maar Roderick zag het allemaal gebeuren.\nEn het was een vliegende eekhoorn dus die vloog op de horens van Pjotr.\nMaar hij overleefde het gelukkig.\nMaar toen kwam de ambulance wat eigenlijk een nijlpaard was genaamd Harry.\nEn Harry die nam Roderick mee naar het ziekenhuis.\nEn daar zat dokter Olifant genaamd Bladblazer Bert.\nEn Bladblazer Bert die pakte Roderick op en rende het ziekenhuis uit en legde hem in een mandje in een rivier.\nEn een rivier die stroomde naar het land van de tweehoorns.\nWaar Pjotr ook weer terug heen was gegaan.\nEn Roderick die viel ineens van de waterval af op de grond.\nMaar toen viel Harry het nijlpaard op Roderick.\nOp de stenen.\nDus toen was Roderick geplet.\nEn hij was nu gewoon een hoopje appelmoes.\nMaar toen kwam Berend de olifantendokter aangerend.\nEn die rende naar Bladblazer Bert toe.\nEn Bladblazer Bert blies alle figuranten weg.\nOnder andere een eekhoorn maar die was al dood dus dat maakte niks uit.\nDus iedereen zat ineens in het land van de tweehoorns.\nMaar daar mocht eigenlijk niemand in komen.\nDus tweehoorn Pjotr die rende gauw weg.\nWant die wist dat het zijn schuld was dat hun in het land van de tweehoorns waren.\nDus die gauw wegrennen la la la.\nDus toen zat daar ineens dronken Donny.\nMet z'n flesje bier.\nEn die gooide het in het gezicht van Pjotr.\nEn Pjotr die viel om maar iedereen hoorde het.\nDus toen beschuldigden ze Pjotr en dronken Donny voor de misdaad.\nDus toen gingen dronken Donny en Pjotr in de gevangenis.\nEn platte Roderick Bladblazer Bert en Olifant Berend wat ook een dokter is.\nEn nijpaard Harry en de eekhoorn die dood was maar dat maakte niks uit.\nDie gingen weer terug naar hun eigen land en iedereen leefde nog lang en gelukkig."",""question"":""Wat voor dier is Bladblazer Bert?"",""options"":[""Een tweehoorn"",""Een eekhoorn"",""Een olifant""],""correct"":""C""},{""id"":67,""source"":""sftw"",""text"":""Er was eens een klein jongetje dat in een groot bos woonde. Hij had vrienden die allemaal net zo lang waren als boomstammen en hij kon ze niet zien omdat ze heel ver weg stonden. De vrienden van het kleine jongetje hadden gezegd dat er een reus zou komen om hen te helpen.\n\nDe reus was enorm groot en ging naar de andere kant van de wereld om met de grote leeuw te praten, maar toen hij terugkwam, ging de zon onder. De reus liep blote voeten door het bos en zijn vrienden waren bang omdat ze wisten dat als de reus niet op tijd terug zou komen, dan zouden ze allemaal verdwaald raken.\n\nMaar gelukkig kwam de reus op tijd terug om hen te helpen. Hij nam hun hand vast en samen gingen ze naar huis. Het kleine jongetje was erg blij dat zijn vrienden veilig waren gekomen en hij dankte de reus voor zijn hulp."",""question"":""Met wie ging de reus praten aan de andere kant van de wereld?"",""options"":[""De grote leeuw"",""De kleine zebra"",""De sterke beer""],""correct"":""A""},{""id"":190,""source"":""chiscor"",""text"":""Dit verhaal heet de wraak van de Lucas van Leyden de Vliet.\nDe wraak van Lucas van Leyden de Vliet.\nOp een dag was gewoon iedereen aan het werk en gewoon aan het rekenen of aan het spelen in de kleuters.\nEn toen opeens schoot het digibord aan en kwam er zo'n filmpje.\nEr is iemand geweest en die wil de hele wereld vernietigen en die begint in Nederland.\nEn langzaam dacht iedereen van  wat gebeurt hier?\nEn toen zeiden juffen en meesters van  we moeten hier wegwezen.\nMaar echt heel veel kinderen die zeiden van nee.\nWe gaan gewoon naar hem toe en we gaan hem in elkaar slaan.\nToen gingen ze echt een heel plan bedenken.\nMet allemaal mensen die verschillende dingen moesten doen.\nEn uiteindelijk was het plan klaar.\nHet waren echt heel veel vellen papier.\nVol.\nEn daar stond het plan op.\nToen gingen ze inderdaad naar hen toe.\nMaar toen kwamen er zo heel veel volwassenen van.\n Misschien moeten jullie dit niet doen.\nEen paar die gingen toen met hen mee en de rest zei ja dit plan gaat wel lukken en dat plan lukte.\nMaar dat dus echt.\nWant uiteindelijk overtuigden ze een paar volwassenen om mee te helpen.\nToen uiteindelijk gingen d'r een paar volwassenen.\nPlus best wat snelle kinderen.\nDie gingen ze afleiden.\nEcht allemaal.\nEn toen ging de rest van de kinderen ze van achteren hen aanvallen en ja toen lukte het.\nEn toen gingen ze allemaal de school herbouwen de hele tijd en toen.\nWas het einde.\n"",""question"":""Wat werd er op het digibord getoond?"",""options"":[""Een filmpje dat iemand de hele wereld wilde vernietigen"",""Een fimpje over bijen"",""Een filmpje over de watersnoodramp""],""correct"":""A""},{""id"":94,""source"":""sftw"",""text"":""Ik woonde in een klein dorpje in de buurt van een grote stad. In dat dorpje bestonden heel veel dieren, zoals konijnen, eenden en hondjes. De hondjes speelden altijd samen aan het eind van de straat met een hondjesspelletje.\n\nEen keer kwam er een vreemde hond naar ons dorpje toe. Hij was genaamd Bruno en hij had grote tanden. Hij keek heel erg argwanend rond, maar toen hij onze hondjes zag spelen, begon hij ook mee te doen aan het spel.\n\nDit werd een heel leuk spelletje! Alle honden speelden samen, zwaaiend met hun staarten en blaffend van plezier. Ik keek er zo naar kijken dat ik niet meer kon slapen die nacht. De volgende dag ging ik met mijn moeder terug naar de speelplaats om te zien of Bruno nog steeds daar was. En ja, hij was er nog! Hij bleef maar spelen bij ons en kwam eigenlijk nooit meer weg uit ons dorpje."",""question"":""Hoe heette de vreemde hond?"",""options"":[""Tom"",""Branco"",""Bruno""],""correct"":""C""},{""id"":180,""source"":""chiscor"",""text"":""Er was er eens een meisje.\nZe wou heel graag buiten spelen.\nHet mocht niet van haar moeder.\nZe ging toch naar buiten en toen zei haar moeder waar ga je naartoe?\nEn het meisje zei ik ga naar buiten.\nEinde."",""question"":""Wat wil het meisje?"",""options"":[""Binnen blijven"",""Buiten spelen"",""Gamen""],""correct"":""B""},{""id"":200,""source"":""chiscor"",""text"":""Er was een heks.\nMet een megawrat.\nEn hij was op een dag opengegaan.\nEn er was ook een kind bij.\nEn die stond daar en die wrat ging open.\nEn alles overstroomde bij dat kind.\nEn dat kind ging naar iemand toe om te vragen.\nMag ik even in een douche want de douche was onder de wratspul.\nEn toen zei de heks oh nee jij moet bij mij blijven.\nWant die heks wilde hem wel graag zelf hebben voor klussies.\nMaar dat jongetje ging toch weg en zei nee nee ik ga gewoon weg.\nEn hij rende en rende maar die heks had dus een bezemsteel en die heette Friti.\nEn daar ging hij dus op en die heks ging dus achter het jongetje aan.\nEn ze pakte hem en ze zei ziezo. \nEn de heks vond dat heel leuk want toen moest hij alleen nog maar duizend jaar klusjes voor de wrat.\nEn hij moest ook nog de wrat schoonmaken en de luier van de heks verschonen.\nEinde.\n"",""question"":""Hoe heet de bezemsteel van de heks?"",""options"":[""Friti"",""Bezemsteel"",""Wrat""],""correct"":""A""},{""id"":140,""source"":""chiscor"",""text"":""Er was eens een hond die z'n staart kwijt was.\nEn hij ging hem in het hele huis zoeken.\nMaar hij kon hem niet vinden dus hij ging ook buiten zoeken.\nKon die hem ook niet vinden.\nHij vond hem wel een keertje terug.\nEen kat had hem.\nWant die kat had ook z'n staart kwijt."",""question"":""Wie waren hun staart allemaal kwijt?"",""options"":[""De hond"",""De kat"",""De hond en de kat""],""correct"":""C""},{""id"":117,""source"":""chiscor"",""text"":""Ik ga een verhaal vertellen over de kleerkast.\nEr was eens een kleerkast met allemaal bontjassen erin.\nD'r waren ook vier kindertjes die verstoppertje aan het spelen waren in een heel groot landhuis waar de kleerkast stond.\nEr d'r was één jongetje dat ging zich verstoppen in de kleerkast.\nMaar hij was zelf ook slim genoeg om de deur niet op slot te doen.\nWant hij wou zichzelf niet opsluiten.\nEn hij liep dus helemaal naar achter.\nMaar hij kwam ineens in sneeuw.\nDus hij had het superkoud.\nHij pakte een bontjas.\nMaar hij ging kijken wat er in die sneeuw was.\nD'r was een hele grote grot naast waar hij uitkwam.\nEn hij ging d'r in.\nD'r was een heel groot wit monster dat hem probeerde op te eten.\nDus hij rende weg.\nMaar dat monster dat gaf niet op.\nDus dat volgde hem.\nNaar de kleerkast.\nZe gingen er toen in.\nDus toen was dat monster in die kamer waar die kleerkast stond.\nMaar die zoeker van dat verstoppertje die was er dus ook.\nEn die schrok zich een apenhoedje.\nMaar dat jongetje dat zich dus verstopt had in de kleerkast.\nDie zei help help help hij gaat mij opeten.\nEn die zoeker die zei wat is dit.\nEn die jongen zei ik heb geen idee maar help.\nZe renden de kleerkast in om zich te verstoppen.\nMaar dat monster dat brak de kleerkast.\nDus de uitgang naar dat andere land dat was er nu niet meer.\nEn het monster dat was dus nu voorgoed in dat huis."",""question"":""Wat is de kleur van het monster?"",""options"":[""Rood"",""Blauw"",""Wit""],""correct"":""C""},{""id"":81,""source"":""sftw"",""text"":""We waren op de speeltuin! Mijn beste vriendin, Sofie, had een prachtige hond, Luna. Ze was een dubbele witte Labradoodle met roze oorknopjes.\n\nEen dag gingen we met Luna naar het park. We wilden een feestje maken voor haar verjaardag, maar toen arriveerden onze vriendinnen Mia en Emma niet op tijd. Zij waren verdwaald in de supermarkt omdat ze geen kaart hadden om te kopen.\n\nIk had een idee: ik kon Luna leren dansen! We deden veel oefeningen en zo leerde Luna dubbele sprongen maken. Toen Mia en Emma eindelijk arriveerden, waren we met onze handtekening op de ballon klaar om het feestje te beginnen. Niemand verstond hoe mijn vader kon denken dat dit een goed idee was!"",""question"":""Wat stond er op de ballon?"",""options"":[""Hun handtekening"",""Hun gezicht"",""Hun vingerafdruk""],""correct"":""A""},{""id"":48,""source"":""sftw"",""text"":""Er waren twee broers die een eiland hadden. Ze wilden naar de andere kant van het eiland gaan, maar ze mochten niet alleen. Dus gingen ze met hun vriend. Op weg kwamen ze langs een stroompje water en zagen er drie varkens overvallen door de politie. Er waren twee agenten die probeerden de dikkere politieman te helpen. De broers vonden het leuk om naar toe te kijken, maar hun vriend wilde weg. Hij was bang voor de politie. Ze gingen verder op pad en kwamen bij een grote boom. Daar zat een vogel. Hij zei dat hij kon springen van tak tot tak. De broer met de rood haar wilde ook graag gaan, maar zijn vriend was nog steeds bang."",""question"":""Wat voor dier kwamen de broers tegen bij de boom?"",""options"":[""Een varken"",""Een vogel"",""Een schildpad""],""correct"":""B""},{""id"":21,""source"":""sftw"",""text"":""Ik ging naar de kermis met mijn vriendjes! We gingen op een olifant rijden. Die was super lang en had grote tanden. Toen we in de rij wachtten, zag ik een stalletje waar ze drankjes verkochten. Ik pakte een biertje van mijn moeder aan, maar zij zei dat ik geen bier kon drinken. Dus nam ik een glas appelmoes.\n\nToen kwamen we aan de beurt om op de olifant te rijden. De man die het dier bestuurde was heel vol en had twee lange vingers, hij gebruikte ze om de stang vast te houden. We moesten ons in een zakketting vastbinden, zodat we niet van de olifant afvallen als hij bewoog. En dan ging we op weg!"",""question"":""Wat neemt de hoofdpersoon?"",""options"":[""Een biertje"",""Een glas appelmoes"",""Appelsap""],""correct"":""B""},{""id"":24,""source"":""sftw"",""text"":""Er was eens een meisje dat heette Luna. Ze had een vriendje genaamd Max. Het waren de beste vrienden van heel de klas.\n\nEén keer gingen ze op avontuur in het bos. Ze zochten naar draakjes. Die leken groot en fel te glimmen. Maar plotseling hoorden ze een luide schreeuw.\n\nIemand was gewond! Luna en Max renden snel om te zien wie dat was. En toen zagen ze hem: een man die op de grond lag te gillen van pijn.\n\nDe man had een enorme snee in zijn been. Hij was echt heel erg gewond. Hij vertelde dat hij door een houtje gesnapt en gevallen was.\n\nLuna keek naar Max en zocht hem een hand. \""We moeten wegrende, Max,\"" zei ze meteen. Ze draafden beiden weg om te helpen halen van de dokter."",""question"":""Waar zochten Max en Luna naar?"",""options"":[""Houtjes"",""Draakjes"",""Vriendjes""],""correct"":""B""},{""id"":85,""source"":""sftw"",""text"":""Er was eens een prinsesje die erg verlegen was. Zij ging naar de stad en ontmoette er een leuk meisje dat haar uitnodigde om mee te gaan spelen op de speelplaats.\n\nHet meisje zei: \""Kom, laten we hebben lol!\"" En daarmee begon hun spel. Ze renden rond, gooiden steentjes in het water en maakten geluiden alsof ze een klein dier waren. De prinsesje was zo blij dat ze haar verlegenheid kwijt was.\n\nDe volgende dag ging de prinsesje nog eens naar de stad om met haar nieuwe vriendin op bezoek te gaan. Ze gingen naar de speelplaats, waar weer veel kinderen waren die samen wilden spelen. En met een glimlach en een vrolijk gezicht voegde de prinsesje zich aan het spel toe.\n\nDe andere kinderen zagen dat ze gelukkig was, dus stelden ze haar niet teleur en lieten hen beiden geweldig spelletjes doen om lol van te hebben."",""question"":""Waar speelden de kinderen?"",""options"":[""Het park"",""De speeltuin"",""De speelplaats""],""correct"":""C""},{""id"":99,""source"":""sftw"",""text"":""We waren op een feestje van onze vriend Timmy. Hij had een enorme tuin met veel gras en één keer per jaar kwam er een groep koeien om te spelen.\n\nDe koeien zagen er heel leuk uit, ze hadden allemaal roze banden om hun hoefjes. Ze stampten in het gras en maakten er een hoop modder van.\n\nIk had een boterham met kaas meegenomen en net toen ik hem ging eten, kwamen de koeien naar ons toe en wilden ze ook wat. Maar we mochten niet aan hun zijde blijven, want Timmy had gezegd dat ze alleen mochten spelen als hij toestemming gaf.\n\nEr was zelfs een bestuurbare auto die over het gras reed, maar ik denk dat de koeien het leuksten vonden om met de ballen te gooien. Ze waren zo hard en bleven heel lang in de lucht hangen!"",""question"":""Wat zat er op de boterham"",""options"":[""Pindakaas"",""Speculoos"",""Kaas""],""correct"":""C""},{""id"":86,""source"":""sftw"",""text"":""Er was eens een koningin die heel veel boeken had. Ze woonde in een kasteel en daar wilden ze allemaal graag zijn. De koningin las iedere dag in de zon op het grasveld voor het slot.\n\nMaar dan kwam er een kleintje, een klein meisje dat niet zo goed kon lopen. En toen moest ze ineens een figurant zijn in een film die bij het slot werd gedraaid. Ze deed maar wat en liep rondjes om de camera heen. Echt was ze een beetje bang.\n\nToen kwam er opeens een olifant op het grasveld, want hij moest ook nog even voor de camera staan. Hij stak zijn neus in de zak van het klein meisje en toen moest ze hem naar buiten trekken.\n\nDe koningin lachte hard om die olifant en dat kleine meidje, en nu was iedereen zo vrolijk!"",""question"":""Welk dier kwam op het grasveld?"",""options"":[""Een konijn"",""Een olifant"",""Een tijger""],""correct"":""B""},{""id"":46,""source"":""sftw"",""text"":""Er waren eens drie vrienden die heerlijk wilden spelen in de bossen achter hun huis! Ze gingen op avontuur met een klein hondje dat ze 'Bolletje' noemden.\n\nToen ze opeens een enorm olifant zagen, beukten de vrienden op elkaar. \""Wauw!\"" riepen ze in koor. Bolletje begon te janken en rende weg.\n\nDe drie vrienden bleven achter en besloten om de olifant zijn nieuwe thuis te laten zien. Ze brachten hem naar het huis van hun buurman, waar hij een gigantische douche zag staan die speciaal voor olifanten was gemaakt!\n\nBolletje kwam terug en zei dat hij zich goed had vermaakt op de speeltuin van de buurman. En zo hadden de vrienden een nieuwe vriend gekregen, een dikke, vette olifant met een dikke, blinde staart!"",""question"":""Wat zag de olifant staan in het huis van de buurman?"",""options"":[""Een douche"",""Een emmer"",""Een schilderij""],""correct"":""A""},{""id"":125,""source"":""chiscor"",""text"":""En er was eens een boerderij en op die boerderij woonden twee kindjes.\nEn het was een beetje een vreemde boerderij want de schapen legden eieren.\nEn de kippen moesten gemolken worden.\nEn de koeien moesten vermoord worden voor het vlees en van de varkens kwam wol van de schapen.\nMaar dat was dus een beetje vreemd.\nMaar die kinderen die moesten de varkens gaan scheren.\nWant ze zaten helemaal vol met wol.\nMaar de biggetjes waren weg.\nDus ze moesten de biggetjes gaan zoeken.\nDus ze keken bij de eieren en ze keken bij het vet.\nEn ze keken ook bij de kippen en bij de koeien en bij de schapen.\nMaar nergens waren de biggetjes.\nDus toen besloten ze het maar tegen de boerin te gaan zeggen.\nMaar ze wisten al wel dat die niet zo blij zou zijn.\nDus besloten ze het niet te zeggen en zichzelf op te sluiten in de schuur.\nMaar in die schuur zaten de biggetjes maar die waren bang om geschoren te worden.\nDus hebben ze ze toen geschoren.\nEn dat was het einde."",""question"":""Waar waren de biggetjes uiteindelijk?"",""options"":[""In de schuur"",""Bij de boerin"",""Ze zijn niet gevonden""],""correct"":""A""},{""id"":154,""source"":""chiscor"",""text"":""Er was eens een cheetah.\nDie in Egypte was en die ging bovenop de piramide plassen en poepen.\nEn toen waren al die mensen onder met plas en poep. \nEn toen ging hij ook nog op andere piramides plassen en poepen.\nEn toen ging hij ook nog in een rivier poepen en plassen en echt overal ter wereld plassen en poepen.\n"",""question"":""Waar ging de cheetah poepen?"",""options"":[""Op een huis"",""Op een river"",""Op een piramide, rivier en overal ter wereld""],""correct"":""C""},{""id"":148,""source"":""chiscor"",""text"":""Dan was ik aan het duiken.\nDan was er een shark met een staart.\nDan was de shark lief.\nNu was ik aan het duiken.\nNu was de shark ook aan het duiken.\n Naar de schatkist zoeken.\nDaar was ik schatkist opendoen.\nDaar hadden we sleutel.\nNu was ik slapen met de slaapdekentje.\nNu was ik aan het slapen.\nNu was er de visjes aan het eten.\nDat vind ik lekker.\nOok een shark lekker.\nNu waren we aan het slapen.\nIk heb ook een shark speelgoedje.\n"",""question"":""Wat waren ze aan het zoeken?"",""options"":[""Een sleutel"",""Een schatkist"",""Een lijk""],""correct"":""B""},{""id"":137,""source"":""chiscor"",""text"":""Er was een keer een eenhoorn en die was helemaal alleen.\nEn er waren geen eenhoorns.\nEr waren geen eenhoorns.\nEn toen zag de prinses dat er een eenhoorntje die een babyeenhoorntje ze moeder kwijt had en dat was het."",""question"":""Wie had het babyeenhoorntje gezien?"",""options"":[""Een andere eenhoorn"",""De prinses"",""De moeder""],""correct"":""B""},{""id"":4,""source"":""sftw"",""text"":""Ik ga zo beginnen met mijn verhaal!\n\nEr leefde eens een kleine drakentje dat woonde in een klein huisje op een berg. Hij heette Flikker en hij was heel lief, maar ook heel dom. Want zomaar ineens kon hij flinke vlammen uit zijn staart schieten! En als hij dan boos werd, sprongen er vuurkwikkertjes uit zijn oren!\n\nFlikker wilde altijd met de vogels spelen en ze noemden hem de kleinste drakentje van de berg. Hij was heel bang voor de grote wolf die in de buurt woonde. Die kauwde altijd op de bomen.\n\nMaar Flikker durfde niet naar beneden te gaan, omdat hij vreesde dat de wolf hem zou opeten. Want een drakentje moet sterk zijn en dan is het veilig! En zo bleef Flikker maar boven op de berg wonen met zijn vogelsvrienden.\n\nMaar toen kwam er een heldendier, een konijn met een helm, die de wolf versloeg. En daarna was alles veilig! En Flikker ging eindelijk naar beneden om te spelen met de andere dieren in de vallei!"",""question"":""Wie versloeg de wolf?"",""options"":[""Een draak"",""Een konijn"",""Een vos""],""correct"":""B""},{""id"":163,""source"":""chiscor"",""text"":""Een grote tafel.\nEen hele grote tafel.\nEn hij is een witte stoel hij is alleen.\nEn hij heeft super veel eten toetjes.\nEn soorten dingen en dan.\nEn hij eet alles en hij was een ballon op de lucht.\n"",""question"":""Wat voor object is de hoofdpersoon aan het begin van het verhaal?"",""options"":[""Een tafel"",""Een keuken"",""Een stoel""],""correct"":""C""},{""id"":73,""source"":""sftw"",""text"":""Er was eens een prinses die in een kasteel woonde. Zij had altijd al graag vliegen willen leren.\n\nEen dag kwam er een oude tovenaar langs op bezoek. Hij stopte zijn hand in zijn zak en haalde er een kleine Kwakacolaflesje uit.\n\nDe prinses begon de fles te openen, maar de tovenaar zei: \""Nee, nee! Je moet eerst deze speciale bril opzetten. Als je dat doet word je blind voor het goede en de kwade!\""\n\nDe prinses deed de bril op, stootte een luid geluid en werd plotseling heel klein en kon vliegen. De tovenaar was heel blij en zei: \""Nu kun je echt leren vliegen!\"" En samen vlogen ze door het kasteel!"",""question"":""Wat moest de prinses opzetten?"",""options"":[""Een speciale hoed"",""Een speciale bril"",""Een speciale paraplu""],""correct"":""B""},{""id"":68,""source"":""sftw"",""text"":""Er was eens een klein jongetje dat wilde gaan vliegen! Hij ging naar het vliegveld en kocht een kleine bestuurbare auto om in te vliegen. Hij heette de \""Vogel\"" en hij kon zo hoog gaan als hij maar wilde.\n\nHij vloog boven de stad, over de huizen, de boomtoppen en zelfs over het water! Iedereen keek naar hem op met open mond: \""Wauw!\"" zeiden ze. Maar toen hoorde hij de stem van zijn moeder roepen: \""Kom binnen kind, het is tijd voor het eten!\""\n\nHij vloog terug naar huis en landde zachtjes in de tuin. Hij sprong uit de Vogel en riep: \""Mam, mam! Ik ben terug!\"" Zijn moeder glimlachte en zei: \""Goed zo, kind. Maar volgende keer mag je eerst eerst even luisteren naar wat ik zeg.\"""",""question"":""Wat was de naam van de bestuurbare auto?"",""options"":[""Het Paard"",""De vliegende kat"",""De Vogel""],""correct"":""C""},{""id"":193,""source"":""chiscor"",""text"":""We waren met hele school naar Toverland gegaan. \nToen gingen wij  met een groep ergens naar toe naar een soort waterglijbaan. \nToen gingen wij in die boomstam en het was heel hoog. \nWij gingen glijden ik zei schreeuwend stop. \nIk dacht dat ik niet bang was maar ik was wel een beetje bang. \n Dacht ook dat ze bang was maar ze vond het leuk.\n"",""question"":""In welke attractie gingen de hoofdpersonen?"",""options"":[""Een achtbaan"",""Een waterglijbaan"",""Een zweefmolen""],""correct"":""B""},{""id"":153,""source"":""chiscor"",""text"":""Ik heb een babykat en hij springt op mijn gezicht. \nEn als ik roep dan komt hij hier en dan gaat hij wiebelen en dan rent hij zo snel.\n"",""question"":""Wat voor huisdier heeft de verteller?"",""options"":[""Een babykat"",""Een hamster"",""Een hond""],""correct"":""A""}]",,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Complete
+2026-05-16 05:56:36,2026-05-17 08:28:41,0,77.174.238.130,100,95524,1,2026-05-17 08:28:41,R_8FKlFJxsC2QCEft,,,,,52.3824,4.8995,anonymous,EN,1,2,3,1,4,4,3,2,1,2,4,4,5,5,3,4,5,3,3,1,4,5,3,3,1,3,3,4,5,5,3,4,5,3,3,2,5,5,4,3,4,1,4,3,4,5,3,2,2,1,2,3,4,5,4,4,5,3,4,4,2,4,2,3,1,2,3,5,2,2,2,3,5,1,3,4,2,3,2,2,5,3,2,4,4,3,1,2,5,3,3,3,3,4,4,3,3,1,4,4,4,4,3,3,1,2,5,2,4,4,4,1,1,2,2,2,5,5,3,3,1,2,2,3,4,4,3,2,2,3,2,4,2,2,2,3,2,3,4,2,4,4,3,3,1,2,4,1,4,4,3,2,1,1,4,1,4,4,3,4,1,1,4,2,4,4,3,4,4,3,3,3,2,2,1,1,5,2,1,1,3,3,1,1,5,2,1,1,1,1,1,1,5,2,4,4,4,4,3,3,2,3,1,1,4,2,1,1,3,2,4,2,4,3,2,3,2,3,5,5,5,5,3,4,1,2,4,4,4,2,2,3,5,1,4,4,3,2,1,3,5,"Ik heb een babykat en hij springt op mijn gezicht. 
+En als ik roep dan komt hij hier en dan gaat hij wiebelen en dan rent hij zo snel.
+",Wat voor huisdier heeft de verteller?,Een babykat,Een hamster,Een hond,A,153,,Een babykat,,31,yes,"[{""id"":40,""source"":""sftw"",""text"":""Er was eens een kleine jongen die heel veel wilde schrijven. Hij had een speciale pen en een mooi boek. Op de veldag moest hij naar buiten om te spelen. Maar hij liep door de poel in zijn schoenen.\n\nHij ging met zijn vriendjes op pad, ze roepend en zingend. Ze kwamen bij het dorp waar iedereen wou dat de vogels niet meer kregen door de jacht van de mensen. Een oude man gaf hen een boekje om lezen over de duif.\n\nDe jager had een kapotte geweer, hij was erg verdrietig want hij wilde nu net naar de stad gaan om nieuwe schoenen te kopen. De jongens zagen hem wel en kwamen erbij staan. Ze keken naar het boekje van de oude man om meer over de duif te lezen.\n\nZe gingen allemaal op een rots zitten, ze hadden niets beters te doen dan zitten lezen over die kleine vogel."",""question"":""Waar ging het boekje over?"",""options"":[""De jager"",""De duif"",""Het geweer""],""correct"":""B""},{""id"":183,""source"":""chiscor"",""text"":""Er was eens een heks.\nEn die moest voor de eerste keer op een bezemsteel vliegen.\nAlleen ze viel in het water.\nEn toen kwam er een wolf aan.\nEn toen ging die heks gillen want ze dacht dat de wolf niet lief was.\nMaar de wolf was wel lief.\nEn ze hielp hem uit het water.\nEn toen had de wolf de heks afgedroogd.\nEn toen gingen ze samen barbecueën.\nDat was het."",""question"":""Wat deden de heks en de wolf samen?"",""options"":[""Kinderen opeten"",""Barbecueën"",""Stelen""],""correct"":""B""},{""id"":71,""source"":""sftw"",""text"":""Er was eens een koning. Hij had een prinses die heel lief was. De prinses hield van zoetigheden en ging altijd naar de markt om suiker en snoep te halen.\n\nOp één dag kwam er een mooie koninklijke koets langs de straat gereden, ze waren op weg naar de grot waar de koning zijn favoriete zanggroep had uitgenodigd om te zongen. Maar plotseling, de koninklijke koets stopte.\n\nDe prinses was heel benieuwd en vroeg aan de kruier wat er gebeurde. De kruier zei dat de paarden een plat stuk weg hadden gereden op de markt.\n\nToen de prinses dit hoorde, begon zij te lachen en ging meteen naar de markt om de paarden te helpen. Ze bond er touw omheen zodat ze weer konden rijden. En toen ging alles goed als vanouds..."",""question"":""Waarom ging de prinses naar de markt?"",""options"":[""Om de koning te helpen"",""Om de kruier te helpen"",""Om de paarden te helpen""],""correct"":""C""},{""id"":106,""source"":""chiscor"",""text"":""Mijn verhaal heet Oude Rode Ogen.\nTobias werd een keer wakker.\nTobias trouwens woont in een landhuis.\nEn woont midden in de het bos.\nEn het was  nacht.\nEn er was een storm.\nTobias werd wakker omdat hij had een nachtmerrie.\nHij had een nachtmerrie over een wolf.\nOver een weerwolf.\nDie zat achter hem aan in het bos.\nToen schreeuwde hij naar zijn moeder.\nRende hij naar z'n moeder.\nEn zijn moeder zei dat het gewoon een nachtmerrie was.\nDus ging hij weer slapen.\nToen hoorde Tobias gehuil.\nToen ging Tobias naar buiten om te checken.\nToen zag hij zijn vriend daar ook staan want die woont naast hem.\nEn ze gingen samen het bos in om te kijken.\nTobias hoorde weer het gehuil maar zijn vriend niet.\nTobias rende maar zijn vriend niet.\nDus uiteindelijk rende hij heel hard en hij zag zijn vriend niet meer en hij hoorde zijn vriend niet meer.\nToen hoorde hij een gil van zijn vriend.\nZijn vriend heet Thomas.\nThomas was weg.\nThomas was er niet meer.\nDit deed hem denken aan een legende uit het dorp naast hem.\nZe zeiden dat als je met twee personen het bos ingaat.\nDat de ene weggaat en dat de ander goed erin blijft.\nZe zeiden dat dat het plan was van Oude Rode Ogen.\nEen weerwolf met rode ogen.\nToen zag Tobias ook een grot.\nHij ging daar slapen want hij was heel erg moe.\nToen was het weer ochtend.\nMaar nee toch niet.\nHet was niet ochtend.\nHij hoorde opeens gegrom.\nHij dacht dat het ochtend was maar dat was niet zo.\nToen hoorde opeens hij gegrom.\nHij keek naar zijn linkerzijde.\nEn hij zag een grote weerwolf met rode ogen.\nHet einde."",""question"":""Hoe heet de vriend van Tobias?"",""options"":[""Mark"",""Tom"",""Thomas""],""correct"":""C""},{""id"":129,""source"":""chiscor"",""text"":""Er was eens een tweehoorn.\nEn een eekhoorn die doodging maar dat maakt niks uit want dat was maar een figurant.\nEn die tweehoorn die voelde zich heel erg als een mislukking.\nWant dat was hij ook want eigenlijk was het gewoon een wit paard met horens en vleugels.\nEn op een dag vloog hij naar een stad.\nDus toen daar zag hij een heel groot huis met een andere eekhoorn erin.\nEn die eekhoorn heettte Roderick.\nEn de tweehoorn heette Pjotr.\nEn Pjotr die zag Roderick voor het raam van het huis staan.\nDus Roderick ging kwetteren kwetter kwetter.\nDus Pjotr die bestormde het huis met z'n horens.\nDus die vloog het huis in maar Roderick zag het allemaal gebeuren.\nEn het was een vliegende eekhoorn dus die vloog op de horens van Pjotr.\nMaar hij overleefde het gelukkig.\nMaar toen kwam de ambulance wat eigenlijk een nijlpaard was genaamd Harry.\nEn Harry die nam Roderick mee naar het ziekenhuis.\nEn daar zat dokter Olifant genaamd Bladblazer Bert.\nEn Bladblazer Bert die pakte Roderick op en rende het ziekenhuis uit en legde hem in een mandje in een rivier.\nEn een rivier die stroomde naar het land van de tweehoorns.\nWaar Pjotr ook weer terug heen was gegaan.\nEn Roderick die viel ineens van de waterval af op de grond.\nMaar toen viel Harry het nijlpaard op Roderick.\nOp de stenen.\nDus toen was Roderick geplet.\nEn hij was nu gewoon een hoopje appelmoes.\nMaar toen kwam Berend de olifantendokter aangerend.\nEn die rende naar Bladblazer Bert toe.\nEn Bladblazer Bert blies alle figuranten weg.\nOnder andere een eekhoorn maar die was al dood dus dat maakte niks uit.\nDus iedereen zat ineens in het land van de tweehoorns.\nMaar daar mocht eigenlijk niemand in komen.\nDus tweehoorn Pjotr die rende gauw weg.\nWant die wist dat het zijn schuld was dat hun in het land van de tweehoorns waren.\nDus die gauw wegrennen la la la.\nDus toen zat daar ineens dronken Donny.\nMet z'n flesje bier.\nEn die gooide het in het gezicht van Pjotr.\nEn Pjotr die viel om maar iedereen hoorde het.\nDus toen beschuldigden ze Pjotr en dronken Donny voor de misdaad.\nDus toen gingen dronken Donny en Pjotr in de gevangenis.\nEn platte Roderick Bladblazer Bert en Olifant Berend wat ook een dokter is.\nEn nijpaard Harry en de eekhoorn die dood was maar dat maakte niks uit.\nDie gingen weer terug naar hun eigen land en iedereen leefde nog lang en gelukkig."",""question"":""Wat voor dier is Bladblazer Bert?"",""options"":[""Een tweehoorn"",""Een eekhoorn"",""Een olifant""],""correct"":""C""},{""id"":67,""source"":""sftw"",""text"":""Er was eens een klein jongetje dat in een groot bos woonde. Hij had vrienden die allemaal net zo lang waren als boomstammen en hij kon ze niet zien omdat ze heel ver weg stonden. De vrienden van het kleine jongetje hadden gezegd dat er een reus zou komen om hen te helpen.\n\nDe reus was enorm groot en ging naar de andere kant van de wereld om met de grote leeuw te praten, maar toen hij terugkwam, ging de zon onder. De reus liep blote voeten door het bos en zijn vrienden waren bang omdat ze wisten dat als de reus niet op tijd terug zou komen, dan zouden ze allemaal verdwaald raken.\n\nMaar gelukkig kwam de reus op tijd terug om hen te helpen. Hij nam hun hand vast en samen gingen ze naar huis. Het kleine jongetje was erg blij dat zijn vrienden veilig waren gekomen en hij dankte de reus voor zijn hulp."",""question"":""Met wie ging de reus praten aan de andere kant van de wereld?"",""options"":[""De grote leeuw"",""De kleine zebra"",""De sterke beer""],""correct"":""A""},{""id"":190,""source"":""chiscor"",""text"":""Dit verhaal heet de wraak van de Lucas van Leyden de Vliet.\nDe wraak van Lucas van Leyden de Vliet.\nOp een dag was gewoon iedereen aan het werk en gewoon aan het rekenen of aan het spelen in de kleuters.\nEn toen opeens schoot het digibord aan en kwam er zo'n filmpje.\nEr is iemand geweest en die wil de hele wereld vernietigen en die begint in Nederland.\nEn langzaam dacht iedereen van  wat gebeurt hier?\nEn toen zeiden juffen en meesters van  we moeten hier wegwezen.\nMaar echt heel veel kinderen die zeiden van nee.\nWe gaan gewoon naar hem toe en we gaan hem in elkaar slaan.\nToen gingen ze echt een heel plan bedenken.\nMet allemaal mensen die verschillende dingen moesten doen.\nEn uiteindelijk was het plan klaar.\nHet waren echt heel veel vellen papier.\nVol.\nEn daar stond het plan op.\nToen gingen ze inderdaad naar hen toe.\nMaar toen kwamen er zo heel veel volwassenen van.\n Misschien moeten jullie dit niet doen.\nEen paar die gingen toen met hen mee en de rest zei ja dit plan gaat wel lukken en dat plan lukte.\nMaar dat dus echt.\nWant uiteindelijk overtuigden ze een paar volwassenen om mee te helpen.\nToen uiteindelijk gingen d'r een paar volwassenen.\nPlus best wat snelle kinderen.\nDie gingen ze afleiden.\nEcht allemaal.\nEn toen ging de rest van de kinderen ze van achteren hen aanvallen en ja toen lukte het.\nEn toen gingen ze allemaal de school herbouwen de hele tijd en toen.\nWas het einde.\n"",""question"":""Wat werd er op het digibord getoond?"",""options"":[""Een filmpje dat iemand de hele wereld wilde vernietigen"",""Een fimpje over bijen"",""Een filmpje over de watersnoodramp""],""correct"":""A""},{""id"":94,""source"":""sftw"",""text"":""Ik woonde in een klein dorpje in de buurt van een grote stad. In dat dorpje bestonden heel veel dieren, zoals konijnen, eenden en hondjes. De hondjes speelden altijd samen aan het eind van de straat met een hondjesspelletje.\n\nEen keer kwam er een vreemde hond naar ons dorpje toe. Hij was genaamd Bruno en hij had grote tanden. Hij keek heel erg argwanend rond, maar toen hij onze hondjes zag spelen, begon hij ook mee te doen aan het spel.\n\nDit werd een heel leuk spelletje! Alle honden speelden samen, zwaaiend met hun staarten en blaffend van plezier. Ik keek er zo naar kijken dat ik niet meer kon slapen die nacht. De volgende dag ging ik met mijn moeder terug naar de speelplaats om te zien of Bruno nog steeds daar was. En ja, hij was er nog! Hij bleef maar spelen bij ons en kwam eigenlijk nooit meer weg uit ons dorpje."",""question"":""Hoe heette de vreemde hond?"",""options"":[""Tom"",""Branco"",""Bruno""],""correct"":""C""},{""id"":180,""source"":""chiscor"",""text"":""Er was er eens een meisje.\nZe wou heel graag buiten spelen.\nHet mocht niet van haar moeder.\nZe ging toch naar buiten en toen zei haar moeder waar ga je naartoe?\nEn het meisje zei ik ga naar buiten.\nEinde."",""question"":""Wat wil het meisje?"",""options"":[""Binnen blijven"",""Buiten spelen"",""Gamen""],""correct"":""B""},{""id"":200,""source"":""chiscor"",""text"":""Er was een heks.\nMet een megawrat.\nEn hij was op een dag opengegaan.\nEn er was ook een kind bij.\nEn die stond daar en die wrat ging open.\nEn alles overstroomde bij dat kind.\nEn dat kind ging naar iemand toe om te vragen.\nMag ik even in een douche want de douche was onder de wratspul.\nEn toen zei de heks oh nee jij moet bij mij blijven.\nWant die heks wilde hem wel graag zelf hebben voor klussies.\nMaar dat jongetje ging toch weg en zei nee nee ik ga gewoon weg.\nEn hij rende en rende maar die heks had dus een bezemsteel en die heette Friti.\nEn daar ging hij dus op en die heks ging dus achter het jongetje aan.\nEn ze pakte hem en ze zei ziezo. \nEn de heks vond dat heel leuk want toen moest hij alleen nog maar duizend jaar klusjes voor de wrat.\nEn hij moest ook nog de wrat schoonmaken en de luier van de heks verschonen.\nEinde.\n"",""question"":""Hoe heet de bezemsteel van de heks?"",""options"":[""Friti"",""Bezemsteel"",""Wrat""],""correct"":""A""},{""id"":140,""source"":""chiscor"",""text"":""Er was eens een hond die z'n staart kwijt was.\nEn hij ging hem in het hele huis zoeken.\nMaar hij kon hem niet vinden dus hij ging ook buiten zoeken.\nKon die hem ook niet vinden.\nHij vond hem wel een keertje terug.\nEen kat had hem.\nWant die kat had ook z'n staart kwijt."",""question"":""Wie waren hun staart allemaal kwijt?"",""options"":[""De hond"",""De kat"",""De hond en de kat""],""correct"":""C""},{""id"":117,""source"":""chiscor"",""text"":""Ik ga een verhaal vertellen over de kleerkast.\nEr was eens een kleerkast met allemaal bontjassen erin.\nD'r waren ook vier kindertjes die verstoppertje aan het spelen waren in een heel groot landhuis waar de kleerkast stond.\nEr d'r was één jongetje dat ging zich verstoppen in de kleerkast.\nMaar hij was zelf ook slim genoeg om de deur niet op slot te doen.\nWant hij wou zichzelf niet opsluiten.\nEn hij liep dus helemaal naar achter.\nMaar hij kwam ineens in sneeuw.\nDus hij had het superkoud.\nHij pakte een bontjas.\nMaar hij ging kijken wat er in die sneeuw was.\nD'r was een hele grote grot naast waar hij uitkwam.\nEn hij ging d'r in.\nD'r was een heel groot wit monster dat hem probeerde op te eten.\nDus hij rende weg.\nMaar dat monster dat gaf niet op.\nDus dat volgde hem.\nNaar de kleerkast.\nZe gingen er toen in.\nDus toen was dat monster in die kamer waar die kleerkast stond.\nMaar die zoeker van dat verstoppertje die was er dus ook.\nEn die schrok zich een apenhoedje.\nMaar dat jongetje dat zich dus verstopt had in de kleerkast.\nDie zei help help help hij gaat mij opeten.\nEn die zoeker die zei wat is dit.\nEn die jongen zei ik heb geen idee maar help.\nZe renden de kleerkast in om zich te verstoppen.\nMaar dat monster dat brak de kleerkast.\nDus de uitgang naar dat andere land dat was er nu niet meer.\nEn het monster dat was dus nu voorgoed in dat huis."",""question"":""Wat is de kleur van het monster?"",""options"":[""Rood"",""Blauw"",""Wit""],""correct"":""C""},{""id"":81,""source"":""sftw"",""text"":""We waren op de speeltuin! Mijn beste vriendin, Sofie, had een prachtige hond, Luna. Ze was een dubbele witte Labradoodle met roze oorknopjes.\n\nEen dag gingen we met Luna naar het park. We wilden een feestje maken voor haar verjaardag, maar toen arriveerden onze vriendinnen Mia en Emma niet op tijd. Zij waren verdwaald in de supermarkt omdat ze geen kaart hadden om te kopen.\n\nIk had een idee: ik kon Luna leren dansen! We deden veel oefeningen en zo leerde Luna dubbele sprongen maken. Toen Mia en Emma eindelijk arriveerden, waren we met onze handtekening op de ballon klaar om het feestje te beginnen. Niemand verstond hoe mijn vader kon denken dat dit een goed idee was!"",""question"":""Wat stond er op de ballon?"",""options"":[""Hun handtekening"",""Hun gezicht"",""Hun vingerafdruk""],""correct"":""A""},{""id"":48,""source"":""sftw"",""text"":""Er waren twee broers die een eiland hadden. Ze wilden naar de andere kant van het eiland gaan, maar ze mochten niet alleen. Dus gingen ze met hun vriend. Op weg kwamen ze langs een stroompje water en zagen er drie varkens overvallen door de politie. Er waren twee agenten die probeerden de dikkere politieman te helpen. De broers vonden het leuk om naar toe te kijken, maar hun vriend wilde weg. Hij was bang voor de politie. Ze gingen verder op pad en kwamen bij een grote boom. Daar zat een vogel. Hij zei dat hij kon springen van tak tot tak. De broer met de rood haar wilde ook graag gaan, maar zijn vriend was nog steeds bang."",""question"":""Wat voor dier kwamen de broers tegen bij de boom?"",""options"":[""Een varken"",""Een vogel"",""Een schildpad""],""correct"":""B""},{""id"":21,""source"":""sftw"",""text"":""Ik ging naar de kermis met mijn vriendjes! We gingen op een olifant rijden. Die was super lang en had grote tanden. Toen we in de rij wachtten, zag ik een stalletje waar ze drankjes verkochten. Ik pakte een biertje van mijn moeder aan, maar zij zei dat ik geen bier kon drinken. Dus nam ik een glas appelmoes.\n\nToen kwamen we aan de beurt om op de olifant te rijden. De man die het dier bestuurde was heel vol en had twee lange vingers, hij gebruikte ze om de stang vast te houden. We moesten ons in een zakketting vastbinden, zodat we niet van de olifant afvallen als hij bewoog. En dan ging we op weg!"",""question"":""Wat neemt de hoofdpersoon?"",""options"":[""Een biertje"",""Een glas appelmoes"",""Appelsap""],""correct"":""B""},{""id"":24,""source"":""sftw"",""text"":""Er was eens een meisje dat heette Luna. Ze had een vriendje genaamd Max. Het waren de beste vrienden van heel de klas.\n\nEén keer gingen ze op avontuur in het bos. Ze zochten naar draakjes. Die leken groot en fel te glimmen. Maar plotseling hoorden ze een luide schreeuw.\n\nIemand was gewond! Luna en Max renden snel om te zien wie dat was. En toen zagen ze hem: een man die op de grond lag te gillen van pijn.\n\nDe man had een enorme snee in zijn been. Hij was echt heel erg gewond. Hij vertelde dat hij door een houtje gesnapt en gevallen was.\n\nLuna keek naar Max en zocht hem een hand. \""We moeten wegrende, Max,\"" zei ze meteen. Ze draafden beiden weg om te helpen halen van de dokter."",""question"":""Waar zochten Max en Luna naar?"",""options"":[""Houtjes"",""Draakjes"",""Vriendjes""],""correct"":""B""},{""id"":85,""source"":""sftw"",""text"":""Er was eens een prinsesje die erg verlegen was. Zij ging naar de stad en ontmoette er een leuk meisje dat haar uitnodigde om mee te gaan spelen op de speelplaats.\n\nHet meisje zei: \""Kom, laten we hebben lol!\"" En daarmee begon hun spel. Ze renden rond, gooiden steentjes in het water en maakten geluiden alsof ze een klein dier waren. De prinsesje was zo blij dat ze haar verlegenheid kwijt was.\n\nDe volgende dag ging de prinsesje nog eens naar de stad om met haar nieuwe vriendin op bezoek te gaan. Ze gingen naar de speelplaats, waar weer veel kinderen waren die samen wilden spelen. En met een glimlach en een vrolijk gezicht voegde de prinsesje zich aan het spel toe.\n\nDe andere kinderen zagen dat ze gelukkig was, dus stelden ze haar niet teleur en lieten hen beiden geweldig spelletjes doen om lol van te hebben."",""question"":""Waar speelden de kinderen?"",""options"":[""Het park"",""De speeltuin"",""De speelplaats""],""correct"":""C""},{""id"":99,""source"":""sftw"",""text"":""We waren op een feestje van onze vriend Timmy. Hij had een enorme tuin met veel gras en één keer per jaar kwam er een groep koeien om te spelen.\n\nDe koeien zagen er heel leuk uit, ze hadden allemaal roze banden om hun hoefjes. Ze stampten in het gras en maakten er een hoop modder van.\n\nIk had een boterham met kaas meegenomen en net toen ik hem ging eten, kwamen de koeien naar ons toe en wilden ze ook wat. Maar we mochten niet aan hun zijde blijven, want Timmy had gezegd dat ze alleen mochten spelen als hij toestemming gaf.\n\nEr was zelfs een bestuurbare auto die over het gras reed, maar ik denk dat de koeien het leuksten vonden om met de ballen te gooien. Ze waren zo hard en bleven heel lang in de lucht hangen!"",""question"":""Wat zat er op de boterham"",""options"":[""Pindakaas"",""Speculoos"",""Kaas""],""correct"":""C""},{""id"":86,""source"":""sftw"",""text"":""Er was eens een koningin die heel veel boeken had. Ze woonde in een kasteel en daar wilden ze allemaal graag zijn. De koningin las iedere dag in de zon op het grasveld voor het slot.\n\nMaar dan kwam er een kleintje, een klein meisje dat niet zo goed kon lopen. En toen moest ze ineens een figurant zijn in een film die bij het slot werd gedraaid. Ze deed maar wat en liep rondjes om de camera heen. Echt was ze een beetje bang.\n\nToen kwam er opeens een olifant op het grasveld, want hij moest ook nog even voor de camera staan. Hij stak zijn neus in de zak van het klein meisje en toen moest ze hem naar buiten trekken.\n\nDe koningin lachte hard om die olifant en dat kleine meidje, en nu was iedereen zo vrolijk!"",""question"":""Welk dier kwam op het grasveld?"",""options"":[""Een konijn"",""Een olifant"",""Een tijger""],""correct"":""B""},{""id"":46,""source"":""sftw"",""text"":""Er waren eens drie vrienden die heerlijk wilden spelen in de bossen achter hun huis! Ze gingen op avontuur met een klein hondje dat ze 'Bolletje' noemden.\n\nToen ze opeens een enorm olifant zagen, beukten de vrienden op elkaar. \""Wauw!\"" riepen ze in koor. Bolletje begon te janken en rende weg.\n\nDe drie vrienden bleven achter en besloten om de olifant zijn nieuwe thuis te laten zien. Ze brachten hem naar het huis van hun buurman, waar hij een gigantische douche zag staan die speciaal voor olifanten was gemaakt!\n\nBolletje kwam terug en zei dat hij zich goed had vermaakt op de speeltuin van de buurman. En zo hadden de vrienden een nieuwe vriend gekregen, een dikke, vette olifant met een dikke, blinde staart!"",""question"":""Wat zag de olifant staan in het huis van de buurman?"",""options"":[""Een douche"",""Een emmer"",""Een schilderij""],""correct"":""A""},{""id"":125,""source"":""chiscor"",""text"":""En er was eens een boerderij en op die boerderij woonden twee kindjes.\nEn het was een beetje een vreemde boerderij want de schapen legden eieren.\nEn de kippen moesten gemolken worden.\nEn de koeien moesten vermoord worden voor het vlees en van de varkens kwam wol van de schapen.\nMaar dat was dus een beetje vreemd.\nMaar die kinderen die moesten de varkens gaan scheren.\nWant ze zaten helemaal vol met wol.\nMaar de biggetjes waren weg.\nDus ze moesten de biggetjes gaan zoeken.\nDus ze keken bij de eieren en ze keken bij het vet.\nEn ze keken ook bij de kippen en bij de koeien en bij de schapen.\nMaar nergens waren de biggetjes.\nDus toen besloten ze het maar tegen de boerin te gaan zeggen.\nMaar ze wisten al wel dat die niet zo blij zou zijn.\nDus besloten ze het niet te zeggen en zichzelf op te sluiten in de schuur.\nMaar in die schuur zaten de biggetjes maar die waren bang om geschoren te worden.\nDus hebben ze ze toen geschoren.\nEn dat was het einde."",""question"":""Waar waren de biggetjes uiteindelijk?"",""options"":[""In de schuur"",""Bij de boerin"",""Ze zijn niet gevonden""],""correct"":""A""},{""id"":154,""source"":""chiscor"",""text"":""Er was eens een cheetah.\nDie in Egypte was en die ging bovenop de piramide plassen en poepen.\nEn toen waren al die mensen onder met plas en poep. \nEn toen ging hij ook nog op andere piramides plassen en poepen.\nEn toen ging hij ook nog in een rivier poepen en plassen en echt overal ter wereld plassen en poepen.\n"",""question"":""Waar ging de cheetah poepen?"",""options"":[""Op een huis"",""Op een river"",""Op een piramide, rivier en overal ter wereld""],""correct"":""C""},{""id"":148,""source"":""chiscor"",""text"":""Dan was ik aan het duiken.\nDan was er een shark met een staart.\nDan was de shark lief.\nNu was ik aan het duiken.\nNu was de shark ook aan het duiken.\n Naar de schatkist zoeken.\nDaar was ik schatkist opendoen.\nDaar hadden we sleutel.\nNu was ik slapen met de slaapdekentje.\nNu was ik aan het slapen.\nNu was er de visjes aan het eten.\nDat vind ik lekker.\nOok een shark lekker.\nNu waren we aan het slapen.\nIk heb ook een shark speelgoedje.\n"",""question"":""Wat waren ze aan het zoeken?"",""options"":[""Een sleutel"",""Een schatkist"",""Een lijk""],""correct"":""B""},{""id"":137,""source"":""chiscor"",""text"":""Er was een keer een eenhoorn en die was helemaal alleen.\nEn er waren geen eenhoorns.\nEr waren geen eenhoorns.\nEn toen zag de prinses dat er een eenhoorntje die een babyeenhoorntje ze moeder kwijt had en dat was het."",""question"":""Wie had het babyeenhoorntje gezien?"",""options"":[""Een andere eenhoorn"",""De prinses"",""De moeder""],""correct"":""B""},{""id"":4,""source"":""sftw"",""text"":""Ik ga zo beginnen met mijn verhaal!\n\nEr leefde eens een kleine drakentje dat woonde in een klein huisje op een berg. Hij heette Flikker en hij was heel lief, maar ook heel dom. Want zomaar ineens kon hij flinke vlammen uit zijn staart schieten! En als hij dan boos werd, sprongen er vuurkwikkertjes uit zijn oren!\n\nFlikker wilde altijd met de vogels spelen en ze noemden hem de kleinste drakentje van de berg. Hij was heel bang voor de grote wolf die in de buurt woonde. Die kauwde altijd op de bomen.\n\nMaar Flikker durfde niet naar beneden te gaan, omdat hij vreesde dat de wolf hem zou opeten. Want een drakentje moet sterk zijn en dan is het veilig! En zo bleef Flikker maar boven op de berg wonen met zijn vogelsvrienden.\n\nMaar toen kwam er een heldendier, een konijn met een helm, die de wolf versloeg. En daarna was alles veilig! En Flikker ging eindelijk naar beneden om te spelen met de andere dieren in de vallei!"",""question"":""Wie versloeg de wolf?"",""options"":[""Een draak"",""Een konijn"",""Een vos""],""correct"":""B""},{""id"":163,""source"":""chiscor"",""text"":""Een grote tafel.\nEen hele grote tafel.\nEn hij is een witte stoel hij is alleen.\nEn hij heeft super veel eten toetjes.\nEn soorten dingen en dan.\nEn hij eet alles en hij was een ballon op de lucht.\n"",""question"":""Wat voor object is de hoofdpersoon aan het begin van het verhaal?"",""options"":[""Een tafel"",""Een keuken"",""Een stoel""],""correct"":""C""},{""id"":73,""source"":""sftw"",""text"":""Er was eens een prinses die in een kasteel woonde. Zij had altijd al graag vliegen willen leren.\n\nEen dag kwam er een oude tovenaar langs op bezoek. Hij stopte zijn hand in zijn zak en haalde er een kleine Kwakacolaflesje uit.\n\nDe prinses begon de fles te openen, maar de tovenaar zei: \""Nee, nee! Je moet eerst deze speciale bril opzetten. Als je dat doet word je blind voor het goede en de kwade!\""\n\nDe prinses deed de bril op, stootte een luid geluid en werd plotseling heel klein en kon vliegen. De tovenaar was heel blij en zei: \""Nu kun je echt leren vliegen!\"" En samen vlogen ze door het kasteel!"",""question"":""Wat moest de prinses opzetten?"",""options"":[""Een speciale hoed"",""Een speciale bril"",""Een speciale paraplu""],""correct"":""B""},{""id"":68,""source"":""sftw"",""text"":""Er was eens een klein jongetje dat wilde gaan vliegen! Hij ging naar het vliegveld en kocht een kleine bestuurbare auto om in te vliegen. Hij heette de \""Vogel\"" en hij kon zo hoog gaan als hij maar wilde.\n\nHij vloog boven de stad, over de huizen, de boomtoppen en zelfs over het water! Iedereen keek naar hem op met open mond: \""Wauw!\"" zeiden ze. Maar toen hoorde hij de stem van zijn moeder roepen: \""Kom binnen kind, het is tijd voor het eten!\""\n\nHij vloog terug naar huis en landde zachtjes in de tuin. Hij sprong uit de Vogel en riep: \""Mam, mam! Ik ben terug!\"" Zijn moeder glimlachte en zei: \""Goed zo, kind. Maar volgende keer mag je eerst eerst even luisteren naar wat ik zeg.\"""",""question"":""Wat was de naam van de bestuurbare auto?"",""options"":[""Het Paard"",""De vliegende kat"",""De Vogel""],""correct"":""C""},{""id"":193,""source"":""chiscor"",""text"":""We waren met hele school naar Toverland gegaan. \nToen gingen wij  met een groep ergens naar toe naar een soort waterglijbaan. \nToen gingen wij in die boomstam en het was heel hoog. \nWij gingen glijden ik zei schreeuwend stop. \nIk dacht dat ik niet bang was maar ik was wel een beetje bang. \n Dacht ook dat ze bang was maar ze vond het leuk.\n"",""question"":""In welke attractie gingen de hoofdpersonen?"",""options"":[""Een achtbaan"",""Een waterglijbaan"",""Een zweefmolen""],""correct"":""B""},{""id"":153,""source"":""chiscor"",""text"":""Ik heb een babykat en hij springt op mijn gezicht. \nEn als ik roep dan komt hij hier en dan gaat hij wiebelen en dan rent hij zo snel.\n"",""question"":""Wat voor huisdier heeft de verteller?"",""options"":[""Een babykat"",""Een hamster"",""Een hond""],""correct"":""A""}]",,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,Complete
+2026-05-17 10:53:25,2026-05-17 11:25:36,0,85.223.44.191,100,1930,1,2026-05-17 11:25:36,R_2QF6eJ0hWScqdYT,,,,,52.1393,4.4557,anonymous,EN,1,2,2,1,3,3,2,2,5,2,4,4,3,4,1,4,4,3,1,1,2,2,2,2,5,3,1,3,3,3,2,3,5,3,1,1,2,2,2,2,5,1,5,5,2,2,2,3,3,1,3,3,3,2,2,2,4,3,4,4,2,2,2,2,4,2,5,5,1,1,1,2,3,1,3,3,2,2,2,2,4,3,4,4,2,3,1,3,4,3,2,2,2,2,2,2,4,1,4,4,2,2,1,2,4,2,4,4,1,1,1,1,4,2,4,3,3,2,2,2,5,2,3,4,2,2,2,2,5,3,3,4,2,2,2,2,5,3,4,4,2,2,2,2,5,2,1,1,2,2,2,2,5,1,4,3,2,2,2,2,5,1,2,3,2,2,2,2,5,3,2,3,1,2,2,1,5,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,5,2,2,3,2,2,2,2,5,1,1,1,2,2,1,1,5,2,3,2,2,2,2,2,3,3,5,4,2,2,2,2,3,2,2,2,2,2,2,2,5,1,2,2,2,2,2,2,4,"Ik heb een babykat en hij springt op mijn gezicht. 
+En als ik roep dan komt hij hier en dan gaat hij wiebelen en dan rent hij zo snel.
+",Wat voor huisdier heeft de verteller?,Een babykat,Een hamster,Een hond,A,153,,Een babykat,,31,yes,"[{""id"":40,""source"":""sftw"",""text"":""Er was eens een kleine jongen die heel veel wilde schrijven. Hij had een speciale pen en een mooi boek. Op de veldag moest hij naar buiten om te spelen. Maar hij liep door de poel in zijn schoenen.\n\nHij ging met zijn vriendjes op pad, ze roepend en zingend. Ze kwamen bij het dorp waar iedereen wou dat de vogels niet meer kregen door de jacht van de mensen. Een oude man gaf hen een boekje om lezen over de duif.\n\nDe jager had een kapotte geweer, hij was erg verdrietig want hij wilde nu net naar de stad gaan om nieuwe schoenen te kopen. De jongens zagen hem wel en kwamen erbij staan. Ze keken naar het boekje van de oude man om meer over de duif te lezen.\n\nZe gingen allemaal op een rots zitten, ze hadden niets beters te doen dan zitten lezen over die kleine vogel."",""question"":""Waar ging het boekje over?"",""options"":[""De jager"",""De duif"",""Het geweer""],""correct"":""B""},{""id"":183,""source"":""chiscor"",""text"":""Er was eens een heks.\nEn die moest voor de eerste keer op een bezemsteel vliegen.\nAlleen ze viel in het water.\nEn toen kwam er een wolf aan.\nEn toen ging die heks gillen want ze dacht dat de wolf niet lief was.\nMaar de wolf was wel lief.\nEn ze hielp hem uit het water.\nEn toen had de wolf de heks afgedroogd.\nEn toen gingen ze samen barbecueën.\nDat was het."",""question"":""Wat deden de heks en de wolf samen?"",""options"":[""Kinderen opeten"",""Barbecueën"",""Stelen""],""correct"":""B""},{""id"":71,""source"":""sftw"",""text"":""Er was eens een koning. Hij had een prinses die heel lief was. De prinses hield van zoetigheden en ging altijd naar de markt om suiker en snoep te halen.\n\nOp één dag kwam er een mooie koninklijke koets langs de straat gereden, ze waren op weg naar de grot waar de koning zijn favoriete zanggroep had uitgenodigd om te zongen. Maar plotseling, de koninklijke koets stopte.\n\nDe prinses was heel benieuwd en vroeg aan de kruier wat er gebeurde. De kruier zei dat de paarden een plat stuk weg hadden gereden op de markt.\n\nToen de prinses dit hoorde, begon zij te lachen en ging meteen naar de markt om de paarden te helpen. Ze bond er touw omheen zodat ze weer konden rijden. En toen ging alles goed als vanouds..."",""question"":""Waarom ging de prinses naar de markt?"",""options"":[""Om de koning te helpen"",""Om de kruier te helpen"",""Om de paarden te helpen""],""correct"":""C""},{""id"":106,""source"":""chiscor"",""text"":""Mijn verhaal heet Oude Rode Ogen.\nTobias werd een keer wakker.\nTobias trouwens woont in een landhuis.\nEn woont midden in de het bos.\nEn het was  nacht.\nEn er was een storm.\nTobias werd wakker omdat hij had een nachtmerrie.\nHij had een nachtmerrie over een wolf.\nOver een weerwolf.\nDie zat achter hem aan in het bos.\nToen schreeuwde hij naar zijn moeder.\nRende hij naar z'n moeder.\nEn zijn moeder zei dat het gewoon een nachtmerrie was.\nDus ging hij weer slapen.\nToen hoorde Tobias gehuil.\nToen ging Tobias naar buiten om te checken.\nToen zag hij zijn vriend daar ook staan want die woont naast hem.\nEn ze gingen samen het bos in om te kijken.\nTobias hoorde weer het gehuil maar zijn vriend niet.\nTobias rende maar zijn vriend niet.\nDus uiteindelijk rende hij heel hard en hij zag zijn vriend niet meer en hij hoorde zijn vriend niet meer.\nToen hoorde hij een gil van zijn vriend.\nZijn vriend heet Thomas.\nThomas was weg.\nThomas was er niet meer.\nDit deed hem denken aan een legende uit het dorp naast hem.\nZe zeiden dat als je met twee personen het bos ingaat.\nDat de ene weggaat en dat de ander goed erin blijft.\nZe zeiden dat dat het plan was van Oude Rode Ogen.\nEen weerwolf met rode ogen.\nToen zag Tobias ook een grot.\nHij ging daar slapen want hij was heel erg moe.\nToen was het weer ochtend.\nMaar nee toch niet.\nHet was niet ochtend.\nHij hoorde opeens gegrom.\nHij dacht dat het ochtend was maar dat was niet zo.\nToen hoorde opeens hij gegrom.\nHij keek naar zijn linkerzijde.\nEn hij zag een grote weerwolf met rode ogen.\nHet einde."",""question"":""Hoe heet de vriend van Tobias?"",""options"":[""Mark"",""Tom"",""Thomas""],""correct"":""C""},{""id"":129,""source"":""chiscor"",""text"":""Er was eens een tweehoorn.\nEn een eekhoorn die doodging maar dat maakt niks uit want dat was maar een figurant.\nEn die tweehoorn die voelde zich heel erg als een mislukking.\nWant dat was hij ook want eigenlijk was het gewoon een wit paard met horens en vleugels.\nEn op een dag vloog hij naar een stad.\nDus toen daar zag hij een heel groot huis met een andere eekhoorn erin.\nEn die eekhoorn heettte Roderick.\nEn de tweehoorn heette Pjotr.\nEn Pjotr die zag Roderick voor het raam van het huis staan.\nDus Roderick ging kwetteren kwetter kwetter.\nDus Pjotr die bestormde het huis met z'n horens.\nDus die vloog het huis in maar Roderick zag het allemaal gebeuren.\nEn het was een vliegende eekhoorn dus die vloog op de horens van Pjotr.\nMaar hij overleefde het gelukkig.\nMaar toen kwam de ambulance wat eigenlijk een nijlpaard was genaamd Harry.\nEn Harry die nam Roderick mee naar het ziekenhuis.\nEn daar zat dokter Olifant genaamd Bladblazer Bert.\nEn Bladblazer Bert die pakte Roderick op en rende het ziekenhuis uit en legde hem in een mandje in een rivier.\nEn een rivier die stroomde naar het land van de tweehoorns.\nWaar Pjotr ook weer terug heen was gegaan.\nEn Roderick die viel ineens van de waterval af op de grond.\nMaar toen viel Harry het nijlpaard op Roderick.\nOp de stenen.\nDus toen was Roderick geplet.\nEn hij was nu gewoon een hoopje appelmoes.\nMaar toen kwam Berend de olifantendokter aangerend.\nEn die rende naar Bladblazer Bert toe.\nEn Bladblazer Bert blies alle figuranten weg.\nOnder andere een eekhoorn maar die was al dood dus dat maakte niks uit.\nDus iedereen zat ineens in het land van de tweehoorns.\nMaar daar mocht eigenlijk niemand in komen.\nDus tweehoorn Pjotr die rende gauw weg.\nWant die wist dat het zijn schuld was dat hun in het land van de tweehoorns waren.\nDus die gauw wegrennen la la la.\nDus toen zat daar ineens dronken Donny.\nMet z'n flesje bier.\nEn die gooide het in het gezicht van Pjotr.\nEn Pjotr die viel om maar iedereen hoorde het.\nDus toen beschuldigden ze Pjotr en dronken Donny voor de misdaad.\nDus toen gingen dronken Donny en Pjotr in de gevangenis.\nEn platte Roderick Bladblazer Bert en Olifant Berend wat ook een dokter is.\nEn nijpaard Harry en de eekhoorn die dood was maar dat maakte niks uit.\nDie gingen weer terug naar hun eigen land en iedereen leefde nog lang en gelukkig."",""question"":""Wat voor dier is Bladblazer Bert?"",""options"":[""Een tweehoorn"",""Een eekhoorn"",""Een olifant""],""correct"":""C""},{""id"":67,""source"":""sftw"",""text"":""Er was eens een klein jongetje dat in een groot bos woonde. Hij had vrienden die allemaal net zo lang waren als boomstammen en hij kon ze niet zien omdat ze heel ver weg stonden. De vrienden van het kleine jongetje hadden gezegd dat er een reus zou komen om hen te helpen.\n\nDe reus was enorm groot en ging naar de andere kant van de wereld om met de grote leeuw te praten, maar toen hij terugkwam, ging de zon onder. De reus liep blote voeten door het bos en zijn vrienden waren bang omdat ze wisten dat als de reus niet op tijd terug zou komen, dan zouden ze allemaal verdwaald raken.\n\nMaar gelukkig kwam de reus op tijd terug om hen te helpen. Hij nam hun hand vast en samen gingen ze naar huis. Het kleine jongetje was erg blij dat zijn vrienden veilig waren gekomen en hij dankte de reus voor zijn hulp."",""question"":""Met wie ging de reus praten aan de andere kant van de wereld?"",""options"":[""De grote leeuw"",""De kleine zebra"",""De sterke beer""],""correct"":""A""},{""id"":190,""source"":""chiscor"",""text"":""Dit verhaal heet de wraak van de Lucas van Leyden de Vliet.\nDe wraak van Lucas van Leyden de Vliet.\nOp een dag was gewoon iedereen aan het werk en gewoon aan het rekenen of aan het spelen in de kleuters.\nEn toen opeens schoot het digibord aan en kwam er zo'n filmpje.\nEr is iemand geweest en die wil de hele wereld vernietigen en die begint in Nederland.\nEn langzaam dacht iedereen van  wat gebeurt hier?\nEn toen zeiden juffen en meesters van  we moeten hier wegwezen.\nMaar echt heel veel kinderen die zeiden van nee.\nWe gaan gewoon naar hem toe en we gaan hem in elkaar slaan.\nToen gingen ze echt een heel plan bedenken.\nMet allemaal mensen die verschillende dingen moesten doen.\nEn uiteindelijk was het plan klaar.\nHet waren echt heel veel vellen papier.\nVol.\nEn daar stond het plan op.\nToen gingen ze inderdaad naar hen toe.\nMaar toen kwamen er zo heel veel volwassenen van.\n Misschien moeten jullie dit niet doen.\nEen paar die gingen toen met hen mee en de rest zei ja dit plan gaat wel lukken en dat plan lukte.\nMaar dat dus echt.\nWant uiteindelijk overtuigden ze een paar volwassenen om mee te helpen.\nToen uiteindelijk gingen d'r een paar volwassenen.\nPlus best wat snelle kinderen.\nDie gingen ze afleiden.\nEcht allemaal.\nEn toen ging de rest van de kinderen ze van achteren hen aanvallen en ja toen lukte het.\nEn toen gingen ze allemaal de school herbouwen de hele tijd en toen.\nWas het einde.\n"",""question"":""Wat werd er op het digibord getoond?"",""options"":[""Een filmpje dat iemand de hele wereld wilde vernietigen"",""Een fimpje over bijen"",""Een filmpje over de watersnoodramp""],""correct"":""A""},{""id"":94,""source"":""sftw"",""text"":""Ik woonde in een klein dorpje in de buurt van een grote stad. In dat dorpje bestonden heel veel dieren, zoals konijnen, eenden en hondjes. De hondjes speelden altijd samen aan het eind van de straat met een hondjesspelletje.\n\nEen keer kwam er een vreemde hond naar ons dorpje toe. Hij was genaamd Bruno en hij had grote tanden. Hij keek heel erg argwanend rond, maar toen hij onze hondjes zag spelen, begon hij ook mee te doen aan het spel.\n\nDit werd een heel leuk spelletje! Alle honden speelden samen, zwaaiend met hun staarten en blaffend van plezier. Ik keek er zo naar kijken dat ik niet meer kon slapen die nacht. De volgende dag ging ik met mijn moeder terug naar de speelplaats om te zien of Bruno nog steeds daar was. En ja, hij was er nog! Hij bleef maar spelen bij ons en kwam eigenlijk nooit meer weg uit ons dorpje."",""question"":""Hoe heette de vreemde hond?"",""options"":[""Tom"",""Branco"",""Bruno""],""correct"":""C""},{""id"":180,""source"":""chiscor"",""text"":""Er was er eens een meisje.\nZe wou heel graag buiten spelen.\nHet mocht niet van haar moeder.\nZe ging toch naar buiten en toen zei haar moeder waar ga je naartoe?\nEn het meisje zei ik ga naar buiten.\nEinde."",""question"":""Wat wil het meisje?"",""options"":[""Binnen blijven"",""Buiten spelen"",""Gamen""],""correct"":""B""},{""id"":200,""source"":""chiscor"",""text"":""Er was een heks.\nMet een megawrat.\nEn hij was op een dag opengegaan.\nEn er was ook een kind bij.\nEn die stond daar en die wrat ging open.\nEn alles overstroomde bij dat kind.\nEn dat kind ging naar iemand toe om te vragen.\nMag ik even in een douche want de douche was onder de wratspul.\nEn toen zei de heks oh nee jij moet bij mij blijven.\nWant die heks wilde hem wel graag zelf hebben voor klussies.\nMaar dat jongetje ging toch weg en zei nee nee ik ga gewoon weg.\nEn hij rende en rende maar die heks had dus een bezemsteel en die heette Friti.\nEn daar ging hij dus op en die heks ging dus achter het jongetje aan.\nEn ze pakte hem en ze zei ziezo. \nEn de heks vond dat heel leuk want toen moest hij alleen nog maar duizend jaar klusjes voor de wrat.\nEn hij moest ook nog de wrat schoonmaken en de luier van de heks verschonen.\nEinde.\n"",""question"":""Hoe heet de bezemsteel van de heks?"",""options"":[""Friti"",""Bezemsteel"",""Wrat""],""correct"":""A""},{""id"":140,""source"":""chiscor"",""text"":""Er was eens een hond die z'n staart kwijt was.\nEn hij ging hem in het hele huis zoeken.\nMaar hij kon hem niet vinden dus hij ging ook buiten zoeken.\nKon die hem ook niet vinden.\nHij vond hem wel een keertje terug.\nEen kat had hem.\nWant die kat had ook z'n staart kwijt."",""question"":""Wie waren hun staart allemaal kwijt?"",""options"":[""De hond"",""De kat"",""De hond en de kat""],""correct"":""C""},{""id"":117,""source"":""chiscor"",""text"":""Ik ga een verhaal vertellen over de kleerkast.\nEr was eens een kleerkast met allemaal bontjassen erin.\nD'r waren ook vier kindertjes die verstoppertje aan het spelen waren in een heel groot landhuis waar de kleerkast stond.\nEr d'r was één jongetje dat ging zich verstoppen in de kleerkast.\nMaar hij was zelf ook slim genoeg om de deur niet op slot te doen.\nWant hij wou zichzelf niet opsluiten.\nEn hij liep dus helemaal naar achter.\nMaar hij kwam ineens in sneeuw.\nDus hij had het superkoud.\nHij pakte een bontjas.\nMaar hij ging kijken wat er in die sneeuw was.\nD'r was een hele grote grot naast waar hij uitkwam.\nEn hij ging d'r in.\nD'r was een heel groot wit monster dat hem probeerde op te eten.\nDus hij rende weg.\nMaar dat monster dat gaf niet op.\nDus dat volgde hem.\nNaar de kleerkast.\nZe gingen er toen in.\nDus toen was dat monster in die kamer waar die kleerkast stond.\nMaar die zoeker van dat verstoppertje die was er dus ook.\nEn die schrok zich een apenhoedje.\nMaar dat jongetje dat zich dus verstopt had in de kleerkast.\nDie zei help help help hij gaat mij opeten.\nEn die zoeker die zei wat is dit.\nEn die jongen zei ik heb geen idee maar help.\nZe renden de kleerkast in om zich te verstoppen.\nMaar dat monster dat brak de kleerkast.\nDus de uitgang naar dat andere land dat was er nu niet meer.\nEn het monster dat was dus nu voorgoed in dat huis."",""question"":""Wat is de kleur van het monster?"",""options"":[""Rood"",""Blauw"",""Wit""],""correct"":""C""},{""id"":81,""source"":""sftw"",""text"":""We waren op de speeltuin! Mijn beste vriendin, Sofie, had een prachtige hond, Luna. Ze was een dubbele witte Labradoodle met roze oorknopjes.\n\nEen dag gingen we met Luna naar het park. We wilden een feestje maken voor haar verjaardag, maar toen arriveerden onze vriendinnen Mia en Emma niet op tijd. Zij waren verdwaald in de supermarkt omdat ze geen kaart hadden om te kopen.\n\nIk had een idee: ik kon Luna leren dansen! We deden veel oefeningen en zo leerde Luna dubbele sprongen maken. Toen Mia en Emma eindelijk arriveerden, waren we met onze handtekening op de ballon klaar om het feestje te beginnen. Niemand verstond hoe mijn vader kon denken dat dit een goed idee was!"",""question"":""Wat stond er op de ballon?"",""options"":[""Hun handtekening"",""Hun gezicht"",""Hun vingerafdruk""],""correct"":""A""},{""id"":48,""source"":""sftw"",""text"":""Er waren twee broers die een eiland hadden. Ze wilden naar de andere kant van het eiland gaan, maar ze mochten niet alleen. Dus gingen ze met hun vriend. Op weg kwamen ze langs een stroompje water en zagen er drie varkens overvallen door de politie. Er waren twee agenten die probeerden de dikkere politieman te helpen. De broers vonden het leuk om naar toe te kijken, maar hun vriend wilde weg. Hij was bang voor de politie. Ze gingen verder op pad en kwamen bij een grote boom. Daar zat een vogel. Hij zei dat hij kon springen van tak tot tak. De broer met de rood haar wilde ook graag gaan, maar zijn vriend was nog steeds bang."",""question"":""Wat voor dier kwamen de broers tegen bij de boom?"",""options"":[""Een varken"",""Een vogel"",""Een schildpad""],""correct"":""B""},{""id"":21,""source"":""sftw"",""text"":""Ik ging naar de kermis met mijn vriendjes! We gingen op een olifant rijden. Die was super lang en had grote tanden. Toen we in de rij wachtten, zag ik een stalletje waar ze drankjes verkochten. Ik pakte een biertje van mijn moeder aan, maar zij zei dat ik geen bier kon drinken. Dus nam ik een glas appelmoes.\n\nToen kwamen we aan de beurt om op de olifant te rijden. De man die het dier bestuurde was heel vol en had twee lange vingers, hij gebruikte ze om de stang vast te houden. We moesten ons in een zakketting vastbinden, zodat we niet van de olifant afvallen als hij bewoog. En dan ging we op weg!"",""question"":""Wat neemt de hoofdpersoon?"",""options"":[""Een biertje"",""Een glas appelmoes"",""Appelsap""],""correct"":""B""},{""id"":24,""source"":""sftw"",""text"":""Er was eens een meisje dat heette Luna. Ze had een vriendje genaamd Max. Het waren de beste vrienden van heel de klas.\n\nEén keer gingen ze op avontuur in het bos. Ze zochten naar draakjes. Die leken groot en fel te glimmen. Maar plotseling hoorden ze een luide schreeuw.\n\nIemand was gewond! Luna en Max renden snel om te zien wie dat was. En toen zagen ze hem: een man die op de grond lag te gillen van pijn.\n\nDe man had een enorme snee in zijn been. Hij was echt heel erg gewond. Hij vertelde dat hij door een houtje gesnapt en gevallen was.\n\nLuna keek naar Max en zocht hem een hand. \""We moeten wegrende, Max,\"" zei ze meteen. Ze draafden beiden weg om te helpen halen van de dokter."",""question"":""Waar zochten Max en Luna naar?"",""options"":[""Houtjes"",""Draakjes"",""Vriendjes""],""correct"":""B""},{""id"":85,""source"":""sftw"",""text"":""Er was eens een prinsesje die erg verlegen was. Zij ging naar de stad en ontmoette er een leuk meisje dat haar uitnodigde om mee te gaan spelen op de speelplaats.\n\nHet meisje zei: \""Kom, laten we hebben lol!\"" En daarmee begon hun spel. Ze renden rond, gooiden steentjes in het water en maakten geluiden alsof ze een klein dier waren. De prinsesje was zo blij dat ze haar verlegenheid kwijt was.\n\nDe volgende dag ging de prinsesje nog eens naar de stad om met haar nieuwe vriendin op bezoek te gaan. Ze gingen naar de speelplaats, waar weer veel kinderen waren die samen wilden spelen. En met een glimlach en een vrolijk gezicht voegde de prinsesje zich aan het spel toe.\n\nDe andere kinderen zagen dat ze gelukkig was, dus stelden ze haar niet teleur en lieten hen beiden geweldig spelletjes doen om lol van te hebben."",""question"":""Waar speelden de kinderen?"",""options"":[""Het park"",""De speeltuin"",""De speelplaats""],""correct"":""C""},{""id"":99,""source"":""sftw"",""text"":""We waren op een feestje van onze vriend Timmy. Hij had een enorme tuin met veel gras en één keer per jaar kwam er een groep koeien om te spelen.\n\nDe koeien zagen er heel leuk uit, ze hadden allemaal roze banden om hun hoefjes. Ze stampten in het gras en maakten er een hoop modder van.\n\nIk had een boterham met kaas meegenomen en net toen ik hem ging eten, kwamen de koeien naar ons toe en wilden ze ook wat. Maar we mochten niet aan hun zijde blijven, want Timmy had gezegd dat ze alleen mochten spelen als hij toestemming gaf.\n\nEr was zelfs een bestuurbare auto die over het gras reed, maar ik denk dat de koeien het leuksten vonden om met de ballen te gooien. Ze waren zo hard en bleven heel lang in de lucht hangen!"",""question"":""Wat zat er op de boterham"",""options"":[""Pindakaas"",""Speculoos"",""Kaas""],""correct"":""C""},{""id"":86,""source"":""sftw"",""text"":""Er was eens een koningin die heel veel boeken had. Ze woonde in een kasteel en daar wilden ze allemaal graag zijn. De koningin las iedere dag in de zon op het grasveld voor het slot.\n\nMaar dan kwam er een kleintje, een klein meisje dat niet zo goed kon lopen. En toen moest ze ineens een figurant zijn in een film die bij het slot werd gedraaid. Ze deed maar wat en liep rondjes om de camera heen. Echt was ze een beetje bang.\n\nToen kwam er opeens een olifant op het grasveld, want hij moest ook nog even voor de camera staan. Hij stak zijn neus in de zak van het klein meisje en toen moest ze hem naar buiten trekken.\n\nDe koningin lachte hard om die olifant en dat kleine meidje, en nu was iedereen zo vrolijk!"",""question"":""Welk dier kwam op het grasveld?"",""options"":[""Een konijn"",""Een olifant"",""Een tijger""],""correct"":""B""},{""id"":46,""source"":""sftw"",""text"":""Er waren eens drie vrienden die heerlijk wilden spelen in de bossen achter hun huis! Ze gingen op avontuur met een klein hondje dat ze 'Bolletje' noemden.\n\nToen ze opeens een enorm olifant zagen, beukten de vrienden op elkaar. \""Wauw!\"" riepen ze in koor. Bolletje begon te janken en rende weg.\n\nDe drie vrienden bleven achter en besloten om de olifant zijn nieuwe thuis te laten zien. Ze brachten hem naar het huis van hun buurman, waar hij een gigantische douche zag staan die speciaal voor olifanten was gemaakt!\n\nBolletje kwam terug en zei dat hij zich goed had vermaakt op de speeltuin van de buurman. En zo hadden de vrienden een nieuwe vriend gekregen, een dikke, vette olifant met een dikke, blinde staart!"",""question"":""Wat zag de olifant staan in het huis van de buurman?"",""options"":[""Een douche"",""Een emmer"",""Een schilderij""],""correct"":""A""},{""id"":125,""source"":""chiscor"",""text"":""En er was eens een boerderij en op die boerderij woonden twee kindjes.\nEn het was een beetje een vreemde boerderij want de schapen legden eieren.\nEn de kippen moesten gemolken worden.\nEn de koeien moesten vermoord worden voor het vlees en van de varkens kwam wol van de schapen.\nMaar dat was dus een beetje vreemd.\nMaar die kinderen die moesten de varkens gaan scheren.\nWant ze zaten helemaal vol met wol.\nMaar de biggetjes waren weg.\nDus ze moesten de biggetjes gaan zoeken.\nDus ze keken bij de eieren en ze keken bij het vet.\nEn ze keken ook bij de kippen en bij de koeien en bij de schapen.\nMaar nergens waren de biggetjes.\nDus toen besloten ze het maar tegen de boerin te gaan zeggen.\nMaar ze wisten al wel dat die niet zo blij zou zijn.\nDus besloten ze het niet te zeggen en zichzelf op te sluiten in de schuur.\nMaar in die schuur zaten de biggetjes maar die waren bang om geschoren te worden.\nDus hebben ze ze toen geschoren.\nEn dat was het einde."",""question"":""Waar waren de biggetjes uiteindelijk?"",""options"":[""In de schuur"",""Bij de boerin"",""Ze zijn niet gevonden""],""correct"":""A""},{""id"":154,""source"":""chiscor"",""text"":""Er was eens een cheetah.\nDie in Egypte was en die ging bovenop de piramide plassen en poepen.\nEn toen waren al die mensen onder met plas en poep. \nEn toen ging hij ook nog op andere piramides plassen en poepen.\nEn toen ging hij ook nog in een rivier poepen en plassen en echt overal ter wereld plassen en poepen.\n"",""question"":""Waar ging de cheetah poepen?"",""options"":[""Op een huis"",""Op een river"",""Op een piramide, rivier en overal ter wereld""],""correct"":""C""},{""id"":148,""source"":""chiscor"",""text"":""Dan was ik aan het duiken.\nDan was er een shark met een staart.\nDan was de shark lief.\nNu was ik aan het duiken.\nNu was de shark ook aan het duiken.\n Naar de schatkist zoeken.\nDaar was ik schatkist opendoen.\nDaar hadden we sleutel.\nNu was ik slapen met de slaapdekentje.\nNu was ik aan het slapen.\nNu was er de visjes aan het eten.\nDat vind ik lekker.\nOok een shark lekker.\nNu waren we aan het slapen.\nIk heb ook een shark speelgoedje.\n"",""question"":""Wat waren ze aan het zoeken?"",""options"":[""Een sleutel"",""Een schatkist"",""Een lijk""],""correct"":""B""},{""id"":137,""source"":""chiscor"",""text"":""Er was een keer een eenhoorn en die was helemaal alleen.\nEn er waren geen eenhoorns.\nEr waren geen eenhoorns.\nEn toen zag de prinses dat er een eenhoorntje die een babyeenhoorntje ze moeder kwijt had en dat was het."",""question"":""Wie had het babyeenhoorntje gezien?"",""options"":[""Een andere eenhoorn"",""De prinses"",""De moeder""],""correct"":""B""},{""id"":4,""source"":""sftw"",""text"":""Ik ga zo beginnen met mijn verhaal!\n\nEr leefde eens een kleine drakentje dat woonde in een klein huisje op een berg. Hij heette Flikker en hij was heel lief, maar ook heel dom. Want zomaar ineens kon hij flinke vlammen uit zijn staart schieten! En als hij dan boos werd, sprongen er vuurkwikkertjes uit zijn oren!\n\nFlikker wilde altijd met de vogels spelen en ze noemden hem de kleinste drakentje van de berg. Hij was heel bang voor de grote wolf die in de buurt woonde. Die kauwde altijd op de bomen.\n\nMaar Flikker durfde niet naar beneden te gaan, omdat hij vreesde dat de wolf hem zou opeten. Want een drakentje moet sterk zijn en dan is het veilig! En zo bleef Flikker maar boven op de berg wonen met zijn vogelsvrienden.\n\nMaar toen kwam er een heldendier, een konijn met een helm, die de wolf versloeg. En daarna was alles veilig! En Flikker ging eindelijk naar beneden om te spelen met de andere dieren in de vallei!"",""question"":""Wie versloeg de wolf?"",""options"":[""Een draak"",""Een konijn"",""Een vos""],""correct"":""B""},{""id"":163,""source"":""chiscor"",""text"":""Een grote tafel.\nEen hele grote tafel.\nEn hij is een witte stoel hij is alleen.\nEn hij heeft super veel eten toetjes.\nEn soorten dingen en dan.\nEn hij eet alles en hij was een ballon op de lucht.\n"",""question"":""Wat voor object is de hoofdpersoon aan het begin van het verhaal?"",""options"":[""Een tafel"",""Een keuken"",""Een stoel""],""correct"":""C""},{""id"":73,""source"":""sftw"",""text"":""Er was eens een prinses die in een kasteel woonde. Zij had altijd al graag vliegen willen leren.\n\nEen dag kwam er een oude tovenaar langs op bezoek. Hij stopte zijn hand in zijn zak en haalde er een kleine Kwakacolaflesje uit.\n\nDe prinses begon de fles te openen, maar de tovenaar zei: \""Nee, nee! Je moet eerst deze speciale bril opzetten. Als je dat doet word je blind voor het goede en de kwade!\""\n\nDe prinses deed de bril op, stootte een luid geluid en werd plotseling heel klein en kon vliegen. De tovenaar was heel blij en zei: \""Nu kun je echt leren vliegen!\"" En samen vlogen ze door het kasteel!"",""question"":""Wat moest de prinses opzetten?"",""options"":[""Een speciale hoed"",""Een speciale bril"",""Een speciale paraplu""],""correct"":""B""},{""id"":68,""source"":""sftw"",""text"":""Er was eens een klein jongetje dat wilde gaan vliegen! Hij ging naar het vliegveld en kocht een kleine bestuurbare auto om in te vliegen. Hij heette de \""Vogel\"" en hij kon zo hoog gaan als hij maar wilde.\n\nHij vloog boven de stad, over de huizen, de boomtoppen en zelfs over het water! Iedereen keek naar hem op met open mond: \""Wauw!\"" zeiden ze. Maar toen hoorde hij de stem van zijn moeder roepen: \""Kom binnen kind, het is tijd voor het eten!\""\n\nHij vloog terug naar huis en landde zachtjes in de tuin. Hij sprong uit de Vogel en riep: \""Mam, mam! Ik ben terug!\"" Zijn moeder glimlachte en zei: \""Goed zo, kind. Maar volgende keer mag je eerst eerst even luisteren naar wat ik zeg.\"""",""question"":""Wat was de naam van de bestuurbare auto?"",""options"":[""Het Paard"",""De vliegende kat"",""De Vogel""],""correct"":""C""},{""id"":193,""source"":""chiscor"",""text"":""We waren met hele school naar Toverland gegaan. \nToen gingen wij  met een groep ergens naar toe naar een soort waterglijbaan. \nToen gingen wij in die boomstam en het was heel hoog. \nWij gingen glijden ik zei schreeuwend stop. \nIk dacht dat ik niet bang was maar ik was wel een beetje bang. \n Dacht ook dat ze bang was maar ze vond het leuk.\n"",""question"":""In welke attractie gingen de hoofdpersonen?"",""options"":[""Een achtbaan"",""Een waterglijbaan"",""Een zweefmolen""],""correct"":""B""},{""id"":153,""source"":""chiscor"",""text"":""Ik heb een babykat en hij springt op mijn gezicht. \nEn als ik roep dan komt hij hier en dan gaat hij wiebelen en dan rent hij zo snel.\n"",""question"":""Wat voor huisdier heeft de verteller?"",""options"":[""Een babykat"",""Een hamster"",""Een hond""],""correct"":""A""}]",,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2,0,2,0,0,0,0,Complete

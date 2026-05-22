@@ -1,4 +1,4 @@
-id,judge,grammaticality,coherence,originality,creativity,complexity,likeability,humanlikeness
+id,judge,grammaticaliteit,coherentie,orginaliteit,creativiteit,complexiteit,plezier,menselijkheid
 34,qwen2.5:14b,4.0,3.0,3.0,4.0,3.0,4.0,2.0
 34,mistral-small3.2,5.0,4.0,4.0,4.0,3.0,4.0,3.0
 95,qwen2.5:14b,4.0,3.0,3.0,5.0,2.0,4.0,3.0
